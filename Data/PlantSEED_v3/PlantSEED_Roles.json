@@ -8263,7 +8263,7 @@
         "kbase_id": "PS_role_235dd4"
     },
     {
-        "role": "Cytochrome b6-f complex iron-sulfur subunit PetC1 (Rieske iron sulfur protein EC 1.10.9.1)",
+        "role": "Cytochrome b6-f complex PetC, Rieske iron-sulfur protein (EC 7.1.1.6)",
         "include": true,
         "subsystems": [
             "Cytochrome_b6-f_complex_in_plants_(plastidial)_and_cyanobacteria"
@@ -8288,11 +8288,18 @@
                 ]
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_9ebea4"
+        "publications": [
+            "https://doi.org/10.1104/pp.103.024190",
+            "https://doi.org/10.1007/BF00425507",
+            "https://doi.org/10.1007/BF00337775"
+        ],
+        "kbase_id": "PS_role_9ebea4",
+        "cofactors": [
+            "Fe2S2"
+        ]
     },
     {
-        "role": "Cytochrome b6-f complex subunit IV (PetD)",
+        "role": "Cytochrome b6-f complex PetD, subunit IV (EC 7.1.1.6)",
         "include": true,
         "subsystems": [
             "Cytochrome_b6-f_complex_in_plants_(plastidial)_and_cyanobacteria"
@@ -8317,11 +8324,14 @@
                 ]
             }
         },
-        "publications": [],
+        "publications": [
+            "https://doi.org/10.1111/j.1432-1033.1981.tb06379.x",
+            "https://doi.org/10.1073/pnas.81.3.674"
+        ],
         "kbase_id": "PS_role_2c85d2"
     },
     {
-        "role": "Cytochrome b6-f complex subunit V (PetG)",
+        "role": "Cytochrome b6-f complex PetG, subunit V (EC 7.1.1.6)",
         "include": true,
         "subsystems": [
             "Cytochrome_b6-f_complex_in_plants_(plastidial)_and_cyanobacteria"
@@ -8346,7 +8356,10 @@
                 ]
             }
         },
-        "publications": [],
+        "publications": [
+            "https://doi.org/10.1104/pp.107.100131",
+            "https://doi.org/10.1016/j.resmic.2006.10.002"
+        ],
         "kbase_id": "PS_role_fe9759"
     },
     {
@@ -8375,7 +8388,7 @@
         "kbase_id": "PS_role_fc337f"
     },
     {
-        "role": "Cytochrome b6-f complex subunit, apocytochrome f",
+        "role": "Cytochrome b6-f complex PetA, apocytochrome f (EC 7.1.1.6)",
         "include": true,
         "subsystems": [
             "Cytochrome_b6-f_complex_in_plants_(plastidial)_and_cyanobacteria"
@@ -8400,11 +8413,17 @@
                 ]
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_ab8316"
+        "publications": [
+            "https://doi.org/10.1111/j.1469-8137.1951.tb05172.x",
+            "https://doi.org/10.1111/j.1432-1033.1981.tb06379.x"
+        ],
+        "kbase_id": "PS_role_ab8316",
+        "cofactors": [
+            "Fe"
+        ]
     },
     {
-        "role": "Cytochrome b6-f complex subunit, cytochrome b6",
+        "role": "Cytochrome b6-f complex PetB, cytochrome b6 (EC 7.1.1.6)",
         "include": true,
         "subsystems": [
             "Cytochrome_b6-f_complex_in_plants_(plastidial)_and_cyanobacteria"
@@ -8429,8 +8448,15 @@
                 ]
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_938fec"
+        "publications": [
+            "https://doi.org/10.1111/j.1432-1033.1981.tb06379.x",
+            "https://doi.org/10.1073/pnas.81.3.674"
+        ],
+        "kbase_id": "PS_role_938fec",
+        "cofactors": [
+            "Fe"
+        ],
+        "homomers": "2"
     },
     {
         "role": "Cytochrome b6-f complex subunit, cytochrome b6, putative",
@@ -32493,5 +32519,101 @@
         "publications": [
             "16297850"
         ]
+    },
+    {
+        "role": "Cytochrome b6-f complex PetL (EC 7.1.1.6)",
+        "include": false,
+        "subsystems": [
+            "Cytochrome_b6-f_complex_in_plants_(plastidial)_and_cyanobacteria"
+        ],
+        "classes": {
+            "Energy": {
+                "Cytochrome_b6-f_complex_in_plants_(plastidial)_and_cyanobacteria": [
+                    "PWY-101"
+                ]
+            }
+        },
+        "features": [
+            "Athaliana_TAIR10||ATCG00590"
+        ],
+        "reactions": [
+            "rxn20595"
+        ],
+        "localization": {
+            "d": {
+                "Athaliana_TAIR10||ATCG00590": [
+                    "PPDB"
+                ]
+            }
+        },
+        "publications": [
+            "https://doi.org/10.1104/pp.107.100131|https://doi.org/10.1016/j.resmic.2006.10.002"
+        ],
+        "predictions": {},
+        "sequences": {}
+    },
+    {
+        "role": "Cytochrome b6-f complex PetM (EC 7.1.1.6)",
+        "include": true,
+        "subsystems": [
+            "Cytochrome_b6-f_complex_in_plants_(plastidial)_and_cyanobacteria"
+        ],
+        "classes": {
+            "Energy": {
+                "Cytochrome_b6-f_complex_in_plants_(plastidial)_and_cyanobacteria": [
+                    "PWY-101"
+                ]
+            }
+        },
+        "features": [
+            "Athaliana_TAIR10||AT2G26500"
+        ],
+        "reactions": [
+            "rxn20595"
+        ],
+        "localization": {
+            "d": {
+                "Athaliana_TAIR10||AT2G26500": [
+                    "PPDB"
+                ]
+            }
+        },
+        "publications": [
+            "https://doi.org/10.1074/jbc.271.18.10667|https://doi.org/10.1093/pcp/pcab116"
+        ],
+        "predictions": {},
+        "sequences": {}
+    },
+    {
+        "role": "Cytochrome b6-f complex PetN (EC 7.1.1.6)",
+        "include": true,
+        "subsystems": [
+            "Cytochrome_b6-f_complex_in_plants_(plastidial)_and_cyanobacteria"
+        ],
+        "classes": {
+            "Energy": {
+                "Cytochrome_b6-f_complex_in_plants_(plastidial)_and_cyanobacteria": [
+                    "PWY-101"
+                ]
+            }
+        },
+        "features": [
+            "Athaliana_TAIR10||ATCG00210"
+        ],
+        "reactions": [
+            "rxn20595"
+        ],
+        "localization": {
+            "d": {
+                "Athaliana_TAIR10||ATCG00210": [
+                    "PPDB"
+                ]
+            }
+        },
+        "publications": [
+            "https://doi.org/10.1016/j.resmic.2006.10.002|https://doi.org/10.1104/pp.107.100131"
+        ],
+        "predictions": {},
+        "sequences": {}
     }
 ]

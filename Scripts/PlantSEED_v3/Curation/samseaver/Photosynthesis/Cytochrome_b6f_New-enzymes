@@ -1,0 +1,4 @@
+reaction	role	feature	publication	subsystem	class	pathway	localization	cofactor	homomers	include
+rxn20595	Cytochrome b6-f complex PetL (EC 7.1.1.6)	Athaliana_TAIR10||ATCG00590	https://doi.org/10.1104/pp.107.100131|https://doi.org/10.1016/j.resmic.2006.10.002	Cytochrome_b6-f_complex_in_plants_(plastidial)_and_cyanobacteria	Energy	PWY-101	d:Athaliana_TAIR10||ATCG00590:PPDB	''	1	exclude
+rxn20595	Cytochrome b6-f complex PetM (EC 7.1.1.6)	Athaliana_TAIR10||AT2G26500	https://doi.org/10.1074/jbc.271.18.10667|https://doi.org/10.1093/pcp/pcab116	Cytochrome_b6-f_complex_in_plants_(plastidial)_and_cyanobacteria	Energy	PWY-101	d:Athaliana_TAIR10||AT2G26500:PPDB	''	1	include
+rxn20595	Cytochrome b6-f complex PetN (EC 7.1.1.6)	Athaliana_TAIR10||ATCG00210	https://doi.org/10.1016/j.resmic.2006.10.002|https://doi.org/10.1104/pp.107.100131	Cytochrome_b6-f_complex_in_plants_(plastidial)_and_cyanobacteria	Energy	PWY-101	d:Athaliana_TAIR10||ATCG00210:PPDB	''	1	include
