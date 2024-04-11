@@ -10914,11 +10914,11 @@
         "role": "Ferredoxin-NADP(+) reductase (EC 1.18.1.2)",
         "include": true,
         "subsystems": [
-            "Photosystem_I"
+            "Reductants_in_plants"
         ],
         "classes": {
             "Energy": {
-                "Photosystem_I": [
+                "Reductants_in_plants": [
                     "PWY-101"
                 ]
             }
@@ -10948,8 +10948,13 @@
                 ]
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_1bec23"
+        "publications": [
+            "https://doi.org/10.1111/pce.13932"
+        ],
+        "kbase_id": "PS_role_1bec23",
+        "cofactors": [
+            "FAD"
+        ]
     },
     {
         "role": "Ferredoxin-dependent glutamate synthase (EC 1.4.7.1)",

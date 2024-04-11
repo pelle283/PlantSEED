@@ -145,6 +145,7 @@ Other	One-carbon_metabolism_in_plants	PWY-1881
 Other	Reductants_in_plants	THIOREDOX-PWY
 Other	Reductants_in_plants	PWY-4081
 Other	Reductants_in_plants	GLUT-REDOX-PWY
+Other	Reductants_in_plants	PWY-101
 Other	Nitrate_reduction_in_plants	PWY-381
 Other	Sulfur_metabolism_in_plants	SULFMETII-PWY
 Other	Sulfur_metabolism_in_plants	PWY-5326
