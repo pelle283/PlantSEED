@@ -22771,7 +22771,6 @@
             }
         },
         "features": [
-            "Athaliana_TAIR10||AT2G30570",
             "Athaliana_TAIR10||AT4G28660"
         ],
         "reactions": [
@@ -22779,10 +22778,6 @@
         ],
         "localization": {
             "d": {
-                "Athaliana_TAIR10||AT2G30570": [
-                    "PPDB",
-                    "AraCyc"
-                ],
                 "Athaliana_TAIR10||AT4G28660": [
                     "PPDB"
                 ],
@@ -32930,7 +32925,8 @@
         "localization": {
             "d": {
                 "Athaliana_TAIR10||AT2G30570": [
-                    "PPDB"
+                    "PPDB",
+                    "AraCyc"
                 ]
             }
         },
