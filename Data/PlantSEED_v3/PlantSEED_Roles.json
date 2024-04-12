@@ -8152,7 +8152,7 @@
         "kbase_id": "PS_role_e4fd5d"
     },
     {
-        "role": "Cytochrome b559 alpha chain (PsbE)",
+        "role": "Cytochrome b559 alpha chain PsbE",
         "include": true,
         "subsystems": [
             "Photosystem_II"
@@ -8179,11 +8179,20 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_659711"
+        "publications": [
+            "https://doi.org/10.1073/pnas.94.25.14173",
+            "https://doi.org/10.1073/pnas.84.1.109",
+            "https://doi.org/10.1007/bf02418756",
+            "https://febs.onlinelibrary.wiley.com/doi/abs/10.1016/0014-5793(84)80949-7",
+            "https://doi.org/10.1046/j.1432-1033.2003.03906.x"
+        ],
+        "kbase_id": "PS_role_659711",
+        "cofactors": [
+            "Fe"
+        ]
     },
     {
-        "role": "Cytochrome b559 beta chain (PsbF)",
+        "role": "Cytochrome b559 beta chain PsbF",
         "include": true,
         "subsystems": [
             "Photosystem_II"
@@ -8209,8 +8218,17 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_89ce59"
+        "publications": [
+            "https://doi.org/10.1073/pnas.94.25.14173",
+            "https://doi.org/10.1073/pnas.84.1.109",
+            "https://doi.org/10.1007/bf02418756",
+            "https://febs.onlinelibrary.wiley.com/doi/abs/10.1016/0014-5793(84)80949-7",
+            "https://doi.org/10.1046/j.1432-1033.2003.03906.x"
+        ],
+        "kbase_id": "PS_role_89ce59",
+        "cofactors": [
+            "Fe"
+        ]
     },
     {
         "role": "Cytochrome b6-f complex alternative Rieske iron sulfur protein PetC2",
@@ -22645,7 +22663,7 @@
         "kbase_id": "PS_role_9c636c"
     },
     {
-        "role": "Photosystem II 10 kDa phosphoprotein (PsbH)",
+        "role": "Photosystem II protein PsbH",
         "include": true,
         "subsystems": [
             "Photosystem_II"
@@ -22672,11 +22690,15 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
+        "publications": [
+            "https://doi.org/10.1021/bi00057a008",
+            "https://doi.org/10.1016/0014-5793(89)80570-8",
+            "https://doi.org/10.1002/j.1460-2075.1988.tb02892.x"
+        ],
         "kbase_id": "PS_role_5c046e"
     },
     {
-        "role": "Photosystem II 10 kDa protein PsbR",
+        "role": "Photosystem II protein PsbR",
         "include": true,
         "subsystems": [
             "Photosystem_II"
@@ -22703,7 +22725,11 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
+        "publications": [
+            "https://doi.org/10.1016/0014-5793(89)80517-4",
+            "https://doi.org/10.1016/S0021-9258(19)81479-5",
+            "https://doi.org/10.1074/jbc.M510600200"
+        ],
         "kbase_id": "PS_role_b970ea"
     },
     {
@@ -22732,8 +22758,8 @@
         "kbase_id": "PS_role_f54e19"
     },
     {
-        "role": "Photosystem II 13 kDa protein Psb28 (similar to PsbW)",
-        "include": true,
+        "role": "Photosystem II protein Psb28",
+        "include": false,
         "subsystems": [
             "Photosystem_II"
         ],
@@ -22763,12 +22789,17 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_dfe057"
+        "publications": [
+            "https://doi.org/10.1016/j.plaphy.2014.02.013"
+        ],
+        "kbase_id": "PS_role_dfe057",
+        "cofactors": [
+            " "
+        ]
     },
     {
         "role": "Photosystem II CP22 protein PsbS",
-        "include": true,
+        "include": false,
         "subsystems": [
             "Photosystem_II"
         ],
@@ -22794,11 +22825,19 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_8cc86b"
+        "publications": [
+            "https://doi.org/10.3390/ijms23052695",
+            "https://doi.org/10.1038/35000131",
+            "https://doi.org/10.1016/0014-5793(92)81463-V",
+            "https://doi.org/10.1016/0014-5793(92)81462-U"
+        ],
+        "kbase_id": "PS_role_8cc86b",
+        "cofactors": [
+            " "
+        ]
     },
     {
-        "role": "Photosystem II CP43 protein (PsbC)",
+        "role": "Photosystem II CP43 protein PsbC",
         "include": true,
         "subsystems": [
             "Photosystem_II"
@@ -22825,11 +22864,19 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_0c7024"
+        "publications": [
+            "https://doi.org/10.1016/0167-4838(92)90484-U",
+            "https://doi.org/10.1073/pnas.76.1.111",
+            "https://doi.org/10.1021/bi00236a009",
+            "https://doi.org/10.1098/rstb.2012.0066"
+        ],
+        "kbase_id": "PS_role_0c7024",
+        "cofactors": [
+            " "
+        ]
     },
     {
-        "role": "Photosystem II CP47 protein (PsbB)",
+        "role": "Photosystem II CP47 protein PsbB",
         "include": true,
         "subsystems": [
             "Photosystem_II"
@@ -22856,12 +22903,21 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_c0421a"
+        "publications": [
+            "https://doi.org/10.1016/0167-4838(92)90484-U",
+            "https://doi.org/10.1073/pnas.76.1.111",
+            "https://doi.org/10.1007/BF00021311",
+            "https://doi.org/10.1016/0167-4781(93)90132-w",
+            "https://doi.org/10.1002/j.1460-2075.1988.tb02892.x"
+        ],
+        "kbase_id": "PS_role_c0421a",
+        "cofactors": [
+            " "
+        ]
     },
     {
-        "role": "Photosystem II manganese-stabilizing protein (PsbO)",
-        "include": true,
+        "role": "Photosystem II manganese-stabilizing protein PsbO",
+        "include": false,
         "subsystems": [
             "Photosystem_II"
         ],
@@ -22891,12 +22947,18 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_c07c32"
+        "publications": [
+            "https://doi.org/10.1016/S0021-9258(18)98849-6",
+            "https://doi.org/10.1007/bf00018265"
+        ],
+        "kbase_id": "PS_role_c07c32",
+        "cofactors": [
+            " "
+        ]
     },
     {
         "role": "Photosystem II oxygen evolving complex protein PsbP",
-        "include": true,
+        "include": false,
         "subsystems": [
             "Photosystem_II"
         ],
@@ -22926,12 +22988,18 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_221485"
+        "publications": [
+            "https://doi.org/10.1016/0005-2728(82)90271-7",
+            "https://doi.org/10.1016/0005-2728(83)90227-X"
+        ],
+        "kbase_id": "PS_role_221485",
+        "cofactors": [
+            " "
+        ]
     },
     {
         "role": "Photosystem II oxygen evolving complex protein PsbQ",
-        "include": true,
+        "include": false,
         "subsystems": [
             "Photosystem_II"
         ],
@@ -22961,8 +23029,14 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_e93640"
+        "publications": [
+            "https://doi.org/10.1074/jbc.M603582200",
+            "https://doi.org/10.1016/0005-2728(82)90271-7"
+        ],
+        "kbase_id": "PS_role_e93640",
+        "cofactors": [
+            " "
+        ]
     },
     {
         "role": "Photosystem II protein Psb27",
@@ -22991,8 +23065,15 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_ad1b09"
+        "publications": [
+            "https://doi.org/10.1007/s11120-017-0450-3",
+            "https://doi.org/10.1073/pnas.1424040112",
+            "https://doi.org/10.1016/j.plaphy.2014.02.013"
+        ],
+        "kbase_id": "PS_role_ad1b09",
+        "cofactors": [
+            " "
+        ]
     },
     {
         "role": "Photosystem II protein PsbI",
@@ -23022,8 +23103,14 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_f1057a"
+        "publications": [
+            "https://doi.org/10.1074/jbc.M604888200",
+            "https://doi.org/10.1016/0014-5793(89)81446-2"
+        ],
+        "kbase_id": "PS_role_f1057a",
+        "cofactors": [
+            " "
+        ]
     },
     {
         "role": "Photosystem II protein PsbJ",
@@ -23052,8 +23139,14 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_69a769"
+        "publications": [
+            "https://doi.org/10.1046/j.1432-1033.2003.03906.x",
+            "https://doi.org/10.1021/bi0348260"
+        ],
+        "kbase_id": "PS_role_69a769",
+        "cofactors": [
+            " "
+        ]
     },
     {
         "role": "Photosystem II protein PsbK",
@@ -23082,8 +23175,17 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_95bde0"
+        "publications": [
+            "https://doi.org/10.1016/0014-5793(89)80570-8",
+            "https://doi.org/10.1074/jbc.M307537200",
+            "https://doi.org/10.1016/0014-5793(88)81280-8",
+            "https://doi.org/10.1093/pcp/pcq020",
+            "https://doi.org/10.1007/978-94-011-3953-3_232"
+        ],
+        "kbase_id": "PS_role_95bde0",
+        "cofactors": [
+            " "
+        ]
     },
     {
         "role": "Photosystem II protein PsbL",
@@ -23112,8 +23214,15 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_5a8fc6"
+        "publications": [
+            "https://doi.org/10.1046/j.1432-1033.2003.03906.x",
+            "https://doi.org/10.1021/bi0348260",
+            "https://doi.org/10.1016/0014-5793(89)81446-2"
+        ],
+        "kbase_id": "PS_role_5a8fc6",
+        "cofactors": [
+            " "
+        ]
     },
     {
         "role": "Photosystem II protein PsbM",
@@ -23142,12 +23251,18 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_151b2c"
+        "publications": [
+            "https://doi.org/10.1074/jbc.M608117200",
+            "https://doi.org/10.1016/0014-5793(89)80954-8"
+        ],
+        "kbase_id": "PS_role_151b2c",
+        "cofactors": [
+            " "
+        ]
     },
     {
         "role": "Photosystem II protein PsbN",
-        "include": true,
+        "include": false,
         "subsystems": [
             "Photosystem_II"
         ],
@@ -23172,8 +23287,13 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_a9ff8a"
+        "publications": [
+            "https://doi.org/10.1105/tpc.113.120444"
+        ],
+        "kbase_id": "PS_role_a9ff8a",
+        "cofactors": [
+            " "
+        ]
     },
     {
         "role": "Photosystem II protein PsbTn",
@@ -23206,8 +23326,16 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_a1c0a6"
+        "publications": [
+            "https://doi.org/10.1074/jbc.270.20.12197",
+            "https://doi.org/10.1104/pp.18.01251",
+            "https://doi.org/10.1093/oxfordjournals.pcp.a077628",
+            "https://doi.org/10.1016/0005-2728(86)90102-7"
+        ],
+        "kbase_id": "PS_role_a1c0a6",
+        "cofactors": [
+            " "
+        ]
     },
     {
         "role": "Photosystem II protein PsbV, cytochrome c550",
@@ -23236,7 +23364,7 @@
     },
     {
         "role": "Photosystem II protein PsbX",
-        "include": true,
+        "include": false,
         "subsystems": [
             "Photosystem_II"
         ],
@@ -23262,12 +23390,19 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_6c4a23"
+        "publications": [
+            "https://doi.org/10.1016/0014-5793(96)00658-8",
+            "https://doi.org/10.1016/0014-5793(89)80482-X",
+            "https://doi.org/10.1016/j.bbabio.2021.148519"
+        ],
+        "kbase_id": "PS_role_6c4a23",
+        "cofactors": [
+            " "
+        ]
     },
     {
         "role": "Photosystem II protein PsbY",
-        "include": true,
+        "include": false,
         "subsystems": [
             "Photosystem_II"
         ],
@@ -23293,8 +23428,14 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_74d1a2"
+        "publications": [
+            "https://doi.org/10.1007/s004380050870",
+            "https://doi.org/10.1016/j.bbabio.2016.05.004"
+        ],
+        "kbase_id": "PS_role_74d1a2",
+        "cofactors": [
+            " "
+        ]
     },
     {
         "role": "Photosystem II protein PsbZ",
@@ -23323,12 +23464,19 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_99d4ce"
+        "publications": [
+            "https://doi.org/10.1093/jexbot/51.suppl_1.375",
+            "https://doi.org/10.1105/TPC.010001",
+            "https://doi.org/10.1074/jbc.M101255200"
+        ],
+        "kbase_id": "PS_role_99d4ce",
+        "cofactors": [
+            " "
+        ]
     },
     {
         "role": "Photosystem II stability/assembly factor HCF136/Ycf48",
-        "include": true,
+        "include": false,
         "subsystems": [
             "Photosystem_II"
         ],
@@ -23353,8 +23501,13 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_a23110"
+        "publications": [
+            "https://doi.org/10.1016/j.plaphy.2014.02.013"
+        ],
+        "kbase_id": "PS_role_a23110",
+        "cofactors": [
+            " "
+        ]
     },
     {
         "role": "Plastidial ATP synthase alpha chain (EC 3.6.3.14)",
@@ -24122,7 +24275,7 @@
     },
     {
         "role": "Putative chaperon-like protein Ycf39 for quinone binding in Photosystem II",
-        "include": true,
+        "include": false,
         "subsystems": [
             "Photosystem_II"
         ],
@@ -24147,8 +24300,13 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_6baf80"
+        "publications": [
+            "https://doi.org/10.1016/s0014-5793(98)00089-1"
+        ],
+        "kbase_id": "PS_role_6baf80",
+        "cofactors": [
+            " "
+        ]
     },
     {
         "role": "Putative ubiquinol-cytochrome c reductase complex core protein I (subunit COR1)",
@@ -31351,7 +31509,7 @@
         "kbase_id": "PS_role_b483ec"
     },
     {
-        "role": "photosystem II protein D1 (PsbA)",
+        "role": "Photosystem II protein D1 PsbA",
         "include": true,
         "subsystems": [
             "Photosystem_II"
@@ -31378,11 +31536,19 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
-        "kbase_id": "PS_role_9bc471"
+        "publications": [
+            "https://doi.org/10.1007/s11120-013-9926-y",
+            "https://doi.org/10.1007/BF00014907",
+            "https://doi.org/10.1073/pnas.84.1.109",
+            "https://doi.org/10.1007/BF00315778"
+        ],
+        "kbase_id": "PS_role_9bc471",
+        "cofactors": [
+            "Fe"
+        ]
     },
     {
-        "role": "photosystem II protein D2 (PsbD)",
+        "role": "Photosystem II protein D2 PsbD",
         "include": true,
         "subsystems": [
             "Photosystem_II"
@@ -31409,7 +31575,11 @@
                 "rxn20632": []
             }
         },
-        "publications": [],
+        "publications": [
+            "https://doi.org/10.1007/s11120-013-9926-y",
+            "https://doi.org/10.1007/BF00014907",
+            "https://doi.org/10.1073/pnas.84.1.109"
+        ],
         "kbase_id": "PS_role_3c6f1d"
     },
     {
@@ -32633,7 +32803,9 @@
             }
         },
         "publications": [
-            "https://doi.org/10.1104/pp.107.100131|https://doi.org/10.1016/j.resmic.2006.10.002"
+            "https://doi.org/10.1104/pp.107.100131|https://doi.org/10.1016/j.resmic.2006.10.002",
+            "https://doi.org/10.1104/pp.107.100131",
+            "https://doi.org/10.1016/j.resmic.2006.10.002"
         ],
         "predictions": {},
         "sequences": {}
@@ -32665,7 +32837,9 @@
             }
         },
         "publications": [
-            "https://doi.org/10.1074/jbc.271.18.10667|https://doi.org/10.1093/pcp/pcab116"
+            "https://doi.org/10.1074/jbc.271.18.10667|https://doi.org/10.1093/pcp/pcab116",
+            "https://doi.org/10.1074/jbc.271.18.10667",
+            "https://doi.org/10.1093/pcp/pcab116"
         ],
         "predictions": {},
         "sequences": {}
@@ -32697,7 +32871,76 @@
             }
         },
         "publications": [
-            "https://doi.org/10.1016/j.resmic.2006.10.002|https://doi.org/10.1104/pp.107.100131"
+            "https://doi.org/10.1016/j.resmic.2006.10.002|https://doi.org/10.1104/pp.107.100131",
+            "https://doi.org/10.1016/j.resmic.2006.10.002",
+            "https://doi.org/10.1104/pp.107.100131"
+        ],
+        "predictions": {},
+        "sequences": {}
+    },
+    {
+        "role": "Photosystem II protein PsbTc",
+        "include": true,
+        "subsystems": [
+            "Photosystem_II"
+        ],
+        "classes": {
+            "Energy": {
+                "Photosystem_II": [
+                    "PWY-101"
+                ]
+            }
+        },
+        "features": [
+            "Athaliana_TAIR10||ATCG00690"
+        ],
+        "reactions": [
+            "rxn20632"
+        ],
+        "localization": {
+            "d": {
+                "Athaliana_TAIR10||ATCG00690": [
+                    "PPDB"
+                ]
+            }
+        },
+        "publications": [
+            "https://doi.org/10.1093/pcp/pch207",
+            "https://doi.org/10.1002/j.1460-2075.1994.tb06568.x"
+        ],
+        "predictions": {},
+        "sequences": {}
+    },
+    {
+        "role": "Photosystem II protein PsbW",
+        "include": true,
+        "subsystems": [
+            "Photosystem_II"
+        ],
+        "classes": {
+            "Energy": {
+                "Photosystem_II": [
+                    "PWY-101"
+                ]
+            }
+        },
+        "features": [
+            "Athaliana_TAIR10||AT2G30570"
+        ],
+        "reactions": [
+            "rxn20632"
+        ],
+        "localization": {
+            "d": {
+                "Athaliana_TAIR10||AT2G30570": [
+                    "PPDB"
+                ]
+            }
+        },
+        "publications": [
+            "https://doi.org/10.1111/j.1365-313x.2010.04429.x",
+            "https://doi.org/10.1073/pnas.92.19.8930",
+            "https://doi.org/10.1074/jbc.270.29.17588"
         ],
         "predictions": {},
         "sequences": {}
