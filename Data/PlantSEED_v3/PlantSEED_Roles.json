@@ -8171,7 +8171,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||ATCG00580": [
                     "PPDB",
                     "AraCyc"
@@ -8211,7 +8211,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||ATCG00570": [
                     "PPDB"
                 ],
@@ -8248,7 +8248,7 @@
             "rxn20595"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "rxn20595": []
             }
         },
@@ -8273,7 +8273,7 @@
             "rxn20595"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "rxn20595": []
             }
         },
@@ -8300,7 +8300,7 @@
             "rxn20595"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||AT4G03280": [
                     "PPDB"
                 ]
@@ -8336,7 +8336,7 @@
             "rxn20595"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||ATCG00730": [
                     "PPDB"
                 ]
@@ -8368,7 +8368,7 @@
             "rxn20595"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||ATCG00600": [
                     "PPDB"
                 ]
@@ -8398,7 +8398,7 @@
             "rxn20595"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "rxn20595": []
             }
         },
@@ -8425,7 +8425,7 @@
             "rxn20595"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||ATCG00540": [
                     "PPDB"
                 ]
@@ -8460,7 +8460,7 @@
             "rxn20595"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||ATCG00720": [
                     "PPDB"
                 ]
@@ -8494,7 +8494,7 @@
             "rxn20595"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "rxn20595": []
             }
         },
@@ -22682,7 +22682,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||ATCG00710": [
                     "PPDB",
                     "AraCyc"
@@ -22717,7 +22717,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||AT1G79040": [
                     "PPDB",
                     "AraCyc"
@@ -22750,7 +22750,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "rxn20632": []
             }
         },
@@ -22777,7 +22777,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||AT4G28660": [
                     "PPDB"
                 ],
@@ -22812,7 +22812,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||AT1G44575": [
                     "PPDB",
                     "AraCyc"
@@ -22851,7 +22851,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||ATCG00280": [
                     "PPDB",
                     "AraCyc"
@@ -22890,7 +22890,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||ATCG00680": [
                     "PPDB",
                     "AraCyc"
@@ -22931,7 +22931,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||AT3G50820": [
                     "PPDB"
                 ],
@@ -22972,7 +22972,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||AT1G06680": [
                     "PPDB",
                     "AraCyc"
@@ -23013,7 +23013,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||AT4G21280": [
                     "PPDB",
                     "AraCyc"
@@ -23053,7 +23053,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||AT1G03600": [
                     "PPDB"
                 ],
@@ -23090,7 +23090,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||ATCG00080": [
                     "PPDB",
                     "AraCyc"
@@ -23127,7 +23127,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||ATCG00550": [
                     "PPDB"
                 ],
@@ -23163,7 +23163,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||ATCG00070": [
                     "PPDB"
                 ],
@@ -23202,7 +23202,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||ATCG00560": [
                     "PPDB"
                 ],
@@ -23239,7 +23239,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||ATCG00220": [
                     "PPDB"
                 ],
@@ -23275,7 +23275,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||ATCG00700": [
                     "PPDB"
                 ],
@@ -23311,7 +23311,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||AT3G21055": [
                     "PPDB"
                 ],
@@ -23350,7 +23350,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "rxn20632": []
             }
         },
@@ -23377,7 +23377,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||AT2G06520": [
                     "PPDB",
                     "AraCyc"
@@ -23415,7 +23415,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||AT1G67740": [
                     "PPDB",
                     "AraCyc"
@@ -23452,7 +23452,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||ATCG00300": [
                     "PPDB"
                 ],
@@ -23489,7 +23489,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||AT5G23120": [
                     "PPDB"
                 ],
@@ -23523,7 +23523,7 @@
             "rxn08173"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||ATCG00120": [
                     "PPDB"
                 ]
@@ -23551,7 +23551,7 @@
             "rxn08173"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||ATCG00480": [
                     "PPDB"
                 ]
@@ -23579,7 +23579,7 @@
             "rxn08173"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||AT4G09650": [
                     "PPDB"
                 ]
@@ -23607,7 +23607,7 @@
             "rxn08173"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||ATCG00470": [
                     "PPDB"
                 ]
@@ -23636,7 +23636,7 @@
             "rxn08173"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||AT4G04640": [
                     "PPDB"
                 ],
@@ -24288,7 +24288,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||AT4G35250": [
                     "PPDB"
                 ],
@@ -31523,7 +31523,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||ATCG00020": [
                     "PPDB",
                     "AraCyc"
@@ -31562,7 +31562,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||ATCG00270": [
                     "PPDB",
                     "AraCyc"
@@ -32791,7 +32791,7 @@
             "rxn20595"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||ATCG00590": [
                     "PPDB"
                 ]
@@ -32824,7 +32824,7 @@
             "rxn20595"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||AT2G26500": [
                     "PPDB"
                 ]
@@ -32857,7 +32857,7 @@
             "rxn20595"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||ATCG00210": [
                     "PPDB"
                 ]
@@ -32890,7 +32890,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||ATCG00690": [
                     "PPDB"
                 ]
@@ -32923,7 +32923,7 @@
             "rxn20632"
         ],
         "localization": {
-            "d": {
+            "dy": {
                 "Athaliana_TAIR10||AT2G30570": [
                     "PPDB",
                     "AraCyc"
