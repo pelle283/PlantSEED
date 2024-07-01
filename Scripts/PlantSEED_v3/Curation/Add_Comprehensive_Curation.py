@@ -110,7 +110,9 @@ for protseq_file in glob.glob(search_path):
 # 8: cofactors
 # 9: homomers
 # 10: activate  
-					
+
+new_complex_rxns_dict = dict()
+
 search_path = os.path.join(cur_folder,"*-enzymes")
 for pwy_file in glob.glob(search_path):
 	with open(pwy_file) as pwy_file_handle:
@@ -170,6 +172,12 @@ for pwy_file in glob.glob(search_path):
 						if entry not in rxns_dict[role]:
 							roles_list[index]['reactions'].append(entry)
 							print("\t\t  new reaction:\t" + entry)
+
+				for entry in rxn:
+					if(entry not in new_complex_rxns_dict):
+						new_complex_rxns_dict[entry]=list()
+					if(role not in new_complex_rxns_dict[entry]):
+						new_complex_rxns_dict[entry].append(role)
 
 				####################################
 				# New feature
@@ -255,6 +263,10 @@ for pwy_file in glob.glob(search_path):
 				# Add reaction
 				for entry in rxn.split(';'):
 					new_role['reactions'].append(entry)
+					if(entry not in new_complex_rxns_dict):
+						new_complex_rxns_dict[entry]=list()
+					if(role not in new_complex_rxns_dict[entry]):
+						new_complex_rxns_dict[entry].append(role)
 
 				####################################
 				# Add genes
@@ -339,3 +351,26 @@ for pwy_file in glob.glob(search_path):
 with open(db_file,'w') as new_subsystem_file:
 	json.dump(roles_list,new_subsystem_file,indent=4)
 # print(json.dumps(roles_list,indent=4))
+
+## Update complexes
+with open("../../../Data/PlantSEED_v3/Complex/Consolidated_PlantSEED_Complex_Curation.json") as complex_file:
+	reactions_list = json.load(complex_file)
+
+print(json.dumps(new_complex_rxns_dict,indent=2))
+for curated_rxn in reactions_list:
+	rxn=curated_rxn.split('_')[0]
+	if(rxn not in new_complex_rxns_dict):
+		continue
+
+	print(rxn)
+
+	for role in reactions_list[curated_rxn]['roles']:
+		if(role['role'] not in new_complex_rxns_dict[rxn]):
+			print(rxn,role['role'],json.dumps(role,indent=2))
+#		if(role['role'] in updated_roles_dict):
+#			lst = updated_roles_dict[role['role']]
+#			role['role'] = lst[2]
+
+#with open("../../../../Data/PlantSEED_v3/Complex/Consolidated_PlantSEED_Complex_Curation.json",'w') as new_complex_file:
+#	json.dump(reactions_list,new_complex_file,indent=4)
+		
