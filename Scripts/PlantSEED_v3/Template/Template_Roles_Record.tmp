@@ -175,6 +175,7 @@ PS_role_6b9d36	Carbonic anhydrase (EC 4.2.1.1)
 PS_role_4afdd3	Catalase (EC 1.11.1.6)
 PS_role_abb903	Chalcone synthase (EC 2.3.1.74)
 PS_role_f29c8c	Chloride transport
+PS_role_30323d	Chlorophyll a synthase ChlG (EC 2.5.1.62)
 PS_role_82a97f	Cholinephosphate cytidylyltransferase (EC 2.7.7.15)
 PS_role_c95e71	Chorismate mutase III (EC 5.4.99.5)
 PS_role_5784e9	Chorismate synthase (EC 4.2.3.5)
@@ -187,6 +188,7 @@ PS_role_cc4fb0	CoA transport
 PS_role_0fac33	Coniferin beta-glucosidase (EC 3.2.1.126)
 PS_role_daea73	Coniferyl-alcohol and sinapyl-alcohol glucosyltransferase (EC 2.4.1.111)
 PS_role_cd73e7	Coniferyl-aldehyde dehydrogenase (EC 1.2.1.68)
+PS_role_dd5c0f	Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)
 PS_role_cb3e2e	Cyanoalanine nitrilase (EC 3.5.5.4)
 PS_role_969a13	Cyanogenic beta-glucosidase dhurrinase 2 (EC 3.2.1.-)
 PS_role_4730ff	Cystathionine beta-lyase (EC 4.4.1.8)
@@ -196,16 +198,19 @@ PS_role_814ea2	Cysteine desulfurase (EC 2.8.1.7), IscS subfamily
 PS_role_73a1b3	Cysteine desulfurase (EC 2.8.1.7), SufS subfamily
 PS_role_b1bcc1	Cysteine synthase (EC 2.5.1.47)
 PS_role_e4fd5d	Cysteine transport
-PS_role_659711	Cytochrome b559 alpha chain (PsbE)
-PS_role_89ce59	Cytochrome b559 beta chain (PsbF)
+PS_role_e7e776	Cytochrome 9450
+PS_role_659711	Cytochrome b559 alpha chain PsbE
+PS_role_89ce59	Cytochrome b559 beta chain PsbF
+PS_role_ab8316	Cytochrome b6-f complex PetA, apocytochrome f (EC 7.1.1.6)
+PS_role_938fec	Cytochrome b6-f complex PetB, cytochrome b6 (EC 7.1.1.6)
+PS_role_9ebea4	Cytochrome b6-f complex PetC, Rieske iron-sulfur protein (EC 7.1.1.6)
+PS_role_2c85d2	Cytochrome b6-f complex PetD, subunit IV (EC 7.1.1.6)
+PS_role_fe9759	Cytochrome b6-f complex PetG, subunit V (EC 7.1.1.6)
+PS_role_92ae7a	Cytochrome b6-f complex PetM (EC 7.1.1.6)
+PS_role_75dab0	Cytochrome b6-f complex PetN (EC 7.1.1.6)
 PS_role_4c5920	Cytochrome b6-f complex alternative Rieske iron sulfur protein PetC2
 PS_role_235dd4	Cytochrome b6-f complex alternative Rieske iron sulfur protein PetC3
-PS_role_9ebea4	Cytochrome b6-f complex iron-sulfur subunit PetC1 (Rieske iron sulfur protein EC 1.10.9.1)
-PS_role_2c85d2	Cytochrome b6-f complex subunit IV (PetD)
-PS_role_fe9759	Cytochrome b6-f complex subunit V (PetG)
 PS_role_fc337f	Cytochrome b6-f complex subunit VII (PetM)
-PS_role_ab8316	Cytochrome b6-f complex subunit, apocytochrome f
-PS_role_938fec	Cytochrome b6-f complex subunit, cytochrome b6
 PS_role_513dee	Cytochrome b6-f complex subunit, cytochrome b6, putative
 PS_role_ce05e0	Cytochrome c oxidase polypeptide I (EC 1.9.3.1)
 PS_role_f7cdd2	Cytochrome c oxidase polypeptide II (EC 1.9.3.1)
@@ -252,6 +257,7 @@ PS_role_85ba4b	Dihydroxy-acid dehydratase (EC 4.2.1.9)
 PS_role_d7a37c	Dihydroxyacetone transport
 PS_role_accafa	Dimethylallyl diphosphate transport
 PS_role_3f7d5e	Diphosphomevalonate decarboxylase (EC 4.1.1.33)
+PS_role_80824b	Divinyl (proto)chlorophyllide a 8-vinyl-reductase (EC 1.3.1.75)
 PS_role_c46d10	Enolase (EC 4.2.1.11)
 PS_role_75fb9c	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
 PS_role_1cd9f5	Ethanolamine N-methyltransferase, free-base-specific (EC 2.1.1.-)
@@ -269,6 +275,7 @@ PS_role_5ddd5d	Ferredoxin--nitrite reductase (EC 1.7.7.1)
 PS_role_9fe2d6	Ferredoxin--sulfite reductase (EC 1.8.7.1)
 PS_role_1bec23	Ferredoxin-NADP(+) reductase (EC 1.18.1.2)
 PS_role_72f2e3	Ferredoxin-dependent glutamate synthase (EC 1.4.7.1)
+PS_role_55ea81	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
 PS_role_3cb8f5	Ferulate-5-hydroxylase (EC 1.14.13.-)
 PS_role_5aa27a	Flavanone-3-hydroxylase (EC 1.14.13.21)
 PS_role_c902af	Flavin-containing glucosinolate S-oxygenase (no EC)
@@ -301,11 +308,14 @@ PS_role_e69b86	Glutamate N-acetyltransferase (EC 2.3.1.35)
 PS_role_d71e8d	Glutamate synthase [NADH] (EC 1.4.1.14)
 PS_role_c54864	Glutamate transport
 PS_role_8fcd53	Glutamate--prephenate aminotransferase (EC 2.6.1.79)
+PS_role_be145f	Glutamate-1-semialdehyde aminotransferase (EC 5.4.3.8)
 PS_role_bb2b8f	Glutamate-glyoxylate aminotransferase (EC 2.6.1.4)
 PS_role_41e45e	Glutaminase (EC 3.5.1.2)
 PS_role_363515	Glutamine amidotransferase chain of NAD synthetase
 PS_role_f73cee	Glutamine synthetase type II, eukaryotic (EC 6.3.1.2)
 PS_role_b04038	Glutamine transport
+PS_role_fe4f8b	Glutamyl-tRNA reductase (EC 1.2.1.70)
+PS_role_2f91cd	Glutamyl-tRNA synthetase (EC 6.1.1.17)
 PS_role_9af9d5	Glutathione S-transferase in Trp, Phe, Tyr-derived glucosinolates biosynthesis, predicted
 PS_role_08a707	Glutathione S-transferase in glucosinolates biosynthesis, predicted
 PS_role_b0ae27	Glutathione reductase (EC 1.8.1.7)
@@ -324,6 +334,7 @@ PS_role_8ddb54	Guanine phosphoribosyltransferase (EC 2.4.2.8)
 PS_role_b300dd	Guanylate kinase (EC 2.7.4.8)
 PS_role_c8a048	HMDHP transport
 PS_role_ddbce2	HS transport
+PS_role_fbcb5a	Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
 PS_role_481e11	Hexokinase (EC 2.7.1.1)
 PS_role_cf74b6	Histidine transport
 PS_role_b04198	Histidinol dehydrogenase (EC 1.1.1.23)
@@ -375,6 +386,7 @@ PS_role_85e536	L-lactate dehydrogenase (EC 1.1.1.27)
 PS_role_fcc5de	Lauryl-[acyl-carrier protein] hydrolase (EC 3.1.2.21)
 PS_role_98a46b	Leucine transport
 PS_role_d603ec	Light transport
+PS_role_7a5f1b	Light-dependent protochlorophyllide reductase (EC 1.3.1.33)
 PS_role_b7bb4a	Long-chain fatty acid omega-alcohol dehydrogenase (EC 1.1.1.-)
 PS_role_7033eb	Long-chain fatty acid omega-aldehyde dehydrogenase (EC 1.2.1.-)
 PS_role_87cc1b	Long-chain fatty acid omega-hydroxylase (EC 1.14.13.-)
@@ -401,6 +413,8 @@ PS_role_ef784f	Methylthioalkylmalate synthase (EC 2.3.3.-)
 PS_role_7cd262	Methylthioribose-1-phosphate isomerase (EC 5.3.1.23)
 PS_role_e76a12	Methylthioribulose-1-phosphate dehydratase (EC 4.2.1.109)
 PS_role_e9a6c0	Mevalonate kinase (EC 2.7.1.36)
+PS_role_3da1c2	Mg protoporphyrin IX monomethyl ester oxidative cyclase (aerobic) (EC 1.14.13.81)
+PS_role_909ab6	Mg-protoporphyrin O-methyltransferase (EC 2.1.1.11)
 PS_role_a7b687	Mitochondrial pyruvate carrier (TC 2.A.105)
 PS_role_6e20e6	Monooxygenase, catalyses 4-hydroxylation of indolyl-3-methyl glucosinolate (I3M) to 4OH-I3M
 PS_role_c22d1a	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
@@ -522,44 +536,60 @@ PS_role_2caef0	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
 PS_role_850f74	Phosphoribulokinase (EC 2.7.1.19)
 PS_role_6498e3	Phosphoserine aminotransferase (EC 2.6.1.52)
 PS_role_9c636c	Phosphoserine phosphatase (EC 3.1.3.3)
-PS_role_5c046e	Photosystem II 10 kDa phosphoprotein (PsbH)
-PS_role_b970ea	Photosystem II 10 kDa protein PsbR
+PS_role_39872b	Photosystem I PsaG
+PS_role_c02f1d	Photosystem I PsaN
+PS_role_228387	Photosystem I PsaO
+PS_role_8b7141	Photosystem I PsaP
+PS_role_1522c8	Photosystem I subunit II PsaD
+PS_role_03d895	Photosystem I subunit III precursor, plastocyanin (cyt c553) docking protein PsaF
+PS_role_739b26	Photosystem I subunit IV PsaE
+PS_role_1f0db8	Photosystem I subunit IX PsaJ
+PS_role_445157	Photosystem I subunit Ia PsaA
+PS_role_fb63ff	Photosystem I subunit Ib PsaB
+PS_role_f90d98	Photosystem I subunit VI PsaH
+PS_role_579899	Photosystem I subunit VII iron-sulfur center PsaC
+PS_role_bfed59	Photosystem I subunit VIII PsaI
+PS_role_4921cd	Photosystem I subunit X PsaK
+PS_role_8dbedd	Photosystem I subunit XI PsaL
 PS_role_f54e19	Photosystem II 12 kDa extrinsic protein (PsbU)
-PS_role_dfe057	Photosystem II 13 kDa protein Psb28 (similar to PsbW)
-PS_role_8cc86b	Photosystem II CP22 protein PsbS
-PS_role_0c7024	Photosystem II CP43 protein (PsbC)
-PS_role_c0421a	Photosystem II CP47 protein (PsbB)
-PS_role_c07c32	Photosystem II manganese-stabilizing protein (PsbO)
-PS_role_221485	Photosystem II oxygen evolving complex protein PsbP
-PS_role_e93640	Photosystem II oxygen evolving complex protein PsbQ
+PS_role_0c7024	Photosystem II CP43 protein PsbC
+PS_role_c0421a	Photosystem II CP47 protein PsbB
+PS_role_9bc471	Photosystem II protein D1 PsbA
+PS_role_3c6f1d	Photosystem II protein D2 PsbD
 PS_role_ad1b09	Photosystem II protein Psb27
+PS_role_5c046e	Photosystem II protein PsbH
 PS_role_f1057a	Photosystem II protein PsbI
 PS_role_69a769	Photosystem II protein PsbJ
 PS_role_95bde0	Photosystem II protein PsbK
 PS_role_5a8fc6	Photosystem II protein PsbL
 PS_role_151b2c	Photosystem II protein PsbM
-PS_role_a9ff8a	Photosystem II protein PsbN
+PS_role_b970ea	Photosystem II protein PsbR
+PS_role_8b5cda	Photosystem II protein PsbTc
 PS_role_a1c0a6	Photosystem II protein PsbTn
 PS_role_0f7696	Photosystem II protein PsbV, cytochrome c550
-PS_role_6c4a23	Photosystem II protein PsbX
-PS_role_74d1a2	Photosystem II protein PsbY
+PS_role_c949c5	Photosystem II protein PsbW
 PS_role_99d4ce	Photosystem II protein PsbZ
-PS_role_a23110	Photosystem II stability/assembly factor HCF136/Ycf48
 PS_role_70a382	Plastidial ATP synthase alpha chain (EC 3.6.3.14)
 PS_role_51b403	Plastidial ATP synthase beta chain (EC 3.6.3.14)
 PS_role_e5bd7d	Plastidial ATP synthase delta chain
 PS_role_cc41f6	Plastidial ATP synthase epsilon chain
 PS_role_5825d3	Plastidial ATP synthase gamma chain
 PS_role_481766	Plastoquinone transport
+PS_role_a546f8	Porphobilinogen deaminase (EC 2.5.1.61)
+PS_role_0c088f	Porphobilinogen synthase (EC 4.2.1.24)
 PS_role_712fb7	Potassium transport
+PS_role_5b11f3	Precorrin-2 oxidase (EC 1.3.1.76)
 PS_role_7d78b2	Prephenate dehydratase (EC 4.2.1.51)
 PS_role_1f944c	Probable acyl-ACP desaturase, Stearoyl-ACP desaturase (EC 1.14.19.2)
 PS_role_b7ed45	Probable cytochrome c oxidase subunit 5c
 PS_role_66525b	Proline transport
 PS_role_804a15	Protein CP12, regulation of Calvin cycle via association/dissociation of PRK/CP12/GAPDH complex
 PS_role_46049b	Proton transport
+PS_role_b34493	Protoporphyrin IX Mg-chelatase subunit D (EC 6.6.1.1)
+PS_role_f75f02	Protoporphyrin IX Mg-chelatase subunit H (EC 6.6.1.1)
+PS_role_472f23	Protoporphyrin IX Mg-chelatase subunit I (EC 6.6.1.1)
+PS_role_e0f61d	Protoporphyrinogen IX oxidase, aerobic, HemY (EC 1.3.3.4)
 PS_role_44a05e	Purine nucleosidase (EC 3.2.2.1)
-PS_role_6baf80	Putative chaperon-like protein Ycf39 for quinone binding in Photosystem II
 PS_role_f877fa	Putative ubiquinol-cytochrome c reductase complex core protein I (subunit COR1)
 PS_role_5a7b67	Putative ubiquinol-cytochrome c reductase complex core protein II (subunit COR2)
 PS_role_f9290f	Pyridoxal kinase (EC 2.7.1.35)
@@ -608,6 +638,7 @@ PS_role_8d3421	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)
 PS_role_f36f33	Shikimate O-hydroxycinnamoyltransferase (EC 2.3.1.133)
 PS_role_f2b17b	Shikimate kinase I (EC 2.7.1.71)
 PS_role_ebc9a3	Sinapoylated glucosinolates modification, unresolved step
+PS_role_67da61	Sirohydrochlorin ferrochelatase (EC 4.99.1.4)
 PS_role_9adb48	Solanesyl diphosphate synthase (EC 2.5.1.85)
 PS_role_a21670	Solanesyl-PP transport
 PS_role_3c14be	Soluble pyridine nucleotide transhydrogenase (EC 1.6.1.1)
@@ -693,6 +724,9 @@ PS_role_ab4a59	Urea transport
 PS_role_0e9f21	Urease (EC 3.5.1.5)
 PS_role_90c7d9	Uridine monophosphate/cytidine monophosphate kinase (EC 2.7.4.14)
 PS_role_376fd4	Uridine nucleosidase (EC 3.2.2.3)
+PS_role_601ac4	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+PS_role_ee24c7	Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+PS_role_5f0ac3	Uroporphyrinogen-III synthase (EC 4.2.1.75)
 PS_role_64145c	Valine transport
 PS_role_757fdb	Water transport
 PS_role_e0bf23	alternative photosystem I reaction center subunit X (PsaK2)
@@ -701,28 +735,9 @@ PS_role_658156	beta-Glucose-6-phosphate transport
 PS_role_59dfb3	cis-Aconitate transport
 PS_role_b580ce	pABA transport
 PS_role_070e7e	photosystem I 4.8K protein (PsaX)
-PS_role_445157	photosystem I P700 chlorophyll a apoprotein subunit Ia (PsaA)
-PS_role_fb63ff	photosystem I P700 chlorophyll a apoprotein subunit Ib (PsaB)
-PS_role_e4c878	photosystem I assembly related protein Ycf3
 PS_role_362277	photosystem I assembly related protein Ycf37
-PS_role_564d95	photosystem I assembly related protein Ycf4
 PS_role_d9335e	photosystem I biogenesis protein BtpA
-PS_role_579899	photosystem I iron-sulfur center subunit VII (PsaC)
-PS_role_1522c8	photosystem I subunit II (PsaD)
-PS_role_03d895	photosystem I subunit III precursor, plastocyanin (cyt c553) docking protein (PsaF)
-PS_role_739b26	photosystem I subunit IV (PsaE)
-PS_role_1f0db8	photosystem I subunit IX (PsaJ)
-PS_role_39872b	photosystem I subunit PsaG
-PS_role_c02f1d	photosystem I subunit PsaN
-PS_role_228387	photosystem I subunit PsaO
-PS_role_8b7141	photosystem I subunit PsaP
-PS_role_f90d98	photosystem I subunit VI (PsaH)
-PS_role_bfed59	photosystem I subunit VIII (PsaI)
-PS_role_4921cd	photosystem I subunit X (PsaK, PsaK1)
-PS_role_8dbedd	photosystem I subunit XI (PsaL)
 PS_role_b483ec	photosystem I subunit XII (PsaM)
-PS_role_9bc471	photosystem II protein D1 (PsbA)
-PS_role_3c6f1d	photosystem II protein D2 (PsbD)
 PS_role_01687d	trans-cinnamate 2-monooxygenase (EC 1.14.13.14)
 PS_role_0537a9	tyrosine N-monooxygenase (EC 1.14.14.36)
 PS_role_f06a9c	ubiquinol cytochrome C oxidoreductase, cytochrome C1 subunit

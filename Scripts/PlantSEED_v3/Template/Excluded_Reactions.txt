@@ -29,6 +29,10 @@ Skipping unbalanced reaction: rxn24147
 Skipping unbalanced reaction: rxn24147
 Skipping unbalanced reaction: rxn24147
 Skipping unbalanced reaction: rxn24246
+Skipping unbalanced reaction: rxn26498
+Skipping unbalanced reaction: rxn26498
+Skipping unbalanced reaction: rxn26528
+Skipping unbalanced reaction: rxn26528
 Skipping unbalanced reaction: rxn27060
 Skipping unbalanced reaction: rxn27061
 Skipping unbalanced reaction: rxn27062
