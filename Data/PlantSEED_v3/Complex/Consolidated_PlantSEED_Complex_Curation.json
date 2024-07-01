@@ -2816,13 +2816,13 @@
                 "curators": [
                     "Claudia"
                 ],
-                "role": "Cytochrome b6-f complex iron-sulfur subunit PetC1 (Rieske iron sulfur protein EC 1.10.9.1)",
+                "role": "Cytochrome b6-f complex PetC, Rieske iron-sulfur protein (EC 7.1.1.6)",
                 "genes": [
                     "AT4G03280"
                 ]
             },
             {
-                "role": "Cytochrome b6-f complex subunit, apocytochrome f",
+                "role": "Cytochrome b6-f complex PetA, apocytochrome f (EC 7.1.1.6)",
                 "curators": [
                     "Claudia"
                 ],
@@ -2831,7 +2831,7 @@
                 ]
             },
             {
-                "role": "Cytochrome b6-f complex subunit, cytochrome b6",
+                "role": "Cytochrome b6-f complex PetB, cytochrome b6 (EC 7.1.1.6)",
                 "curators": [
                     "Claudia"
                 ],
@@ -2840,7 +2840,7 @@
                 ]
             },
             {
-                "role": "Cytochrome b6-f complex subunit IV (PetD)",
+                "role": "Cytochrome b6-f complex PetD, subunit IV (EC 7.1.1.6)",
                 "curators": [
                     "Claudia"
                 ],
@@ -2849,7 +2849,7 @@
                 ]
             },
             {
-                "role": "Cytochrome b6-f complex subunit V (PetG)",
+                "role": "Cytochrome b6-f complex PetG, subunit V (EC 7.1.1.6)",
                 "curators": [
                     "Claudia"
                 ],
@@ -2902,13 +2902,13 @@
                 "curators": [
                     "Claudia"
                 ],
-                "role": "Cytochrome b559 alpha chain (PsbE)",
+                "role": "Cytochrome b559 alpha chain PsbE",
                 "genes": [
                     "ATCG00580"
                 ]
             },
             {
-                "role": "Cytochrome b559 beta chain (PsbF)",
+                "role": "Cytochrome b559 beta chain PsbF",
                 "curators": [
                     "Claudia"
                 ],
@@ -2917,7 +2917,7 @@
                 ]
             },
             {
-                "role": "Photosystem II 10 kDa phosphoprotein (PsbH)",
+                "role": "Photosystem II protein PsbH",
                 "curators": [
                     "Claudia"
                 ],
@@ -2926,7 +2926,7 @@
                 ]
             },
             {
-                "role": "Photosystem II 10 kDa protein PsbR",
+                "role": "Photosystem II protein PsbR",
                 "curators": [
                     "Claudia"
                 ],
@@ -2935,7 +2935,7 @@
                 ]
             },
             {
-                "role": "Photosystem II 13 kDa protein Psb28 (similar to PsbW)",
+                "role": "Photosystem II protein Psb28",
                 "curators": [
                     "Claudia"
                 ],
@@ -2954,7 +2954,7 @@
                 ]
             },
             {
-                "role": "Photosystem II CP43 protein (PsbC)",
+                "role": "Photosystem II CP43 protein PsbC",
                 "curators": [
                     "Claudia"
                 ],
@@ -2963,7 +2963,7 @@
                 ]
             },
             {
-                "role": "Photosystem II CP47 protein (PsbB)",
+                "role": "Photosystem II CP47 protein PsbB",
                 "curators": [
                     "Claudia"
                 ],
@@ -2972,7 +2972,7 @@
                 ]
             },
             {
-                "role": "Photosystem II manganese-stabilizing protein (PsbO)",
+                "role": "Photosystem II manganese-stabilizing protein PsbO",
                 "curators": [
                     "Claudia"
                 ],
@@ -3002,7 +3002,7 @@
                 ]
             },
             {
-                "role": "photosystem II protein D1 (PsbA)",
+                "role": "Photosystem II protein D1 PsbA",
                 "curators": [
                     "Claudia"
                 ],
@@ -3011,7 +3011,7 @@
                 ]
             },
             {
-                "role": "photosystem II protein D2 (PsbD)",
+                "role": "Photosystem II protein D2 PsbD",
                 "curators": [
                     "Claudia"
                 ],
@@ -3297,13 +3297,13 @@
                 "curators": [
                     "Claudia"
                 ],
-                "role": "photosystem I assembly related protein Ycf3",
+                "role": "Photosystem I assembly related protein Ycf3",
                 "genes": [
                     "ATCG00360"
                 ]
             },
             {
-                "role": "photosystem I assembly related protein Ycf4",
+                "role": "Photosystem I assembly related protein Ycf4",
                 "curators": [
                     "Claudia"
                 ],
@@ -3312,7 +3312,7 @@
                 ]
             },
             {
-                "role": "photosystem I iron-sulfur center subunit VII (PsaC)",
+                "role": "Photosystem I subunit VII iron-sulfur center PsaC",
                 "curators": [
                     "Claudia"
                 ],
@@ -3321,7 +3321,7 @@
                 ]
             },
             {
-                "role": "photosystem I P700 chlorophyll a apoprotein subunit Ia (PsaA)",
+                "role": "Photosystem I subunit Ia PsaA",
                 "curators": [
                     "Claudia"
                 ],
@@ -3330,7 +3330,7 @@
                 ]
             },
             {
-                "role": "photosystem I P700 chlorophyll a apoprotein subunit Ib (PsaB)",
+                "role": "Photosystem I subunit Ib PsaB",
                 "curators": [
                     "Claudia"
                 ],
@@ -3339,7 +3339,7 @@
                 ]
             },
             {
-                "role": "photosystem I subunit III precursor, plastocyanin (cyt c553) docking protein (PsaF)",
+                "role": "Photosystem I subunit III precursor, plastocyanin (cyt c553) docking protein PsaF",
                 "curators": [
                     "Claudia"
                 ],
@@ -3348,7 +3348,7 @@
                 ]
             },
             {
-                "role": "photosystem I subunit II (PsaD)",
+                "role": "Photosystem I subunit II PsaD",
                 "curators": [
                     "Claudia"
                 ],
@@ -3358,7 +3358,7 @@
                 ]
             },
             {
-                "role": "photosystem I subunit IV (PsaE)",
+                "role": "Photosystem I subunit IV PsaE",
                 "curators": [
                     "Claudia"
                 ],
@@ -3368,7 +3368,7 @@
                 ]
             },
             {
-                "role": "photosystem I subunit IX (PsaJ)",
+                "role": "Photosystem I subunit IX PsaJ",
                 "curators": [
                     "Claudia"
                 ],
@@ -3377,7 +3377,7 @@
                 ]
             },
             {
-                "role": "photosystem I subunit PsaG",
+                "role": "Photosystem I PsaG",
                 "curators": [
                     "Claudia"
                 ],
@@ -3386,7 +3386,7 @@
                 ]
             },
             {
-                "role": "photosystem I subunit PsaN",
+                "role": "Photosystem I PsaN",
                 "curators": [
                     "Claudia"
                 ],
@@ -3395,7 +3395,7 @@
                 ]
             },
             {
-                "role": "photosystem I subunit PsaO",
+                "role": "Photosystem I PsaO",
                 "curators": [
                     "Claudia"
                 ],
@@ -3404,7 +3404,7 @@
                 ]
             },
             {
-                "role": "photosystem I subunit PsaP",
+                "role": "Photosystem I PsaP",
                 "curators": [
                     "Claudia"
                 ],
@@ -3413,7 +3413,7 @@
                 ]
             },
             {
-                "role": "photosystem I subunit VIII (PsaI)",
+                "role": "Photosystem I subunit VIII PsaI",
                 "curators": [
                     "Claudia"
                 ],
@@ -3422,7 +3422,7 @@
                 ]
             },
             {
-                "role": "photosystem I subunit VI (PsaH)",
+                "role": "Photosystem I subunit VI PsaH",
                 "curators": [
                     "Claudia"
                 ],
@@ -3432,7 +3432,7 @@
                 ]
             },
             {
-                "role": "photosystem I subunit XI (PsaL)",
+                "role": "Photosystem I subunit XI PsaL",
                 "curators": [
                     "Claudia"
                 ],
@@ -3441,7 +3441,7 @@
                 ]
             },
             {
-                "role": "photosystem I subunit X (PsaK, PsaK1)",
+                "role": "Photosystem I subunit X PsaK",
                 "curators": [
                     "Claudia"
                 ],
