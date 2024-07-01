@@ -47,11 +47,11 @@ with open('MST_PS_Compartments.tsv') as fh:
 		id=id[0]
 		if(id not in cpts):
 			cpt={'id':id,'name':name,'abbrev':''.join(name.lower().split(' ')),
-				'aliases':[],'ph':ph,'hierarchy':hier}
+				'aliases':[],'ph':int(ph),'hierarchy':int(hier)}
 		else:
 			cpt = cpts[id]
-			cpt['ph']=ph
-			cpt['hierarchy']=hier
+			cpt['ph']=int(ph)
+			cpt['hierarchy']=int(hier)
 
 		lc_aliases=list()			
 		for alias in cpt['aliases']:
@@ -74,5 +74,5 @@ with open('OF_PS_Compartments.tsv') as fh:
 
 		cpts[id]['abbrev']=abbrev
 
-with open('PlantSEED_Compartments.json','w') as fh:
+with open('../PlantSEED_Compartments.json','w') as fh:
 	fh.write(json.dumps(cpts,indent=2))
