@@ -7251,7 +7251,7 @@
     },
     {
         "role": "Chlorophyll a synthase ChlG (EC 2.5.1.62)",
-        "include": false,
+        "include": true,
         "subsystems": [
             "Chlorophyll_Biosynthesis_in_plants_and_prokaryotes"
         ],
@@ -7767,7 +7767,7 @@
     },
     {
         "role": "Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)",
-        "include": false,
+        "include": true,
         "subsystems": [
             "Chlorophyll_Biosynthesis_in_plants_and_prokaryotes",
             "Heme_and_Siroheme_biosynthesis_in_plants"
@@ -10146,7 +10146,7 @@
     },
     {
         "role": "Divinyl (proto)chlorophyllide a 8-vinyl-reductase (EC 1.3.1.75)",
-        "include": false,
+        "include": true,
         "subsystems": [
             "Chlorophyll_Biosynthesis_in_plants_and_prokaryotes"
         ],
@@ -11017,7 +11017,7 @@
     },
     {
         "role": "Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)",
-        "include": false,
+        "include": true,
         "subsystems": [
             "Heme_and_Siroheme_biosynthesis_in_plants"
         ],
@@ -12122,7 +12122,8 @@
             "10.1016/0014-5793(95)00935-3",
             "10.1046/j.1365-313x.1997.00557.x",
             "10.1111/j.1365-313X.2007.03318.x"
-        ]
+        ],
+        "kbase_id": "PS_role_3fabe2"
     },
     {
         "role": "Geranyl-diphosphate synthase (EC 2.5.1.1)",
@@ -12631,7 +12632,8 @@
             "10.1016/0014-5793(95)00935-3",
             "10.1046/j.1365-313x.1997.00557.x",
             "10.1111/j.1365-313X.2007.03318.x"
-        ]
+        ],
+        "kbase_id": "PS_role_46d375"
     },
     {
         "role": "Glutamate N-acetyltransferase (EC 2.3.1.35)",
@@ -12754,7 +12756,7 @@
     },
     {
         "role": "Glutamate-1-semialdehyde aminotransferase (EC 5.4.3.8)",
-        "include": false,
+        "include": true,
         "subsystems": [
             "Core_tetrapyrrole_biosynthesis_in_plants"
         ],
@@ -12983,7 +12985,7 @@
     },
     {
         "role": "Glutamyl-tRNA reductase (EC 1.2.1.70)",
-        "include": false,
+        "include": true,
         "subsystems": [
             "Core_tetrapyrrole_biosynthesis_in_plants"
         ],
@@ -13021,7 +13023,7 @@
     },
     {
         "role": "Glutamyl-tRNA synthetase (EC 6.1.1.17)",
-        "include": false,
+        "include": true,
         "subsystems": [
             "Core_tetrapyrrole_biosynthesis_in_plants"
         ],
@@ -13772,7 +13774,7 @@
     },
     {
         "role": "Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB",
-        "include": false,
+        "include": true,
         "subsystems": [
             "Heme_and_Siroheme_biosynthesis_in_plants"
         ],
@@ -15755,7 +15757,7 @@
     },
     {
         "role": "Light-dependent protochlorophyllide reductase (EC 1.3.1.33)",
-        "include": false,
+        "include": true,
         "subsystems": [
             "Chlorophyll_Biosynthesis_in_plants_and_prokaryotes"
         ],
@@ -17137,7 +17139,7 @@
     },
     {
         "role": "Mg protoporphyrin IX monomethyl ester oxidative cyclase (aerobic) (EC 1.14.13.81)",
-        "include": false,
+        "include": true,
         "subsystems": [
             "Chlorophyll_Biosynthesis_in_plants_and_prokaryotes"
         ],
@@ -17172,7 +17174,7 @@
     },
     {
         "role": "Mg-protoporphyrin O-methyltransferase (EC 2.1.1.11)",
-        "include": false,
+        "include": true,
         "subsystems": [
             "Chlorophyll_Biosynthesis_in_plants_and_prokaryotes"
         ],
@@ -23751,7 +23753,7 @@
     },
     {
         "role": "Porphobilinogen deaminase (EC 2.5.1.61)",
-        "include": false,
+        "include": true,
         "subsystems": [
             "Core_tetrapyrrole_biosynthesis_in_plants"
         ],
@@ -23783,7 +23785,7 @@
     },
     {
         "role": "Porphobilinogen synthase (EC 4.2.1.24)",
-        "include": false,
+        "include": true,
         "subsystems": [
             "Core_tetrapyrrole_biosynthesis_in_plants"
         ],
@@ -23835,7 +23837,7 @@
     },
     {
         "role": "Precorrin-2 oxidase (EC 1.3.1.76)",
-        "include": false,
+        "include": true,
         "subsystems": [
             "Heme_and_Siroheme_biosynthesis_in_plants"
         ],
@@ -24109,7 +24111,7 @@
     },
     {
         "role": "Protoporphyrin IX Mg-chelatase subunit D (EC 6.6.1.1)",
-        "include": false,
+        "include": true,
         "subsystems": [
             "Chlorophyll_Biosynthesis_in_plants_and_prokaryotes"
         ],
@@ -24140,7 +24142,7 @@
     },
     {
         "role": "Protoporphyrin IX Mg-chelatase subunit H (EC 6.6.1.1)",
-        "include": false,
+        "include": true,
         "subsystems": [
             "Chlorophyll_Biosynthesis_in_plants_and_prokaryotes"
         ],
@@ -24172,7 +24174,7 @@
     },
     {
         "role": "Protoporphyrin IX Mg-chelatase subunit I (EC 6.6.1.1)",
-        "include": false,
+        "include": true,
         "subsystems": [
             "Chlorophyll_Biosynthesis_in_plants_and_prokaryotes"
         ],
@@ -24208,7 +24210,7 @@
     },
     {
         "role": "Protoporphyrinogen IX oxidase, aerobic, HemY (EC 1.3.3.4)",
-        "include": false,
+        "include": true,
         "subsystems": [
             "Chlorophyll_Biosynthesis_in_plants_and_prokaryotes",
             "Heme_and_Siroheme_biosynthesis_in_plants"
@@ -26357,7 +26359,7 @@
     },
     {
         "role": "Sirohydrochlorin ferrochelatase (EC 4.99.1.4)",
-        "include": false,
+        "include": true,
         "subsystems": [
             "Heme_and_Siroheme_biosynthesis_in_plants"
         ],
@@ -29865,7 +29867,7 @@
     },
     {
         "role": "Uroporphyrinogen III decarboxylase (EC 4.1.1.37)",
-        "include": false,
+        "include": true,
         "subsystems": [
             "Chlorophyll_Biosynthesis_in_plants_and_prokaryotes",
             "Heme_and_Siroheme_biosynthesis_in_plants"
@@ -29905,7 +29907,7 @@
     },
     {
         "role": "Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)",
-        "include": false,
+        "include": true,
         "subsystems": [
             "Heme_and_Siroheme_biosynthesis_in_plants"
         ],
@@ -29932,7 +29934,7 @@
     },
     {
         "role": "Uroporphyrinogen-III synthase (EC 4.2.1.75)",
-        "include": false,
+        "include": true,
         "subsystems": [
             "Core_tetrapyrrole_biosynthesis_in_plants"
         ],
@@ -32489,7 +32491,8 @@
         },
         "publications": [
             "10.1105/tpc.110.081711"
-        ]
+        ],
+        "kbase_id": "PS_role_e7e776"
     },
     {
         "role": "-_-beta_caryophyllene synthase (EC 4.2.3.57)",
@@ -32520,7 +32523,8 @@
         "publications": [
             "15918888",
             "12566586"
-        ]
+        ],
+        "kbase_id": "PS_role_8a383e"
     },
     {
         "role": "Alpha-Humulene synthase (EC 4.2.3.104)",
@@ -32551,7 +32555,8 @@
         "publications": [
             "15918888",
             "12566586"
-        ]
+        ],
+        "kbase_id": "PS_role_dfd5e3"
     },
     {
         "role": "Beta-chamigrene synthase (EC 4.2.3.78)",
@@ -32582,7 +32587,8 @@
         "publications": [
             "15918888",
             "15965019"
-        ]
+        ],
+        "kbase_id": "PS_role_53d4d4"
     },
     {
         "role": "Ent-copalyl-diphosphate synthase (EC 5.5.1.13)",
@@ -32612,7 +32618,8 @@
         },
         "publications": [
             "10.1111/j.1399-3054.1997.tb01054.x"
-        ]
+        ],
+        "kbase_id": "PS_role_33c4fc"
     },
     {
         "role": "Ent-kaurene synthase (EC 4.2.3.19)",
@@ -32642,7 +32649,8 @@
         },
         "publications": [
             "9536043"
-        ]
+        ],
+        "kbase_id": "PS_role_078c63"
     },
     {
         "role": "Myrcene synthase (EC 4.2.3.15)",
@@ -32672,7 +32680,8 @@
         },
         "publications": [
             "10700382"
-        ]
+        ],
+        "kbase_id": "PS_role_139258"
     },
     {
         "role": "Rhizathalene A synthase (EC 4.2.3.195)",
@@ -32702,7 +32711,8 @@
         },
         "publications": [
             "23512856"
-        ]
+        ],
+        "kbase_id": "PS_role_785c8c"
     },
     {
         "role": "Thujopsene synthase (EC 4.2.3.79)",
@@ -32733,7 +32743,8 @@
         "publications": [
             "15918888",
             "15965019"
-        ]
+        ],
+        "kbase_id": "PS_role_1760ea"
     },
     {
         "role": "Z-gamma-bisabolene synthase (EC 4.2.3.40)",
@@ -32769,7 +32780,8 @@
         },
         "publications": [
             "16297850"
-        ]
+        ],
+        "kbase_id": "PS_role_2720f7"
     },
     {
         "role": "Cytochrome b6-f complex PetL (EC 7.1.1.6)",
@@ -32802,7 +32814,8 @@
             "https://doi.org/10.1016/j.resmic.2006.10.002"
         ],
         "predictions": {},
-        "sequences": {}
+        "sequences": {},
+        "kbase_id": "PS_role_f6d4b3"
     },
     {
         "role": "Cytochrome b6-f complex PetM (EC 7.1.1.6)",
@@ -32835,7 +32848,8 @@
             "https://doi.org/10.1093/pcp/pcab116"
         ],
         "predictions": {},
-        "sequences": {}
+        "sequences": {},
+        "kbase_id": "PS_role_92ae7a"
     },
     {
         "role": "Cytochrome b6-f complex PetN (EC 7.1.1.6)",
@@ -32868,7 +32882,8 @@
             "https://doi.org/10.1104/pp.107.100131"
         ],
         "predictions": {},
-        "sequences": {}
+        "sequences": {},
+        "kbase_id": "PS_role_75dab0"
     },
     {
         "role": "Photosystem II protein PsbTc",
@@ -32901,7 +32916,8 @@
             "https://doi.org/10.1002/j.1460-2075.1994.tb06568.x"
         ],
         "predictions": {},
-        "sequences": {}
+        "sequences": {},
+        "kbase_id": "PS_role_8b5cda"
     },
     {
         "role": "Photosystem II protein PsbW",
@@ -32936,6 +32952,7 @@
             "https://doi.org/10.1074/jbc.270.29.17588"
         ],
         "predictions": {},
-        "sequences": {}
+        "sequences": {},
+        "kbase_id": "PS_role_c949c5"
     }
 ]
