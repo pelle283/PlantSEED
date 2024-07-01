@@ -1,3 +1,3 @@
 reaction	role	feature	publication	subsystem	class	pathway	localization	cofactor	homomers	include
-rxn20632	Photosystem II protein PsbTc	Athaliana_TAIR10||ATCG00690	https://doi.org/10.1093/pcp/pch207,https://doi.org/10.1002/j.1460-2075.1994.tb06568.x	Photosystem_II	Energy	PWY-101	d:Athaliana_TAIR10||ATCG00690:PPDB		1	include
-rxn20632	Photosystem II protein PsbW	Athaliana_TAIR10||AT2G30570	https://doi.org/10.1111/j.1365-313x.2010.04429.x,https://doi.org/10.1073/pnas.92.19.8930,https://doi.org/10.1074/jbc.270.29.17588	Photosystem_II	Energy	PWY-101	d:Athaliana_TAIR10||AT2G30570:PPDB		1	include
+rxn20632	Photosystem II protein PsbTc	Athaliana_TAIR10||ATCG00690	https://doi.org/10.1093/pcp/pch207,https://doi.org/10.1002/j.1460-2075.1994.tb06568.x	Photosystem_II	Energy	PWY-101	dy:Athaliana_TAIR10||ATCG00690:PPDB		1	include
+rxn20632	Photosystem II protein PsbW	Athaliana_TAIR10||AT2G30570	https://doi.org/10.1111/j.1365-313x.2010.04429.x,https://doi.org/10.1073/pnas.92.19.8930,https://doi.org/10.1074/jbc.270.29.17588	Photosystem_II	Energy	PWY-101	dy:Athaliana_TAIR10||AT2G30570:PPDB		1	include
