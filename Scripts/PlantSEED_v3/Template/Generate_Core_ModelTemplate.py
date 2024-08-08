@@ -126,12 +126,27 @@ with open("../../../Data/PlantSEED_v3/PlantSEED_Roles.json") as subsystem_file:
 
 #Collect Compartmentalized Reactions
 reactions_roles=dict()
+reactions_cpts=dict()
 roles=dict()
 roles_ids=dict()
 excluded_roles=list()
 for entry in roles_list:
 	if(entry['include'] is False):
 		excluded_roles.append(entry['role'])
+		continue
+
+	# Skip vacuolar ATP synthase, for pumping protons into vacuole
+	if("rxn08173" in entry["reactions"] and "v" in entry["localization"]):
+		print("Skipping vacuolar ATP synthase")
+		continue
+
+	# Skip ubiquinol oxidase for now
+	# https://en.wikipedia.org/wiki/Alternative_oxidase
+	# https://www.annualreviews.org/doi/full/10.1146/annurev-arplant-042110-103857
+	# It allows the TCA cycle to continue via succinate dehydrogenase
+	# without translocating protons and producing ATP, which causes problems with FBA
+	if("rxn12494" in entry["reactions"]):
+		print("Skipping alternative ubiquinol oxidase")
 		continue
 
 	if('kbase_id' in entry and entry['kbase_id'].startswith('PS_role_')):
@@ -144,8 +159,42 @@ for entry in roles_list:
 		roles[entry['role']]=list()
 		
 	for rxn in entry['reactions']:
-		for cpt in entry['localization']:
-			tmpl_rxn = rxn+"_"+cpt
+		for cpts in entry['localization']:
+			
+			# Accordingly, the compartments should all be sorted
+			# So a compartment index of 0 matches the first position in the compartment list
+			# The order is curated in the PlantSEED database
+
+			reaction_cpt = cpts[0]
+
+			# If its a transporter, need to update the reaction compartment id
+			if(len(cpts)==2):
+
+				# The rule is that it is always the non-cytosolic compartment
+				if('c' in cpts):
+					for cpt in cpts:
+						if(cpt != 'c'):
+							reaction_cpt = cpt
+
+				# With two main exceptions:
+				# 1) whether its an extracellular transporter
+				if('e' in cpts):
+					for cpt in cpts:
+						if(cpt != 'e'):
+							reaction_cpt = cpt
+
+				# 2) whether its an intraorganellar transporter
+				if('j' in cpts):
+					reaction_cpt = 'j'
+				if('y' in cpts):
+					reaction_cpt = 'y'
+
+			tmpl_rxn = rxn+"_"+reaction_cpt
+
+			# These are stored for compound stoichiometry
+			# when generating the reagents below
+			reactions_cpts[tmpl_rxn]=cpts
+
 			if(tmpl_rxn not in reactions_roles):
 				reactions_roles[tmpl_rxn]=list()
 			if(entry['role'] not in reactions_roles[tmpl_rxn]):
@@ -271,55 +320,13 @@ template_compcompounds = list()
 excluded_rxns_fh = open("Excluded_Reactions.txt","w")
 for template_reaction in sorted(reactions_roles):
 
-	[base_reaction,reaction_cpts]=template_reaction.split('_')
+	[base_reaction,reaction_cpt]=template_reaction.split('_')
 
 	# Skip unbalanced reactions
 	if(base_reaction not in excepted_reactions_list and \
 	   (base_reaction not in reactions_dict or 'OK' not in reactions_dict[base_reaction]['status'])):
 		excluded_rxns_fh.write("Skipping unbalanced reaction: "+base_reaction+"\n")
 		continue
-	
-	# Skip vacuolar ATP synthase, for pumping protons into vacuole
-	if(base_reaction == "rxn08173" and 'v' in reaction_cpts):
-		print("Skipping vacuolar ATP synthase")
-		continue
-
-	# Skip ubiquinol oxidase for now
-	# https://en.wikipedia.org/wiki/Alternative_oxidase
-	# https://www.annualreviews.org/doi/full/10.1146/annurev-arplant-042110-103857
-	# It allows the TCA cycle to continue via succinate dehydrogenase
-	# without translocating protons and producing ATP, which causes problems with FBA
-	if(base_reaction == "rxn12494"):
-		print("Skipping alternative ubiquinol oxidase")
-		continue
-
-	# Accordingly, the compartments should all be sorted
-	# So a compartment index of 0 matches the first position in the compartment list
-	# The order is curated in the PlantSEED database
-
-	reaction_cpt_id = reaction_cpts[0]
-
-	# If its a transporter, need to update the reaction compartment id
-	if(len(reaction_cpts)==2):
-
-	# The rule is that it is always the non-cytosolic compartment
-		if('c' in reaction_cpts):
-			for cpt in reaction_cpts:
-				if(cpt != 'c'):
-					reaction_cpt_id = cpt
-
-		# With two main exceptions:
-		# 1) whether its an extracellular transporter
-		if('e' in reaction_cpts):
-			for cpt in reaction_cpts:
-				if(cpt != 'e'):
-					reaction_cpt_id = cpt
-
-		# 2) whether its an intraorganellar transporter
-		if('j' in reaction_cpts):
-			reaction_cpt_id = 'j'
-		if('y' in reaction_cpts):
-			reaction_cpt_id = 'y'
 
 	#determine reaction direction
 	direction = "="
@@ -337,8 +344,8 @@ for template_reaction in sorted(reactions_roles):
 	# But I need to double-check how reconstruct_plant_metabolism in plant_fbaImpl.py fetches
 	# biochemistry data
 
-	template_reaction_hash = { 'id':base_reaction+"_"+reaction_cpt_id, 'name':reactions_dict[base_reaction]['name'],
-							   'templatecompartment_ref':"~/compartments/id/"+reaction_cpt_id,
+	template_reaction_hash = { 'id':template_reaction, 'name':reactions_dict[base_reaction]['name'],
+							   'templatecompartment_ref':"~/compartments/id/"+reaction_cpt,
 							   'reaction_ref':biochem_ref+"/reactions/id/"+"rxn14003", #base_reaction,
 							   'type':"universal",
 							   'direction':direction,
@@ -355,7 +362,7 @@ for template_reaction in sorted(reactions_roles):
 		#    so the indice is 0
 		# but in the case of a transporter, the reaction can have multiple compartments
 		#    so the indice may be 0, 1, or even 2 in rare cases
-		rgt_cpt=reaction_cpts[int(gen_cpt)]
+		rgt_cpt=reactions_cpts[template_reaction][int(gen_cpt)]
 
 		# Check and extend list of template compartments
 		if(rgt_cpt not in check_tpl_cpt_dict):
