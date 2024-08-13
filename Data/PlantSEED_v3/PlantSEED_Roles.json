@@ -92,8 +92,7 @@
                 ],
                 "Athaliana_TAIR10||AT2G26400": [
                     "Assumed"
-                ],
-                "rxn05092": []
+                ]
             }
         },
         "publications": [],
@@ -174,8 +173,7 @@
             "c": {
                 "Athaliana_TAIR10||AT3G46970": [
                     "PPDB"
-                ],
-                "rxn06049": []
+                ]
             }
         },
         "publications": [],
@@ -248,8 +246,7 @@
                 ],
                 "Athaliana_TAIR10||AT5G48950": [
                     "AraCyc"
-                ],
-                "rxn05023": []
+                ]
             },
             "d": {
                 "rxn05023": []
@@ -389,8 +386,7 @@
                 ],
                 "Athaliana_TAIR10||AT4G37770": [
                     "Assumed"
-                ],
-                "rxn00128": []
+                ]
             }
         },
         "publications": [],
@@ -428,8 +424,7 @@
                     "PPDB",
                     "AraCyc",
                     "GFP"
-                ],
-                "rxn03958": []
+                ]
             }
         },
         "publications": [],
@@ -530,8 +525,7 @@
                 "Athaliana_TAIR10||AT1G30400": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn31828": []
+                ]
             },
             "cd": {
                 "Athaliana_TAIR10||AT2G32040": [
@@ -541,8 +535,7 @@
                 "Athaliana_TAIR10||AT5G66380": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn31828": []
+                ]
             },
             "cm": {
                 "rxn31828": []
@@ -729,8 +722,7 @@
                     "PPDB",
                     "AraCyc",
                     "GFP"
-                ],
-                "rxn07333": []
+                ]
             }
         },
         "publications": [],
@@ -938,8 +930,7 @@
                     "PPDB",
                     "SUBA",
                     "AraCyc"
-                ],
-                "rxn02503": []
+                ]
             },
             "m": {
                 "Athaliana_TAIR10||AT4G30000": [
@@ -1010,8 +1001,7 @@
                 "Athaliana_TAIR10||AT1G23360": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn24312": []
+                ]
             }
         },
         "publications": [],
@@ -1063,8 +1053,7 @@
                 "Athaliana_TAIR10||AT5G23010": [
                     "SUBA",
                     "AraCyc"
-                ],
-                "rxn27497": []
+                ]
             }
         },
         "publications": [],
@@ -1142,8 +1131,7 @@
                     "PPDB",
                     "AraCyc",
                     "GFP"
-                ],
-                "rxn07334": []
+                ]
             }
         },
         "publications": [],
@@ -1178,8 +1166,7 @@
                 "Athaliana_TAIR10||AT3G63410": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn07332": []
+                ]
             }
         },
         "publications": [],
@@ -1214,8 +1201,7 @@
                 "Athaliana_TAIR10||AT3G63410": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn23805": []
+                ]
             }
         },
         "publications": [],
@@ -1319,10 +1305,7 @@
                     "PPDB",
                     "AraCyc",
                     "GFP"
-                ],
-                "rxn27069": [],
-                "rxn37767": [],
-                "rxn37768": []
+                ]
             },
             "c": {
                 "rxn27071": [],
@@ -1710,8 +1693,7 @@
                 ],
                 "Athaliana_TAIR10||AT5G19200": [
                     "AraCyc"
-                ],
-                "rxn02134": []
+                ]
             }
         },
         "publications": [],
@@ -2262,9 +2244,7 @@
                 "Athaliana_TAIR10||AT2G40840": [
                     "PPDB",
                     "GFP"
-                ],
-                "rxn23747": [],
-                "rxn22859": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT5G64860": [
@@ -2403,8 +2383,7 @@
                 "Athaliana_TAIR10||AT2G26930": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn03908": []
+                ]
             }
         },
         "publications": [],
@@ -2442,11 +2421,7 @@
                 "Athaliana_TAIR10||AT4G34350": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn08756": [],
-                "rxn08352": [],
-                "rxn04996": [],
-                "rxn04113": []
+                ]
             }
         },
         "publications": [],
@@ -2661,8 +2636,7 @@
             "c": {
                 "Athaliana_TAIR10||AT1G06570": [
                     "AraCyc"
-                ],
-                "rxn01827": []
+                ]
             }
         },
         "publications": [],
@@ -2727,8 +2701,7 @@
                 ],
                 "Athaliana_TAIR10||AT4G34840": [
                     "Assumed"
-                ],
-                "rxn01021": []
+                ]
             }
         },
         "publications": [],
@@ -2773,10 +2746,7 @@
                 ],
                 "Athaliana_TAIR10||AT4G14930": [
                     "Assumed"
-                ],
-                "rxn01670": [],
-                "rxn00363": [],
-                "rxn00708": []
+                ]
             }
         },
         "publications": [],
@@ -2853,8 +2823,7 @@
                 "Athaliana_TAIR10||AT4G37930": [
                     "PPDB",
                     "GFP"
-                ],
-                "rxn01652": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT4G37930": [
@@ -2915,8 +2884,7 @@
                 ],
                 "Athaliana_TAIR10||AT2G44160": [
                     "Assumed"
-                ],
-                "rxn04954": []
+                ]
             }
         },
         "publications": [],
@@ -3018,8 +2986,7 @@
                 "Athaliana_TAIR10||AT1G30400": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn32628": []
+                ]
             },
             "cd": {
                 "Athaliana_TAIR10||AT2G32040": [
@@ -3029,8 +2996,7 @@
                 "Athaliana_TAIR10||AT5G66380": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn32628": []
+                ]
             },
             "cm": {
                 "rxn32628": []
@@ -3065,8 +3031,7 @@
                 "Athaliana_TAIR10||AT1G30400": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn39242": []
+                ]
             },
             "cd": {
                 "Athaliana_TAIR10||AT2G32040": [
@@ -3076,8 +3041,7 @@
                 "Athaliana_TAIR10||AT5G66380": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn39242": []
+                ]
             },
             "cm": {
                 "rxn39242": []
@@ -3112,8 +3076,7 @@
                 "Athaliana_TAIR10||AT1G30400": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn39243": []
+                ]
             },
             "cd": {
                 "Athaliana_TAIR10||AT2G32040": [
@@ -3123,8 +3086,7 @@
                 "Athaliana_TAIR10||AT5G66380": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn39243": []
+                ]
             },
             "cm": {
                 "rxn39243": []
@@ -3159,8 +3121,7 @@
                 "Athaliana_TAIR10||AT1G30400": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn39241": []
+                ]
             },
             "cd": {
                 "Athaliana_TAIR10||AT2G32040": [
@@ -3170,8 +3131,7 @@
                 "Athaliana_TAIR10||AT5G66380": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn39241": []
+                ]
             },
             "cm": {
                 "rxn39241": []
@@ -3212,10 +3172,7 @@
                 "Athaliana_TAIR10||AT2G40890": [
                     "AraCyc",
                     "GFP"
-                ],
-                "rxn21324": [],
-                "rxn03016": [],
-                "rxn23801": []
+                ]
             },
             "c": {
                 "rxn21324": [],
@@ -3437,9 +3394,7 @@
                 "Athaliana_TAIR10||AT5G17920": [
                     "PPDB",
                     "GFP"
-                ],
-                "rxn19900": [],
-                "rxn00693": []
+                ]
             },
             "x": {
                 "Athaliana_TAIR10||AT5G17920": [
@@ -3476,8 +3431,7 @@
             "c": {
                 "Athaliana_TAIR10||AT1G49820": [
                     "Assumed"
-                ],
-                "rxn02894": []
+                ]
             }
         },
         "publications": [],
@@ -3722,8 +3676,7 @@
             "c": {
                 "Athaliana_TAIR10||AT5G04620": [
                     "GFP"
-                ],
-                "rxn02297": []
+                ]
             }
         },
         "publications": [],
@@ -4093,8 +4046,7 @@
                 ],
                 "Athaliana_TAIR10||AT1G09430": [
                     "PPDB"
-                ],
-                "rxn00257": []
+                ]
             }
         },
         "publications": [
@@ -4136,8 +4088,7 @@
                 ],
                 "Athaliana_TAIR10||AT5G49460": [
                     "PPDB"
-                ],
-                "rxn00257": []
+                ]
             }
         },
         "publications": [
@@ -4332,8 +4283,7 @@
                 "Athaliana_TAIR10||AT5G48230": [
                     "PPDB",
                     "GFP"
-                ],
-                "rxn00178": []
+                ]
             }
         },
         "publications": [],
@@ -4619,8 +4569,7 @@
                 "Athaliana_TAIR10||AT4G17830": [
                     "PPDB",
                     "GFP"
-                ],
-                "rxn00469": []
+                ]
             }
         },
         "publications": [],
@@ -4844,8 +4793,7 @@
                 ],
                 "Athaliana_TAIR10||AT1G27450": [
                     "PPDB"
-                ],
-                "rxn00139": []
+                ]
             }
         },
         "publications": [],
@@ -4949,8 +4897,7 @@
                 ],
                 "Athaliana_TAIR10||AT3G23810": [
                     "Assumed"
-                ],
-                "rxn00141": []
+                ]
             }
         },
         "publications": [],
@@ -5330,8 +5277,7 @@
                     "PPDB",
                     "SUBA",
                     "AraCyc"
-                ],
-                "rxn00191": []
+                ]
             },
             "m": {
                 "Athaliana_TAIR10||AT1G17290": [
@@ -5347,8 +5293,7 @@
                 "Athaliana_TAIR10||AT1G17290": [
                     "SUBA",
                     "AraCyc"
-                ],
-                "rxn00191": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT1G17290": [
@@ -5432,8 +5377,7 @@
             "c": {
                 "Athaliana_TAIR10||AT4G34230": [
                     "Assumed"
-                ],
-                "rxn00543": []
+                ]
             }
         },
         "publications": [
@@ -5691,8 +5635,7 @@
             "m": {
                 "Athaliana_TAIR10||AT2G18700": [
                     "AraCyc"
-                ],
-                "rxn15362": []
+                ]
             },
             "n": {
                 "Athaliana_TAIR10||AT2G18700": [
@@ -5705,8 +5648,7 @@
                 ],
                 "Athaliana_TAIR10||AT1G78580": [
                     "AraCyc"
-                ],
-                "rxn15362": []
+                ]
             },
             "x": {
                 "Athaliana_TAIR10||AT1G60140": [
@@ -5900,8 +5842,7 @@
                 ],
                 "Athaliana_TAIR10||AT2G16570": [
                     "GFP"
-                ],
-                "rxn00790": []
+                ]
             }
         },
         "publications": [],
@@ -5937,8 +5878,7 @@
                     "PPDB",
                     "AraCyc",
                     "GFP"
-                ],
-                "rxn19071": []
+                ]
             }
         },
         "publications": [],
@@ -5980,8 +5920,7 @@
                 "Athaliana_TAIR10||AT1G11860": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn00908": []
+                ]
             }
         },
         "publications": [
@@ -6106,8 +6045,7 @@
                 ],
                 "Athaliana_TAIR10||AT1G24807": [
                     "Assumed"
-                ],
-                "rxn27709": []
+                ]
             }
         },
         "publications": [],
@@ -6154,8 +6092,7 @@
                     "PPDB",
                     "SUBA",
                     "AraCyc"
-                ],
-                "rxn27709": []
+                ]
             }
         },
         "publications": [],
@@ -6455,8 +6392,7 @@
                 "Athaliana_TAIR10||AT1G11790": [
                     "PPDB",
                     "GFP"
-                ],
-                "rxn19253": []
+                ]
             }
         },
         "publications": [],
@@ -6497,8 +6433,7 @@
                 "Athaliana_TAIR10||AT5G34930": [
                     "PPDB",
                     "GFP"
-                ],
-                "rxn24109": []
+                ]
             }
         },
         "publications": [],
@@ -6620,10 +6555,7 @@
                 "Athaliana_TAIR10||AT5G19550": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn00527": [],
-                "rxn00493": [],
-                "rxn00260": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT2G22250": [
@@ -6639,8 +6571,7 @@
                 ],
                 "Athaliana_TAIR10||AT5G11520": [
                     "PPDB"
-                ],
-                "rxn00260": []
+                ]
             },
             "m": {
                 "Athaliana_TAIR10||AT2G30970": [
@@ -6648,8 +6579,7 @@
                     "SUBA",
                     "AraCyc",
                     "Literature"
-                ],
-                "rxn00260": []
+                ]
             },
             "x": {
                 "Athaliana_TAIR10||AT5G11520": [
@@ -6762,8 +6692,7 @@
             "c": {
                 "Athaliana_TAIR10||AT1G14810": [
                     "SUBA"
-                ],
-                "rxn01643": []
+                ]
             }
         },
         "publications": [],
@@ -6916,11 +6845,7 @@
                 "Athaliana_TAIR10||AT4G00490": [
                     "PPDB",
                     "GFP"
-                ],
-                "rxn22739": [],
-                "rxn17983": [],
-                "rxn23745": [],
-                "rxn22741": []
+                ]
             }
         },
         "publications": [],
@@ -7463,10 +7388,7 @@
                 ],
                 "Athaliana_TAIR10||AT1G10070": [
                     "GFP"
-                ],
-                "rxn19242": [],
-                "rxn19240": [],
-                "rxn19241": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT1G10070": [
@@ -7479,10 +7401,7 @@
                     "AraCyc",
                     "Literature",
                     "GFP"
-                ],
-                "rxn19242": [],
-                "rxn19240": [],
-                "rxn19241": []
+                ]
             },
             "c": {
                 "Athaliana_TAIR10||AT1G50090": [
@@ -7569,17 +7488,14 @@
                     "PPDB",
                     "AraCyc",
                     "GFP"
-                ],
-                "rxn20553": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT2G39290": [
                     "PPDB",
                     "AraCyc",
                     "GFP"
-                ],
-                "rxn20553": [],
-                "rxn28070": []
+                ]
             }
         },
         "publications": [],
@@ -7845,8 +7761,7 @@
             "c": {
                 "Athaliana_TAIR10||AT1G05570": [
                     "GFP"
-                ],
-                "rxn17379": []
+                ]
             }
         },
         "publications": [],
@@ -8431,8 +8346,7 @@
                     "PPDB",
                     "SUBA",
                     "Literature"
-                ],
-                "rxn01256": []
+                ]
             }
         },
         "publications": [],
@@ -9037,8 +8951,7 @@
                     "PPDB",
                     "SUBA",
                     "AraCyc"
-                ],
-                "rxn15166": []
+                ]
             }
         },
         "publications": [],
@@ -9107,8 +9020,7 @@
             "c": {
                 "Athaliana_TAIR10||AT1G33320": [
                     "Assumed"
-                ],
-                "rxn19343": []
+                ]
             }
         },
         "publications": [],
@@ -9152,8 +9064,7 @@
             "c": {
                 "Athaliana_TAIR10||AT5G65720": [
                     "GFP"
-                ],
-                "rxn17731": []
+                ]
             }
         },
         "publications": [],
@@ -9189,8 +9100,7 @@
                     "PPDB",
                     "AraCyc",
                     "GFP"
-                ],
-                "rxn26037": []
+                ]
             }
         },
         "publications": [],
@@ -9237,8 +9147,7 @@
                 "Athaliana_TAIR10||AT2G43750": [
                     "SUBA",
                     "Literature"
-                ],
-                "rxn19345": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT3G61440": [
@@ -9249,8 +9158,7 @@
                     "PPDB",
                     "SUBA",
                     "AraCyc"
-                ],
-                "rxn19345": []
+                ]
             },
             "c": {
                 "Athaliana_TAIR10||AT5G28020": [
@@ -9266,8 +9174,7 @@
                     "PPDB",
                     "SUBA",
                     "AraCyc"
-                ],
-                "rxn19345": []
+                ]
             }
         },
         "publications": [],
@@ -9331,8 +9238,7 @@
                 "Athaliana_TAIR10||ATCG00580": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
@@ -9375,8 +9281,7 @@
             "dy": {
                 "Athaliana_TAIR10||ATCG00570": [
                     "PPDB"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
@@ -10067,8 +9972,7 @@
                 "Athaliana_TAIR10||AT4G11640": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn00166": []
+                ]
             }
         },
         "publications": [],
@@ -10102,8 +10006,7 @@
                     "PPDB",
                     "SUBA",
                     "AraCyc"
-                ],
-                "rxn20649": []
+                ]
             }
         },
         "publications": [],
@@ -10238,8 +10141,7 @@
             "c": {
                 "Athaliana_TAIR10||AT3G46940": [
                     "Assumed"
-                ],
-                "rxn01519": []
+                ]
             }
         },
         "publications": [],
@@ -10340,15 +10242,7 @@
                 "Athaliana_TAIR10||AT1G18590": [
                     "AraCyc",
                     "GFP"
-                ],
-                "rxn27056": [],
-                "rxn14133": [],
-                "rxn02300": [],
-                "rxn14362": [],
-                "rxn27057": [],
-                "rxn11704": [],
-                "rxn27059": [],
-                "rxn27058": []
+                ]
             }
         },
         "publications": [],
@@ -10433,8 +10327,7 @@
                 ],
                 "Athaliana_TAIR10||AT5G37300": [
                     "AraCyc"
-                ],
-                "rxn36690": []
+                ]
             }
         },
         "publications": [],
@@ -10683,8 +10576,7 @@
                 "Athaliana_TAIR10||AT2G21550": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn00686": []
+                ]
             }
         },
         "publications": [],
@@ -10718,8 +10610,7 @@
                     "PPDB",
                     "SUBA",
                     "AraCyc"
-                ],
-                "rxn19488": []
+                ]
             }
         },
         "publications": [],
@@ -10961,8 +10852,7 @@
                 "Athaliana_TAIR10||AT1G48030": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn00908": []
+                ]
             }
         },
         "publications": [
@@ -11012,8 +10902,7 @@
                 "Athaliana_TAIR10||AT1G48030": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn00154": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT4G16155": [
@@ -11128,8 +11017,7 @@
                 "Athaliana_TAIR10||AT3G11750": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn02504": []
+                ]
             }
         },
         "publications": [],
@@ -11194,8 +11082,7 @@
                 "Athaliana_TAIR10||AT1G68760": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn03173": []
+                ]
             }
         },
         "publications": [],
@@ -11336,8 +11223,7 @@
                     "PPDB",
                     "SUBA",
                     "AraCyc"
-                ],
-                "rxn02201": []
+                ]
             },
             "m": {
                 "Athaliana_TAIR10||AT4G30000": [
@@ -12051,10 +11937,7 @@
                 "Athaliana_TAIR10||AT4G27030": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn24805": [],
-                "rxn23722": [],
-                "rxn24807": []
+                ]
             }
         },
         "publications": [],
@@ -12291,9 +12174,7 @@
             "r": {
                 "Athaliana_TAIR10||AT4G00360": [
                     "GFP"
-                ],
-                "rxn16289": [],
-                "rxn20987": []
+                ]
             },
             "c": {
                 "rxn16291": [],
@@ -12765,13 +12646,7 @@
             "c": {
                 "Athaliana_TAIR10||AT1G65860": [
                     "GFP"
-                ],
-                "rxn27060": [],
-                "rxn27064": [],
-                "rxn27063": [],
-                "rxn27061": [],
-                "rxn23784": [],
-                "rxn27062": []
+                ]
             }
         },
         "publications": [],
@@ -12874,16 +12749,14 @@
                 "Athaliana_TAIR10||AT3G10160": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn00689": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT5G05980": [
                     "PPDB",
                     "AraCyc",
                     "GFP"
-                ],
-                "rxn00689": []
+                ]
             },
             "c": {
                 "Athaliana_TAIR10||AT5G05980": [
@@ -12892,8 +12765,7 @@
                 "Athaliana_TAIR10||AT3G55630": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn00689": []
+                ]
             }
         },
         "publications": [],
@@ -13002,9 +12874,7 @@
             "c": {
                 "Athaliana_TAIR10||AT1G50480": [
                     "Assumed"
-                ],
-                "rxn00690": [],
-                "rxn24148": []
+                ]
             }
         },
         "publications": [],
@@ -13501,8 +13371,7 @@
             "c": {
                 "Athaliana_TAIR10||AT1G63660": [
                     "Assumed"
-                ],
-                "rxn00917": []
+                ]
             }
         },
         "publications": [],
@@ -13537,8 +13406,7 @@
                 "Athaliana_TAIR10||AT3G07270": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn00299": []
+                ]
             }
         },
         "publications": [],
@@ -13843,8 +13711,7 @@
                 "Athaliana_TAIR10||AT3G55610": [
                     "PPDB",
                     "GFP"
-                ],
-                "rxn02373": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT2G39800": [
@@ -14001,8 +13868,7 @@
                 "Athaliana_TAIR10||AT3G14550": [
                     "PPDB",
                     "GFP"
-                ],
-                "rxn01486": []
+                ]
             },
             "r": {
                 "Athaliana_TAIR10||AT2G18640": [
@@ -14011,8 +13877,7 @@
                 ],
                 "Athaliana_TAIR10||AT2G23800": [
                     "GFP"
-                ],
-                "rxn01486": []
+                ]
             },
             "m": {
                 "Athaliana_TAIR10||AT1G49530": [
@@ -14143,8 +14008,7 @@
                 ],
                 "Athaliana_TAIR10||AT2G21590": [
                     "PPDB"
-                ],
-                "rxn00695": []
+                ]
             }
         },
         "publications": [],
@@ -14413,9 +14277,7 @@
                 "Athaliana_TAIR10||AT3G55610": [
                     "PPDB",
                     "GFP"
-                ],
-                "rxn00179": [],
-                "rxn20617": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT2G39800": [
@@ -14566,8 +14428,7 @@
                 "Athaliana_TAIR10||AT2G22250": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn28083": []
+                ]
             }
         },
         "publications": [],
@@ -14654,8 +14515,7 @@
                     "PPDB",
                     "SUBA",
                     "AraCyc"
-                ],
-                "rxn00275": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT1G70580": [
@@ -14779,16 +14639,14 @@
                 ],
                 "Athaliana_TAIR10||AT1G48470": [
                     "AraCyc"
-                ],
-                "rxn00187": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT5G35630": [
                     "PPDB",
                     "AraCyc",
                     "GFP"
-                ],
-                "rxn00187": []
+                ]
             },
             "m": {
                 "Athaliana_TAIR10||AT5G35630": [
@@ -14938,9 +14796,7 @@
                 "Athaliana_TAIR10||AT2G30870": [
                     "PPDB",
                     "GFP"
-                ],
-                "rxn21810": [],
-                "rxn21809": []
+                ]
             }
         },
         "publications": [],
@@ -15180,24 +15036,18 @@
             "r": {
                 "Athaliana_TAIR10||AT1G06520": [
                     "AraCyc"
-                ],
-                "rxn20934": [],
-                "rxn28237": []
+                ]
             },
             "m": {
                 "Athaliana_TAIR10||AT1G06520": [
                     "AraCyc"
-                ],
-                "rxn20934": [],
-                "rxn28237": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT1G32200": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn20934": [],
-                "rxn28237": []
+                ]
             },
             "c": {
                 "rxn20934": []
@@ -15357,8 +15207,7 @@
                 ],
                 "Athaliana_TAIR10||AT2G35120": [
                     "AraCyc"
-                ],
-                "rxn00908": []
+                ]
             }
         },
         "publications": [
@@ -15406,8 +15255,7 @@
                 "Athaliana_TAIR10||AT4G33010": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn00908": []
+                ]
             }
         },
         "publications": [
@@ -15671,8 +15519,7 @@
                 ],
                 "Athaliana_TAIR10||AT3G57550": [
                     "Assumed"
-                ],
-                "rxn00239": []
+                ]
             }
         },
         "publications": [],
@@ -15962,8 +15809,7 @@
                     "PPDB",
                     "AraCyc",
                     "GFP"
-                ],
-                "rxn27927": []
+                ]
             }
         },
         "publications": [],
@@ -16050,9 +15896,7 @@
             "r": {
                 "Athaliana_TAIR10||AT1G16410": [
                     "AraCyc"
-                ],
-                "rxn14237": [],
-                "rxn14161": []
+                ]
             }
         },
         "publications": [],
@@ -16134,9 +15978,7 @@
                 ],
                 "Athaliana_TAIR10||AT3G22740": [
                     "Assumed"
-                ],
-                "rxn00452": [],
-                "rxn08703": []
+                ]
             }
         },
         "publications": [],
@@ -16201,8 +16043,7 @@
                 "Athaliana_TAIR10||AT2G18950": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn07331": []
+                ]
             }
         },
         "publications": [],
@@ -16236,8 +16077,7 @@
             "d": {
                 "Athaliana_TAIR10||AT3G11945": [
                     "AraCyc"
-                ],
-                "rxn14085": []
+                ]
             }
         },
         "publications": [],
@@ -16318,8 +16158,7 @@
                     "PPDB",
                     "SUBA",
                     "AraCyc"
-                ],
-                "rxn19905": []
+                ]
             }
         },
         "publications": [],
@@ -16413,15 +16252,13 @@
             "c": {
                 "Athaliana_TAIR10||AT1G76490": [
                     "AraCyc"
-                ],
-                "rxn01501": []
+                ]
             },
             "r": {
                 "Athaliana_TAIR10||AT1G76490": [
                     "AraCyc",
                     "GFP"
-                ],
-                "rxn01501": []
+                ]
             }
         },
         "publications": [],
@@ -16488,8 +16325,7 @@
                 "Athaliana_TAIR10||AT1G22940": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn02484": []
+                ]
             }
         },
         "publications": [],
@@ -16525,8 +16361,7 @@
                 "Athaliana_TAIR10||AT1G22940": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn03108": []
+                ]
             }
         },
         "publications": [],
@@ -16561,8 +16396,7 @@
                 "Athaliana_TAIR10||AT2G29630": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn20643": []
+                ]
             }
         },
         "publications": [],
@@ -16830,7 +16664,6 @@
         ],
         "localization": {
             "c": {
-                "rxn23776": [],
                 "Athaliana_TAIR10||AT1G76790": [
                     "AraCyc"
                 ],
@@ -16966,8 +16799,7 @@
                 ],
                 "Athaliana_TAIR10||AT3G53620": [
                     "PPDB"
-                ],
-                "rxn00001": []
+                ]
             }
         },
         "publications": [],
@@ -17003,8 +16835,7 @@
                 ],
                 "Athaliana_TAIR10||AT1G16350": [
                     "Assumed"
-                ],
-                "rxn00834": []
+                ]
             }
         },
         "publications": [],
@@ -17044,8 +16875,7 @@
                 ],
                 "Athaliana_TAIR10||AT2G19800": [
                     "GFP"
-                ],
-                "rxn15151": []
+                ]
             },
             "n": {
                 "Athaliana_TAIR10||AT4G26260": [
@@ -17124,8 +16954,7 @@
                 ],
                 "Athaliana_TAIR10||AT4G39800": [
                     "GFP"
-                ],
-                "rxn15668": []
+                ]
             }
         },
         "publications": [],
@@ -17241,8 +17070,7 @@
                     "PPDB",
                     "SUBA",
                     "Literature"
-                ],
-                "rxn15022": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT1G65930": [
@@ -17459,8 +17287,7 @@
                 ],
                 "Athaliana_TAIR10||AT3G02780": [
                     "PPDB"
-                ],
-                "rxn00830": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT5G16440": [
@@ -17725,9 +17552,7 @@
                     "PPDB",
                     "SUBA",
                     "AraCyc"
-                ],
-                "rxn00275": [],
-                "rxn00272": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT1G70580": [
@@ -18194,8 +18019,7 @@
                 "Athaliana_TAIR10||AT4G33790": [
                     "AraCyc",
                     "GFP"
-                ],
-                "rxn27019": []
+                ]
             }
         },
         "publications": [],
@@ -18394,8 +18218,7 @@
             "r": {
                 "Athaliana_TAIR10||AT5G37300": [
                     "AraCyc"
-                ],
-                "rxn27027": []
+                ]
             }
         },
         "publications": [],
@@ -18510,8 +18333,7 @@
                 "Athaliana_TAIR10||AT1G08630": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn00541": []
+                ]
             }
         },
         "publications": [],
@@ -18636,8 +18458,7 @@
                     "PPDB",
                     "SUBA",
                     "AraCyc"
-                ],
-                "rxn00248": []
+                ]
             },
             "m": {
                 "Athaliana_TAIR10||AT1G53240": [
@@ -18653,16 +18474,14 @@
                 "Athaliana_TAIR10||AT3G47520": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn00248": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT3G47520": [
                     "PPDB",
                     "SUBA",
                     "AraCyc"
-                ],
-                "rxn00248": []
+                ]
             }
         },
         "publications": [
@@ -19027,9 +18846,7 @@
             "c": {
                 "Athaliana_TAIR10||AT3G12290": [
                     "Assumed"
-                ],
-                "rxn01211": [],
-                "rxn24147": []
+                ]
             },
             "m": {
                 "Athaliana_TAIR10||AT2G38660": [
@@ -19068,8 +18885,7 @@
             "c": {
                 "Athaliana_TAIR10||AT5G49810": [
                     "Assumed"
-                ],
-                "rxn00451": []
+                ]
             }
         },
         "publications": [],
@@ -19199,9 +19015,7 @@
                 "Athaliana_TAIR10||AT3G19710": [
                     "PPDB",
                     "GFP"
-                ],
-                "rxn37695": [],
-                "rxn00454": []
+                ]
             }
         },
         "publications": [
@@ -19249,8 +19063,7 @@
             "c": {
                 "Athaliana_TAIR10||AT3G12290": [
                     "Assumed"
-                ],
-                "rxn00907": []
+                ]
             },
             "m": {
                 "Athaliana_TAIR10||AT2G38660": [
@@ -19470,13 +19283,7 @@
                 ],
                 "Athaliana_TAIR10||AT5G23010": [
                     "AraCyc"
-                ],
-                "rxn14308": [],
-                "rxn14205": [],
-                "rxn14102": [],
-                "rxn14004": [],
-                "rxn14183": [],
-                "rxn14347": []
+                ]
             }
         },
         "publications": [
@@ -19513,8 +19320,7 @@
             "c": {
                 "Athaliana_TAIR10||AT2G05830": [
                     "Assumed"
-                ],
-                "rxn03057": []
+                ]
             }
         },
         "publications": [],
@@ -19584,8 +19390,7 @@
             "c": {
                 "Athaliana_TAIR10||AT5G27450": [
                     "GFP"
-                ],
-                "rxn01607": []
+                ]
             }
         },
         "publications": [],
@@ -19622,10 +19427,7 @@
                 "Athaliana_TAIR10||AT3G56940": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn04152": [],
-                "rxn04154": [],
-                "rxn04153": []
+                ]
             }
         },
         "publications": [],
@@ -19697,8 +19499,7 @@
             "r": {
                 "Athaliana_TAIR10||AT1G57750": [
                     "AraCyc"
-                ],
-                "rxn20883": []
+                ]
             },
             "c": {
                 "rxn20885": []
@@ -19735,8 +19536,7 @@
                 ],
                 "Athaliana_TAIR10||AT5G20090": [
                     "Literature"
-                ],
-                "rxn09717": []
+                ]
             }
         },
         "publications": [],
@@ -20156,8 +19956,7 @@
                 "Athaliana_TAIR10||AT3G21070": [
                     "PPDB",
                     "GFP"
-                ],
-                "rxn00077": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT1G21640": [
@@ -21731,8 +21530,7 @@
                 "Athaliana_TAIR10||AT3G21070": [
                     "PPDB",
                     "GFP"
-                ],
-                "rxn00078": []
+                ]
             },
             "x": {
                 "Athaliana_TAIR10||AT1G78590": [
@@ -21813,15 +21611,13 @@
                     "PPDB",
                     "SUBA",
                     "AraCyc"
-                ],
-                "rxn01011": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT1G68010": [
                     "SUBA",
                     "AraCyc"
-                ],
-                "rxn01011": []
+                ]
             }
         },
         "publications": [
@@ -21956,8 +21752,7 @@
             "c": {
                 "Athaliana_TAIR10||AT1G51720": [
                     "Assumed"
-                ],
-                "rxn00184": []
+                ]
             }
         },
         "publications": [],
@@ -22534,15 +22329,7 @@
                 "Athaliana_TAIR10||AT4G09320": [
                     "PPDB",
                     "GFP"
-                ],
-                "rxn01673": [],
-                "rxn01512": [],
-                "rxn00237": [],
-                "rxn01678": [],
-                "rxn00409": [],
-                "rxn00117": [],
-                "rxn00839": [],
-                "rxn01353": []
+                ]
             },
             "n": {
                 "Athaliana_TAIR10||AT4G09320": [
@@ -22782,26 +22569,7 @@
                 "Athaliana_TAIR10||AT5G05580": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn24867": [],
-                "rxn24863": [],
-                "rxn24763": [],
-                "rxn24771": [],
-                "rxn24869": [],
-                "rxn24861": [],
-                "rxn24799": [],
-                "rxn24793": [],
-                "rxn24767": [],
-                "rxn24797": [],
-                "rxn24785": [],
-                "rxn24803": [],
-                "rxn24791": [],
-                "rxn23726": [],
-                "rxn24865": [],
-                "rxn24871": [],
-                "rxn24779": [],
-                "rxn24795": [],
-                "rxn24775": []
+                ]
             },
             "r": {
                 "Athaliana_TAIR10||AT2G29980": [
@@ -22846,14 +22614,7 @@
             "r": {
                 "Athaliana_TAIR10||AT2G29980": [
                     "AraCyc"
-                ],
-                "rxn22844": [],
-                "rxn22849": [],
-                "rxn22852": [],
-                "rxn22851": [],
-                "rxn22857": [],
-                "rxn22854": [],
-                "rxn22845": []
+                ]
             }
         },
         "publications": [],
@@ -22914,17 +22675,7 @@
                 "Athaliana_TAIR10||AT4G30950": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn24769": [],
-                "rxn24789": [],
-                "rxn24773": [],
-                "rxn24859": [],
-                "rxn24765": [],
-                "rxn24777": [],
-                "rxn23724": [],
-                "rxn24783": [],
-                "rxn24761": [],
-                "rxn24801": []
+                ]
             },
             "c": {
                 "rxn25758": []
@@ -22967,14 +22718,7 @@
             "r": {
                 "Athaliana_TAIR10||AT3G12120": [
                     "AraCyc"
-                ],
-                "rxn22850": [],
-                "rxn22846": [],
-                "rxn22856": [],
-                "rxn22847": [],
-                "rxn22855": [],
-                "rxn22853": [],
-                "rxn22848": []
+                ]
             }
         },
         "publications": [],
@@ -23014,8 +22758,7 @@
                 "Athaliana_TAIR10||AT5G46180": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn20496": []
+                ]
             }
         },
         "publications": [],
@@ -23116,8 +22859,7 @@
             "c": {
                 "Athaliana_TAIR10||AT3G54470": [
                     "Literature"
-                ],
-                "rxn01362": []
+                ]
             }
         },
         "publications": [],
@@ -23179,8 +22921,7 @@
             "c": {
                 "Athaliana_TAIR10||AT3G54470": [
                     "Literature"
-                ],
-                "rxn00710": []
+                ]
             }
         },
         "publications": [],
@@ -23255,8 +22996,6 @@
                 ]
             },
             "c": {
-                "rxn21795": [],
-                "rxn21793": [],
                 "Athaliana_TAIR10||AT5G57220": [
                     "AraCyc"
                 ],
@@ -23489,10 +23228,7 @@
             "d": {
                 "Athaliana_TAIR10||AT3G15850": [
                     "AraCyc"
-                ],
-                "rxn24781": [],
-                "rxn24787": [],
-                "rxn23728": []
+                ]
             }
         },
         "publications": [],
@@ -23526,8 +23262,7 @@
             "c": {
                 "Athaliana_TAIR10||AT5G48840": [
                     "GFP"
-                ],
-                "rxn01791": []
+                ]
             }
         },
         "publications": [],
@@ -23713,9 +23448,7 @@
             "r": {
                 "Athaliana_TAIR10||AT1G16400": [
                     "AraCyc"
-                ],
-                "rxn14237": [],
-                "rxn14161": []
+                ]
             }
         },
         "publications": [],
@@ -24058,9 +23791,7 @@
                 "Athaliana_TAIR10||AT3G60620": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn19272": [],
-                "rxn27746": []
+                ]
             }
         },
         "publications": [],
@@ -24377,8 +24108,7 @@
             "c": {
                 "Athaliana_TAIR10||AT5G64070": [
                     "GFP"
-                ],
-                "rxn16850": []
+                ]
             }
         },
         "publications": [],
@@ -24631,8 +24361,7 @@
                 ],
                 "Athaliana_TAIR10||AT2G42600": [
                     "Assumed"
-                ],
-                "rxn20508": []
+                ]
             }
         },
         "publications": [
@@ -24888,8 +24617,7 @@
                 "Athaliana_TAIR10||AT1G23190": [
                     "PPDB",
                     "GFP"
-                ],
-                "rxn20583": []
+                ]
             }
         },
         "publications": [],
@@ -25001,8 +24729,7 @@
                 "Athaliana_TAIR10||AT5G36700": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn00980": []
+                ]
             },
             "n": {
                 "Athaliana_TAIR10||AT5G36790": [
@@ -25176,8 +24903,7 @@
             "c": {
                 "Athaliana_TAIR10||AT1G31910": [
                     "GFP"
-                ],
-                "rxn02322": []
+                ]
             },
             "x": {
                 "Athaliana_TAIR10||AT1G31910": [
@@ -25577,8 +25303,7 @@
                     "PPDB",
                     "SUBA",
                     "AraCyc"
-                ],
-                "rxn28082": []
+                ]
             }
         },
         "publications": [],
@@ -25916,8 +25641,7 @@
                 "Athaliana_TAIR10||ATCG00710": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
@@ -25956,8 +25680,7 @@
                 "Athaliana_TAIR10||AT1G79040": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
@@ -26025,8 +25748,7 @@
             "dy": {
                 "Athaliana_TAIR10||AT4G28660": [
                     "PPDB"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
@@ -26066,8 +25788,7 @@
                 "Athaliana_TAIR10||AT1G44575": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
@@ -26110,8 +25831,7 @@
                 "Athaliana_TAIR10||ATCG00280": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
@@ -26154,8 +25874,7 @@
                 "Athaliana_TAIR10||ATCG00680": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
@@ -26203,8 +25922,7 @@
                 "Athaliana_TAIR10||AT5G66570": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
@@ -26249,8 +25967,7 @@
                 ],
                 "Athaliana_TAIR10||AT2G30790": [
                     "PPDB"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
@@ -26295,8 +26012,7 @@
                 ],
                 "Athaliana_TAIR10||AT4G05180": [
                     "PPDB"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
@@ -26336,8 +26052,7 @@
             "dy": {
                 "Athaliana_TAIR10||AT1G03600": [
                     "PPDB"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
@@ -26379,8 +26094,7 @@
                 "Athaliana_TAIR10||ATCG00080": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
@@ -26420,8 +26134,7 @@
             "dy": {
                 "Athaliana_TAIR10||ATCG00550": [
                     "PPDB"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
@@ -26461,8 +26174,7 @@
             "dy": {
                 "Athaliana_TAIR10||ATCG00070": [
                     "PPDB"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
@@ -26505,8 +26217,7 @@
             "dy": {
                 "Athaliana_TAIR10||ATCG00560": [
                     "PPDB"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
@@ -26547,8 +26258,7 @@
             "dy": {
                 "Athaliana_TAIR10||ATCG00220": [
                     "PPDB"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
@@ -26588,8 +26298,7 @@
             "dy": {
                 "Athaliana_TAIR10||ATCG00700": [
                     "PPDB"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
@@ -26632,8 +26341,7 @@
                 ],
                 "Athaliana_TAIR10||AT1G51400": [
                     "PPDB"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
@@ -26706,8 +26414,7 @@
                 "Athaliana_TAIR10||AT2G06520": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
@@ -26749,8 +26456,7 @@
                 "Athaliana_TAIR10||AT1G67740": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
@@ -26790,8 +26496,7 @@
             "dy": {
                 "Athaliana_TAIR10||ATCG00300": [
                     "PPDB"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
@@ -26832,8 +26537,7 @@
             "dy": {
                 "Athaliana_TAIR10||AT5G23120": [
                     "PPDB"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
@@ -27294,8 +26998,7 @@
                 "Athaliana_TAIR10||AT1G11790": [
                     "PPDB",
                     "GFP"
-                ],
-                "rxn01000": []
+                ]
             }
         },
         "publications": [],
@@ -27571,8 +27274,7 @@
                 "Athaliana_TAIR10||AT1G08520": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn02733": []
+                ]
             }
         },
         "publications": [],
@@ -27608,8 +27310,7 @@
                     "PPDB",
                     "AraCyc",
                     "GFP"
-                ],
-                "rxn02733": []
+                ]
             }
         },
         "publications": [],
@@ -27649,8 +27350,7 @@
                 "Athaliana_TAIR10||AT5G45930": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn02733": []
+                ]
             }
         },
         "publications": [],
@@ -27756,8 +27456,7 @@
             "dy": {
                 "Athaliana_TAIR10||AT4G35250": [
                     "PPDB"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
@@ -27867,10 +27566,7 @@
                 "Athaliana_TAIR10||AT5G37850": [
                     "SUBA",
                     "Literature"
-                ],
-                "rxn01396": [],
-                "rxn01807": [],
-                "rxn00124": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT5G37850": [
@@ -28043,8 +27739,7 @@
                     "PPDB",
                     "Literature",
                     "GFP"
-                ],
-                "rxn21635": []
+                ]
             },
             "n": {
                 "Athaliana_TAIR10||AT5G60540": [
@@ -28091,8 +27786,7 @@
                     "PPDB",
                     "Literature",
                     "GFP"
-                ],
-                "rxn21635": []
+                ]
             },
             "n": {
                 "Athaliana_TAIR10||AT5G01410": [
@@ -28275,9 +27969,7 @@
             "c": {
                 "Athaliana_TAIR10||AT5G14800": [
                     "GFP"
-                ],
-                "rxn00929": [],
-                "rxn00931": []
+                ]
             }
         },
         "publications": [],
@@ -28331,8 +28023,7 @@
                 ],
                 "Athaliana_TAIR10||AT5G54960": [
                     "Assumed"
-                ],
-                "rxn00168": []
+                ]
             }
         },
         "publications": [
@@ -28894,15 +28585,7 @@
             "c": {
                 "Athaliana_TAIR10||AT2G21790": [
                     "Assumed"
-                ],
-                "rxn39248": [],
-                "rxn39247": [],
-                "rxn19077": [],
-                "rxn19771": [],
-                "rxn19277": [],
-                "rxn39246": [],
-                "rxn27415": [],
-                "rxn39245": []
+                ]
             }
         },
         "publications": [],
@@ -28950,15 +28633,7 @@
                 ],
                 "Athaliana_TAIR10||AT3G27060": [
                     "Assumed"
-                ],
-                "rxn39248": [],
-                "rxn39247": [],
-                "rxn19077": [],
-                "rxn19771": [],
-                "rxn19277": [],
-                "rxn39246": [],
-                "rxn27415": [],
-                "rxn39245": []
+                ]
             }
         },
         "publications": [],
@@ -29122,9 +28797,7 @@
                 "Athaliana_TAIR10||ATCG00490": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn02251": [],
-                "rxn00018": []
+                ]
             }
         },
         "publications": [
@@ -29187,9 +28860,7 @@
                 "Athaliana_TAIR10||AT5G38410": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn02251": [],
-                "rxn00018": []
+                ]
             },
             "x": {
                 "Athaliana_TAIR10||AT1G67090": [
@@ -29383,8 +29054,7 @@
                 ],
                 "Athaliana_TAIR10||AT1G02500": [
                     "Assumed"
-                ],
-                "rxn00126": []
+                ]
             },
             "n": {
                 "Athaliana_TAIR10||AT4G01850": [
@@ -29536,16 +29206,14 @@
                 "Athaliana_TAIR10||AT2G17640": [
                     "AraCyc",
                     "GFP"
-                ],
-                "rxn19345": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT1G55920": [
                     "PPDB",
                     "AraCyc",
                     "GFP"
-                ],
-                "rxn19345": []
+                ]
             },
             "m": {
                 "Athaliana_TAIR10||AT3G13110": [
@@ -29633,8 +29301,7 @@
                 "Athaliana_TAIR10||AT4G37930": [
                     "PPDB",
                     "GFP"
-                ],
-                "rxn00692": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT4G37930": [
@@ -29693,8 +29360,7 @@
                 "Athaliana_TAIR10||AT5G23670": [
                     "AraCyc",
                     "GFP"
-                ],
-                "rxn00948": []
+                ]
             }
         },
         "publications": [],
@@ -29729,8 +29395,7 @@
                 "Athaliana_TAIR10||AT4G11640": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn00425": []
+                ]
             }
         },
         "publications": [],
@@ -30115,8 +29780,7 @@
                     "PPDB",
                     "AraCyc",
                     "GFP"
-                ],
-                "rxn02056": []
+                ]
             }
         },
         "publications": [],
@@ -30730,8 +30394,7 @@
             "d": {
                 "Athaliana_TAIR10||AT5G04360": [
                     "PPDB"
-                ],
-                "rxn23743": []
+                ]
             }
         },
         "publications": [],
@@ -31404,27 +31067,23 @@
             "m": {
                 "Athaliana_TAIR10||AT1G56560": [
                     "AraCyc"
-                ],
-                "rxn15069": []
+                ]
             },
             "n": {
                 "Athaliana_TAIR10||AT1G35580": [
                     "AraCyc"
-                ],
-                "rxn15069": []
+                ]
             },
             "c": {
                 "Athaliana_TAIR10||AT1G35580": [
                     "AraCyc"
-                ],
-                "rxn15069": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT5G22510": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn15069": []
+                ]
             }
         },
         "publications": [],
@@ -31467,8 +31126,7 @@
             "c": {
                 "Athaliana_TAIR10||AT5G49190": [
                     "AraCyc"
-                ],
-                "rxn37266": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT5G49190": [
@@ -31575,8 +31233,7 @@
             "c": {
                 "Athaliana_TAIR10||AT5G20280": [
                     "AraCyc"
-                ],
-                "rxn15062": []
+                ]
             }
         },
         "publications": [
@@ -31675,8 +31332,7 @@
                 "Athaliana_TAIR10||AT4G14680": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn27259": []
+                ]
             },
             "n": {
                 "Athaliana_TAIR10||AT4G14680": [
@@ -31816,8 +31472,7 @@
                 "Athaliana_TAIR10||AT1G30400": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn09711": []
+                ]
             },
             "cd": {
                 "Athaliana_TAIR10||AT2G32040": [
@@ -31827,8 +31482,7 @@
                 "Athaliana_TAIR10||AT5G66380": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn09711": []
+                ]
             },
             "cm": {
                 "rxn09711": []
@@ -31895,8 +31549,7 @@
                 ],
                 "Athaliana_TAIR10||AT1G02880": [
                     "AraCyc"
-                ],
-                "rxn00440": []
+                ]
             }
         },
         "publications": [],
@@ -31960,9 +31613,7 @@
                 "Athaliana_TAIR10||AT1G22940": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn02305": [],
-                "rxn03108": []
+                ]
             }
         },
         "publications": [],
@@ -32129,8 +31780,7 @@
                 "Athaliana_TAIR10||AT2G17420": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn27318": []
+                ]
             },
             "m": {
                 "Athaliana_TAIR10||AT4G35460": [
@@ -32329,8 +31979,7 @@
                 ],
                 "Athaliana_TAIR10||AT2G21550": [
                     "Assumed"
-                ],
-                "rxn01520": []
+                ]
             }
         },
         "publications": [],
@@ -32367,8 +32016,7 @@
                 "Athaliana_TAIR10||AT2G30490": [
                     "AraCyc",
                     "GFP"
-                ],
-                "rxn01611": []
+                ]
             },
             "c": {
                 "rxn01611": []
@@ -32555,8 +32203,7 @@
             "m": {
                 "Athaliana_TAIR10||AT2G18700": [
                     "AraCyc"
-                ],
-                "rxn02004": []
+                ]
             },
             "n": {
                 "Athaliana_TAIR10||AT2G18700": [
@@ -32671,10 +32318,7 @@
             "d": {
                 "Athaliana_TAIR10||AT4G39950": [
                     "AraCyc"
-                ],
-                "rxn16427": [],
-                "rxn16426": [],
-                "rxn16428": []
+                ]
             }
         },
         "publications": [],
@@ -32709,8 +32353,7 @@
                 "Athaliana_TAIR10||AT3G54640": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn28615": []
+                ]
             }
         },
         "publications": [],
@@ -32752,8 +32395,7 @@
                 "Athaliana_TAIR10||AT4G27070": [
                     "PPDB",
                     "SUBA"
-                ],
-                "rxn26013": []
+                ]
             }
         },
         "publications": [],
@@ -33029,8 +32671,7 @@
             "c": {
                 "Athaliana_TAIR10||AT1G78570": [
                     "GFP"
-                ],
-                "rxn02735": []
+                ]
             }
         },
         "publications": [],
@@ -33065,8 +32706,7 @@
             "c": {
                 "Athaliana_TAIR10||AT1G78570": [
                     "GFP"
-                ],
-                "rxn02735": []
+                ]
             }
         },
         "publications": [],
@@ -33175,8 +32815,7 @@
             "c": {
                 "Athaliana_TAIR10||AT1G78570": [
                     "GFP"
-                ],
-                "rxn00215": []
+                ]
             }
         },
         "publications": [],
@@ -33344,8 +32983,7 @@
             "c": {
                 "Athaliana_TAIR10||AT1G05560": [
                     "GFP"
-                ],
-                "rxn24131": []
+                ]
             }
         },
         "publications": [],
@@ -33569,8 +33207,7 @@
                 "Athaliana_TAIR10||AT4G33030": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn04027": []
+                ]
             }
         },
         "publications": [],
@@ -33605,8 +33242,7 @@
                 "Athaliana_TAIR10||AT5G01220": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn22649": []
+                ]
             }
         },
         "publications": [],
@@ -34073,8 +33709,7 @@
                 "Athaliana_TAIR10||AT1G67550": [
                     "PPDB",
                     "GFP"
-                ],
-                "rxn00101": []
+                ]
             }
         },
         "publications": [],
@@ -34107,9 +33742,7 @@
             "c": {
                 "Athaliana_TAIR10||AT5G26667": [
                     "Assumed"
-                ],
-                "rxn00119": [],
-                "rxn00364": []
+                ]
             }
         },
         "publications": [],
@@ -34612,10 +34245,7 @@
             "r": {
                 "Athaliana_TAIR10||AT5G10480": [
                     "AraCyc"
-                ],
-                "rxn22099": [],
-                "rxn22098": [],
-                "rxn22100": []
+                ]
             }
         },
         "publications": [],
@@ -34883,8 +34513,7 @@
                 "Athaliana_TAIR10||AT2G20370": [
                     "AraCyc",
                     "GFP"
-                ],
-                "rxn25587": []
+                ]
             }
         },
         "publications": [],
@@ -34957,8 +34586,7 @@
                 ],
                 "Athaliana_TAIR10||AT2G21370": [
                     "GFP"
-                ],
-                "rxn01199": []
+                ]
             },
             "d": {
                 "Athaliana_TAIR10||AT2G21370": [
@@ -35111,8 +34739,7 @@
                 "Athaliana_TAIR10||AT1G64970": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn07335": []
+                ]
             }
         },
         "publications": [],
@@ -35147,8 +34774,7 @@
                 "Athaliana_TAIR10||AT1G64970": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn05004": []
+                ]
             }
         },
         "publications": [],
@@ -35326,8 +34952,7 @@
                 "Athaliana_TAIR10||ATCG00350": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn26754": []
+                ]
             }
         },
         "publications": [
@@ -35370,8 +34995,7 @@
                 "Athaliana_TAIR10||ATCG00340": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn26754": []
+                ]
             }
         },
         "publications": [
@@ -35411,8 +35035,7 @@
             "d": {
                 "Athaliana_TAIR10||ATCG00360": [
                     "PPDB"
-                ],
-                "rxn26754": []
+                ]
             }
         },
         "publications": [
@@ -35474,8 +35097,7 @@
             "d": {
                 "Athaliana_TAIR10||ATCG00520": [
                     "PPDB"
-                ],
-                "rxn26754": []
+                ]
             }
         },
         "publications": [
@@ -35538,8 +35160,7 @@
                 "Athaliana_TAIR10||ATCG01060": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn26754": []
+                ]
             }
         },
         "publications": [
@@ -35588,8 +35209,7 @@
                 "Athaliana_TAIR10||AT4G02770": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn26754": []
+                ]
             }
         },
         "publications": [
@@ -35629,8 +35249,7 @@
                 "Athaliana_TAIR10||AT1G31330": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn26754": []
+                ]
             }
         },
         "publications": [
@@ -35673,8 +35292,7 @@
                 "Athaliana_TAIR10||AT4G28750": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn26754": []
+                ]
             }
         },
         "publications": [
@@ -35710,8 +35328,7 @@
             "d": {
                 "Athaliana_TAIR10||ATCG00630": [
                     "PPDB"
-                ],
-                "rxn26754": []
+                ]
             }
         },
         "publications": [
@@ -35748,8 +35365,7 @@
                 "Athaliana_TAIR10||AT1G55670": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn26754": []
+                ]
             }
         },
         "publications": [
@@ -35785,8 +35401,7 @@
                 "Athaliana_TAIR10||AT5G64040": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn26754": []
+                ]
             }
         },
         "publications": [
@@ -35823,8 +35438,7 @@
                 "Athaliana_TAIR10||AT1G08380": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn26754": []
+                ]
             }
         },
         "publications": [
@@ -35860,8 +35474,7 @@
                 "Athaliana_TAIR10||AT2G46820": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn26754": []
+                ]
             }
         },
         "publications": [
@@ -35901,8 +35514,7 @@
                 ],
                 "Athaliana_TAIR10||AT1G52230": [
                     "PPDB"
-                ],
-                "rxn26754": []
+                ]
             }
         },
         "publications": [
@@ -35937,8 +35549,7 @@
             "d": {
                 "Athaliana_TAIR10||ATCG00510": [
                     "PPDB"
-                ],
-                "rxn26754": []
+                ]
             }
         },
         "publications": [
@@ -35976,8 +35587,7 @@
                 "Athaliana_TAIR10||AT1G30380": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn26754": []
+                ]
             }
         },
         "publications": [
@@ -36014,8 +35624,7 @@
                 "Athaliana_TAIR10||AT4G12800": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn26754": []
+                ]
             }
         },
         "publications": [
@@ -36081,8 +35690,7 @@
                 "Athaliana_TAIR10||ATCG00020": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
@@ -36125,8 +35733,7 @@
                 "Athaliana_TAIR10||ATCG00270": [
                     "PPDB",
                     "AraCyc"
-                ],
-                "rxn20632": []
+                ]
             }
         },
         "publications": [
