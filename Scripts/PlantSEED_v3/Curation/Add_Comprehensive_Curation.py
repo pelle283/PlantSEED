@@ -111,6 +111,7 @@ for protseq_file in glob.glob(search_path):
 # 9: homomers
 # 10: activate  
 # 11: type (universal|conditional)
+# 12: curator
 
 new_complex_rxns_dict = dict()
 
@@ -135,6 +136,7 @@ for pwy_file in glob.glob(search_path):
 			hom = tmp_lst[9]
 			inc = tmp_lst[10]
 			typ = tmp_lst[11]
+			cur = tmp_lst[12]
 
 			new_role = False
 			if(role not in roles_dict):
@@ -221,6 +223,13 @@ for pwy_file in glob.glob(search_path):
 						if entry not in pubs_dict[role]:
 							roles_list[index]['publications'].append(entry)
 							print("\t\t  new publication:\t" + entry)
+				
+				if(cur != ''):
+					for curator in cur.split(';'):
+						if('curators' not in roles_list[index]):
+							roles_list[index]['curators']=list()
+						if(curator not in roles_list[index]['curators']):
+							roles_list[index]['curators'].append(curator)
 
 			####################################
 			# ADD NEW ROLE
@@ -318,6 +327,13 @@ for pwy_file in glob.glob(search_path):
 				# type
 				if(typ != ''):
 					new_role['type']=typ
+
+				####################################
+				# curators
+				if(cur != ''):
+					new_role["curators"] = list()
+					for curator in cur.split(';'):
+						new_role['curators'].append(curator)
 
 				####################################
 				# Add predictions

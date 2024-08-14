@@ -37338,6 +37338,10 @@
         ],
         "predictions": {},
         "sequences": {},
-        "type": "conditional"
+        "type": "conditional",
+        "curators": [
+            "ricon001",
+            "samseaver"
+        ]
     }
 ]
