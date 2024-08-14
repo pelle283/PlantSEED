@@ -18989,10 +18989,9 @@
         "type": "universal"
     },
     {
-        "role": "Methionine--oxo-acid aminotransferase (EC 2.6.1.88)",
+        "role": "Methionine transaminase (EC 2.6.1.88)",
         "include": true,
         "subsystems": [
-            "Methionine_and_cysteine_metabolism_in_plants",
             "Homomethionine_biosynthesis_and_methionine_chain_elongation_pathway_for_glucosinolates_in_plants"
         ],
         "classes": {
@@ -19004,28 +19003,34 @@
             }
         },
         "features": [
-            "Athaliana_TAIR10||AT3G19710"
+            "Athaliana_TAIR10||AT3G19710",
+            "UniProt||Q9LE06"
         ],
         "reactions": [
-            "rxn37695",
-            "rxn00454"
+            "rxn05108"
         ],
         "localization": {
             "c": {
                 "Athaliana_TAIR10||AT3G19710": [
                     "PPDB",
                     "GFP"
+                ],
+                "UniProt||Q9LE06": [
+                    "PPDB",
+                    "GFP"
                 ]
             }
         },
         "publications": [
+            "10.1105/tpc.105.039339",
             "10.1105/tpc.105.039339"
         ],
         "kbase_id": "PS_role_6f9c37",
         "curators": [
             "SvetaG",
             "samseaver",
-            "tjcontant"
+            "tjcontant",
+            "riocon001"
         ],
         "type": "conditional"
     },
