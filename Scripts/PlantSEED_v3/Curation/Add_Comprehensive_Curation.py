@@ -110,6 +110,7 @@ for protseq_file in glob.glob(search_path):
 # 8: cofactors
 # 9: homomers
 # 10: activate  
+# 11: type (universal|conditional)
 
 new_complex_rxns_dict = dict()
 
@@ -128,11 +129,12 @@ for pwy_file in glob.glob(search_path):
 			pub = tmp_lst[3]
 			ss  = tmp_lst[4]
 			cls = tmp_lst[5]
-			pwy = tmp_lst[6]
+			pwys = tmp_lst[6]
 			loc = tmp_lst[7]
 			cof = tmp_lst[8]
 			hom = tmp_lst[9]
 			inc = tmp_lst[10]
+			typ = tmp_lst[11]
 
 			new_role = False
 			if(role not in roles_dict):
@@ -233,7 +235,8 @@ for pwy_file in glob.glob(search_path):
 							'localization':{},
 							'publications':[],
 							'predictions':{},
-							'sequences':{}}
+							'sequences':{},
+							'type':'universal'}
 
 				####################################
 				# Add function
@@ -247,15 +250,9 @@ for pwy_file in glob.glob(search_path):
 					class_dict[entry]=[]
 
 					# Add pathway
-					if(pwy != ""):
-						# One pathway for all classes
-						if (len(pwy.split('||')) == 1):
+					if(pwys != ""):
+						for pwy in pwys.split('||'):
 							class_dict[entry].append(pwy)
-						# Pathway for each class
-						else:
-							# Check if each pathway defined for each class
-							if(pwy.split('||')[ss.split('||').index(entry)] != ""):
-								class_dict[entry].append(pwy.split('||')[ss.split('||').index(entry)])
 
 				new_role['classes'][cls]=class_dict
 
@@ -316,6 +313,11 @@ for pwy_file in glob.glob(search_path):
 						new_role['include']=True
 					if(inc == 'exclude'):
 						new_role['include']=False
+
+				####################################
+				# type
+				if(typ != ''):
+					new_role['type']=typ
 
 				####################################
 				# Add predictions

@@ -37299,5 +37299,45 @@
             "samseaver"
         ],
         "type": "universal"
+    },
+    {
+        "role": "Methylthioalkylmalate synthase, 5C-6C only (EC 2.3.3.17)",
+        "include": true,
+        "subsystems": [
+            "Homomethionine_biosynthesis_and_methionine_chain_elongation_pathway_for_glucosinolates_in_plants"
+        ],
+        "classes": {
+            "Amino acids": {
+                "Homomethionine_biosynthesis_and_methionine_chain_elongation_pathway_for_glucosinolates_in_plants": [
+                    "PWY-1186",
+                    "PWYQT-4450"
+                ]
+            }
+        },
+        "features": [
+            "Athaliana_TAIR10||AT5G23010",
+            "UniProt||Q9FG67"
+        ],
+        "reactions": [
+            "rxn14004",
+            "rxn14183"
+        ],
+        "localization": {
+            "c": {
+                "Athaliana_TAIR10||AT5G23010": [
+                    "PPDB"
+                ],
+                "UniProt||Q9FG67": [
+                    "PPDB"
+                ]
+            }
+        },
+        "publications": [
+            "10.1007/s00425-003-1184-3",
+            "10.1104/pp.010416"
+        ],
+        "predictions": {},
+        "sequences": {},
+        "type": "conditional"
     }
 ]
