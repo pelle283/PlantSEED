@@ -24,7 +24,6 @@ for entry in roles_list:
 		entry['kbase_id'] = entry_id
 		print('New ID:\t' + entry_id + '\t' + entry['role'])
 
-	print(entry['kbase_id'])
 	# add id to list
 	ID_list.append(entry['kbase_id'])
 
