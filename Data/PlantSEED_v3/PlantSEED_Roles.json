@@ -9376,66 +9376,6 @@
         "type": "universal"
     },
     {
-        "role": "Cytochrome b6-f complex alternative Rieske iron sulfur protein PetC2",
-        "include": true,
-        "subsystems": [
-            "Cytochrome_b6-f_complex_in_plants_(plastidial)_and_cyanobacteria"
-        ],
-        "classes": {
-            "Energy": {
-                "Cytochrome_b6-f_complex_in_plants_(plastidial)_and_cyanobacteria": [
-                    "PWY-101"
-                ]
-            }
-        },
-        "features": [],
-        "reactions": [
-            "rxn20595"
-        ],
-        "localization": {
-            "dy": {
-                "rxn20595": []
-            }
-        },
-        "publications": [],
-        "kbase_id": "PS_role_4c5920",
-        "curators": [
-            "SvetaG",
-            "samseaver"
-        ],
-        "type": "universal"
-    },
-    {
-        "role": "Cytochrome b6-f complex alternative Rieske iron sulfur protein PetC3",
-        "include": true,
-        "subsystems": [
-            "Cytochrome_b6-f_complex_in_plants_(plastidial)_and_cyanobacteria"
-        ],
-        "classes": {
-            "Energy": {
-                "Cytochrome_b6-f_complex_in_plants_(plastidial)_and_cyanobacteria": [
-                    "PWY-101"
-                ]
-            }
-        },
-        "features": [],
-        "reactions": [
-            "rxn20595"
-        ],
-        "localization": {
-            "dy": {
-                "rxn20595": []
-            }
-        },
-        "publications": [],
-        "kbase_id": "PS_role_235dd4",
-        "curators": [
-            "SvetaG",
-            "samseaver"
-        ],
-        "type": "universal"
-    },
-    {
         "role": "Cytochrome b6-f complex PetC, Rieske iron-sulfur protein (EC 7.1.1.6)",
         "include": true,
         "subsystems": [
@@ -9554,36 +9494,6 @@
         "type": "universal"
     },
     {
-        "role": "Cytochrome b6-f complex subunit VII (PetM)",
-        "include": true,
-        "subsystems": [
-            "Cytochrome_b6-f_complex_in_plants_(plastidial)_and_cyanobacteria"
-        ],
-        "classes": {
-            "Energy": {
-                "Cytochrome_b6-f_complex_in_plants_(plastidial)_and_cyanobacteria": [
-                    "PWY-101"
-                ]
-            }
-        },
-        "features": [],
-        "reactions": [
-            "rxn20595"
-        ],
-        "localization": {
-            "dy": {
-                "rxn20595": []
-            }
-        },
-        "publications": [],
-        "kbase_id": "PS_role_fc337f",
-        "curators": [
-            "SvetaG",
-            "samseaver"
-        ],
-        "type": "universal"
-    },
-    {
         "role": "Cytochrome b6-f complex PetA, apocytochrome f (EC 7.1.1.6)",
         "include": true,
         "subsystems": [
@@ -9663,36 +9573,6 @@
             "SvetaG",
             "samseaver",
             "clermaortiz"
-        ],
-        "type": "universal"
-    },
-    {
-        "role": "Cytochrome b6-f complex subunit, cytochrome b6, putative",
-        "include": true,
-        "subsystems": [
-            "Cytochrome_b6-f_complex_in_plants_(plastidial)_and_cyanobacteria"
-        ],
-        "classes": {
-            "Energy": {
-                "Cytochrome_b6-f_complex_in_plants_(plastidial)_and_cyanobacteria": [
-                    "PWY-101"
-                ]
-            }
-        },
-        "features": [],
-        "reactions": [
-            "rxn20595"
-        ],
-        "localization": {
-            "dy": {
-                "rxn20595": []
-            }
-        },
-        "publications": [],
-        "kbase_id": "PS_role_513dee",
-        "curators": [
-            "SvetaG",
-            "samseaver"
         ],
         "type": "universal"
     },
