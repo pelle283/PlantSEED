@@ -27079,7 +27079,7 @@
         "type": "universal"
     },
     {
-        "role": "Probable acyl-ACP desaturase, Palmitoyl-ACP 9-desaturase (EC 1.14.19.-)",
+        "role": "Putative acyl-ACP desaturase, Palmitoyl-ACP 9-desaturase (EC 1.14.19.-)",
         "include": false,
         "subsystems": [
             "Unsaturated_Fatty_Acid_biosynthesis_in_plants"
@@ -27111,7 +27111,7 @@
         "type": "universal"
     },
     {
-        "role": "Probable acyl-ACP desaturase, Stearoyl-ACP desaturase (EC 1.14.19.2)",
+        "role": "Putative acyl-ACP desaturase, Stearoyl-ACP desaturase (EC 1.14.19.2)",
         "include": true,
         "subsystems": [
             "Fatty_acid_biosynthesis_in_plants_(plastidial)"
@@ -27153,7 +27153,7 @@
         "type": "universal"
     },
     {
-        "role": "Probable cytochrome c oxidase subunit 5c",
+        "role": "Putative cytochrome c oxidase subunit 5c",
         "include": true,
         "subsystems": [
             "Respiratory_complex_IV_(terminal_cytochrome_c_oxidase)_in_plants"
