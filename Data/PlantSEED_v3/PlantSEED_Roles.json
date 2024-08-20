@@ -5303,7 +5303,11 @@
         "reactions": [
             "rxn08173"
         ],
-        "localization": {},
+        "localization": {
+            "mj": {
+                "rxn08173": []
+            }
+        },
         "publications": [],
         "kbase_id": "PS_role_75bb7d",
         "curators": [
@@ -5312,7 +5316,15 @@
         ],
         "type": "universal",
         "is_transporter": false,
-        "compartmentalization": {},
+        "compartmentalization": {
+            "mj": {
+                "reaction": "j",
+                "kbase_ids": [
+                    "PS_complex_6d3f23"
+                ],
+                "exclude": false
+            }
+        },
         "abstract_enzyme": "ATP synthase"
     },
     {
@@ -13263,7 +13275,11 @@
         "reactions": [
             "rxn35347"
         ],
-        "localization": {},
+        "localization": {
+            "mj": {
+                "rxn35347": []
+            }
+        },
         "publications": [],
         "kbase_id": "PS_role_d5480a",
         "curators": [
@@ -13272,7 +13288,15 @@
         ],
         "type": "universal",
         "is_transporter": false,
-        "compartmentalization": {},
+        "compartmentalization": {
+            "mj": {
+                "reaction": "j",
+                "kbase_ids": [
+                    "PS_complex_b518d2"
+                ],
+                "exclude": false
+            }
+        },
         "abstract_enzyme": "Cytochrome c oxidase"
     },
     {
@@ -13430,7 +13454,11 @@
         "reactions": [
             "rxn35347"
         ],
-        "localization": {},
+        "localization": {
+            "mj": {
+                "rxn35347": []
+            }
+        },
         "publications": [],
         "kbase_id": "PS_role_5349d8",
         "curators": [
@@ -13439,7 +13467,15 @@
         ],
         "type": "universal",
         "is_transporter": false,
-        "compartmentalization": {},
+        "compartmentalization": {
+            "mj": {
+                "reaction": "j",
+                "kbase_ids": [
+                    "PS_complex_b518d2"
+                ],
+                "exclude": false
+            }
+        },
         "abstract_enzyme": "Cytochrome c oxidase"
     },
     {
