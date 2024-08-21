@@ -32881,7 +32881,11 @@
         "reactions": [
             "rxn14003"
         ],
-        "localization": {},
+        "localization": {
+            "c": {
+                "rxn14003": []
+            }
+        },
         "publications": [],
         "kbase_id": "PS_role_346d5e",
         "curators": [
@@ -32890,7 +32894,15 @@
         ],
         "type": "universal",
         "is_transporter": false,
-        "compartmentalization": {},
+        "compartmentalization": {
+            "c": {
+                "reaction": "c",
+                "kbase_ids": [
+                    "PS_complex_9f5898"
+                ],
+                "exclude": false
+            }
+        },
         "abstract_enzyme": "Phosphatidylcholine:diacylglycerol cholinephosphotransferase"
     },
     {
