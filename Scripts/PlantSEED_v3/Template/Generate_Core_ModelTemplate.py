@@ -130,6 +130,8 @@ reactions_cpts=dict()
 roles=dict()
 roles_ids=dict()
 excluded_roles=list()
+excluded_roles_complexes=list()
+complexes=dict()
 for entry in roles_list:
 	if(entry['include'] is False):
 		excluded_roles.append(entry['role'])
@@ -159,36 +161,8 @@ for entry in roles_list:
 		roles[entry['role']]=list()
 		
 	for rxn in entry['reactions']:
-		for cpts in entry['localization']:
-			
-			# Accordingly, the compartments should all be sorted
-			# So a compartment index of 0 matches the first position in the compartment list
-			# The order is curated in the PlantSEED database
-
-			reaction_cpt = cpts[0]
-
-			# If its a transporter, need to update the reaction compartment id
-			if(len(cpts)==2):
-
-				# The rule is that it is always the non-cytosolic compartment
-				if('c' in cpts):
-					for cpt in cpts:
-						if(cpt != 'c'):
-							reaction_cpt = cpt
-
-				# With two main exceptions:
-				# 1) whether its an extracellular transporter
-				if('e' in cpts):
-					for cpt in cpts:
-						if(cpt != 'e'):
-							reaction_cpt = cpt
-
-				# 2) whether its an intraorganellar transporter
-				if('j' in cpts):
-					reaction_cpt = 'j'
-				if('y' in cpts):
-					reaction_cpt = 'y'
-
+		for cpts in entry['compartmentalization']:
+			reaction_cpt = entry['compartmentalization'][cpts]['reaction']
 			tmpl_rxn = rxn+"_"+reaction_cpt
 
 			# These are stored for compound stoichiometry
@@ -199,55 +173,24 @@ for entry in roles_list:
 				reactions_roles[tmpl_rxn]=list()
 			if(entry['role'] not in reactions_roles[tmpl_rxn]):
 				reactions_roles[tmpl_rxn].append(entry['role'])
+
+			# Store pre-generated complex identifiers
+			if(tmpl_rxn not in complexes):
+				complexes[tmpl_rxn]=dict()
+
+			for complex in entry['compartmentalization'][cpts]['kbase_ids']:
+				if(entry['compartmentalization'][cpts]['exclude'] is True):
+					excluded_roles_complexes.append(entry['role'] + ' / ' + complex)
+					continue
+				
+				if(complex not in complexes[tmpl_rxn]):
+					complexes[tmpl_rxn][complex] = list()
+				if(entry['role'] not in complexes[tmpl_rxn][complex]):
+					complexes[tmpl_rxn][complex].append(entry['role'])
 				
 	for ftr in entry['features']:
 		if(ftr not in roles[entry['role']]):
 			roles[entry['role']].append(ftr)
-
-############################
-## Load Complexes
-############################
-complexes = dict()
-
-# Load Curated Complexes
-with open("../../../Data/PlantSEED_v3/Complex/Consolidated_PlantSEED_Complex_Curation.json") as cur_cpx_fh:
-	curated_complexes = json.load(cur_cpx_fh)
-
-for rxn_cpx_id in sorted(curated_complexes.keys()):
-
-	# Skip marked complexes
-	if("FX" in rxn_cpx_id or "RX" in rxn_cpx_id):
-		continue
-	
-	(reaction,compartment,complex)=rxn_cpx_id.split("_")
-	tmpl_rxn = reaction+"_"+compartment
-
-	if(tmpl_rxn not in complexes):
-		complexes[tmpl_rxn]=dict()
-
-	if(complex not in complexes[tmpl_rxn]):
-		complexes[tmpl_rxn][complex]=list()
-
-	for role_entry in curated_complexes[rxn_cpx_id]['roles']:
-		complexes[tmpl_rxn][complex].append(role_entry['role'])
-
-# Load Rest of Complexes
-for tmpl_rxn in sorted(reactions_roles):
-	if(tmpl_rxn in complexes):
-		continue
-
-	sorted_roles = sorted(reactions_roles[tmpl_rxn])
-	sorted_letters = list(string.ascii_uppercase)
-	for letter_i in string.ascii_uppercase:
-		for letter_j in string.ascii_uppercase:
-			sorted_letters.append(letter_i+letter_j)
-
-	complexes[tmpl_rxn]=dict()
-	for i in range(len(sorted_roles)):
-		complexes[tmpl_rxn][sorted_letters[i]]=[sorted_roles[i]]
-
-time_string = str(datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %Hh %Mm %Ss'))
-print("Generating template"+time_string)
 
 ############################
 ## Begin Template Generation
@@ -256,7 +199,7 @@ print("Generating template"+time_string)
 #Generate Template Roles
 template_roles=list()
 role_count=1
-template_role_file = open("Template_Roles_Record.tmp",'w')
+template_role_file = open("Template_Roles_Record.txt",'w')
 for role in sorted(roles):
 	role_hash = { 'id':roles_ids[role], 'name':role, 'source':'PlantSEED',
 					'aliases':[], 'features':sorted(roles[role]) }
@@ -267,16 +210,14 @@ for role in sorted(roles):
 #Generate TemplateComplex and TemplateComplexRole
 template_complexes=list()
 template_reactions_complexes=dict()
-complex_count=1
 rca_fh = open("Reaction_Complex_Assignments.txt", 'w');
 for template_reaction in sorted(complexes.keys()):
 	for complex in sorted(complexes[template_reaction].keys()):
-		complex_hash = { 'id' : "Cpx."+str(complex_count),
+		complex_hash = { 'id' : complex,
 						 'name' : "", 'reference' : "",
 						 'source' : "PlantSEED",
 						 'confidence' : 1.0,
 						 'complexroles' : [] }
-		complex_count+=1
 		
 		for role in sorted(complexes[template_reaction][complex]):
 			if(role not in roles_ids):
