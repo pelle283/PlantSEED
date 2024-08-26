@@ -102,3 +102,6 @@ All|EN	cpd00001	c	30	H2O	energy
 All|EN	cpd00008	c	-30	ADP	energy
 All|EN	cpd00009	c	-30	Pi	energy
 All|EN	cpd00067	c	-30	Proton	energy
+
+#Specialized
+All|SP	cpd17403	d	0.001	Homomethionine	specialized
