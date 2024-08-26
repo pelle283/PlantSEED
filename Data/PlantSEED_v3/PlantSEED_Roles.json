@@ -33,8 +33,9 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_05e5ef": "rxn18937_d",
-                    "PS_complex_b821dc": "rxn18937_d"
+                    "PS_complex_05e5ef": [
+                        "rxn18937_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -75,8 +76,9 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_661311": "rxn01613_c",
-                    "PS_complex_c94244": "rxn01613_c"
+                    "PS_complex_661311": [
+                        "rxn01613_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -437,48 +439,60 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_32ed3d": "rxn16846_d",
-                    "PS_complex_059de0": "rxn37217_d"
+                    "PS_complex_059de0": [
+                        "rxn16846_d",
+                        "rxn37217_d"
+                    ]
                 },
                 "exclude": false
             },
             "w": {
                 "reaction": "w",
                 "kbase_ids": {
-                    "PS_complex_03e3e6": "rxn16846_w",
-                    "PS_complex_85c7b9": "rxn37217_w"
+                    "PS_complex_03e3e6": [
+                        "rxn16846_w",
+                        "rxn37217_w"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_9b79d1": "rxn16846_c",
-                    "PS_complex_c38840": "rxn37217_c"
+                    "PS_complex_9b79d1": [
+                        "rxn16846_c",
+                        "rxn37217_c"
+                    ]
                 },
                 "exclude": false
             },
             "m": {
                 "reaction": "m",
                 "kbase_ids": {
-                    "PS_complex_814444": "rxn16846_m",
-                    "PS_complex_cd493c": "rxn37217_m"
+                    "PS_complex_814444": [
+                        "rxn16846_m",
+                        "rxn37217_m"
+                    ]
                 },
                 "exclude": false
             },
             "r": {
                 "reaction": "r",
                 "kbase_ids": {
-                    "PS_complex_749211": "rxn16846_r",
-                    "PS_complex_c4b030": "rxn37217_r"
+                    "PS_complex_749211": [
+                        "rxn16846_r",
+                        "rxn37217_r"
+                    ]
                 },
                 "exclude": false
             },
             "v": {
                 "reaction": "v",
                 "kbase_ids": {
-                    "PS_complex_e276d0": "rxn16846_v",
-                    "PS_complex_78fba3": "rxn37217_v"
+                    "PS_complex_78fba3": [
+                        "rxn16846_v",
+                        "rxn37217_v"
+                    ]
                 },
                 "exclude": false
             }
@@ -945,8 +959,10 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_3258ad": "rxn05105_d",
-                    "PS_complex_4aa940": "rxn05106_d"
+                    "PS_complex_3258ad": [
+                        "rxn05105_d",
+                        "rxn05106_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -1785,24 +1801,28 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_60c1b8": "rxn27071_d",
-                    "PS_complex_e219f5": "rxn27073_d",
-                    "PS_complex_f1269f": "rxn27069_d",
-                    "PS_complex_e9ec69": "rxn27072_d",
-                    "PS_complex_0ee081": "rxn27070_d",
-                    "PS_complex_a80536": "rxn23780_d"
+                    "PS_complex_0ee081": [
+                        "rxn27071_d",
+                        "rxn27073_d",
+                        "rxn27069_d",
+                        "rxn27072_d",
+                        "rxn27070_d",
+                        "rxn23780_d"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_f56491": "rxn27071_c",
-                    "PS_complex_7667a0": "rxn27073_c",
-                    "PS_complex_46ed04": "rxn27069_c",
-                    "PS_complex_bc923e": "rxn27072_c",
-                    "PS_complex_044af8": "rxn27070_c",
-                    "PS_complex_da0a37": "rxn23780_c"
+                    "PS_complex_044af8": [
+                        "rxn27071_c",
+                        "rxn27073_c",
+                        "rxn27069_c",
+                        "rxn27072_c",
+                        "rxn27070_c",
+                        "rxn23780_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -2520,16 +2540,17 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_4685b4": "rxn25662_d",
-                    "PS_complex_c95d37": "rxn19686_d",
-                    "PS_complex_05e5ef": "rxn18937_d",
-                    "PS_complex_b821dc": "rxn18937_d",
-                    "PS_complex_c3abd7": "rxn05331_d",
-                    "PS_complex_5995f0": "rxn18936_d",
-                    "PS_complex_e992cf": "rxn05330_d",
-                    "PS_complex_4e6c4e": "rxn18935_d",
-                    "PS_complex_4fb431": "rxn05335_d",
-                    "PS_complex_c6280a": "rxn25719_d"
+                    "PS_complex_05e5ef": [
+                        "rxn25662_d",
+                        "rxn19686_d",
+                        "rxn18937_d",
+                        "rxn05331_d",
+                        "rxn18936_d",
+                        "rxn05330_d",
+                        "rxn18935_d",
+                        "rxn05335_d",
+                        "rxn25719_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -2585,8 +2606,10 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_5f7194": "rxn02811_d",
-                    "PS_complex_6801a7": "rxn02789_d"
+                    "PS_complex_5f7194": [
+                        "rxn02811_d",
+                        "rxn02789_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -2661,8 +2684,10 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_5f7194": "rxn02811_d",
-                    "PS_complex_6801a7": "rxn02789_d"
+                    "PS_complex_5f7194": [
+                        "rxn02811_d",
+                        "rxn02789_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -2889,15 +2914,17 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_f975e4": "rxn05338_d",
-                    "PS_complex_d0ca58": "rxn25661_d",
-                    "PS_complex_8df219": "rxn25637_d",
-                    "PS_complex_fc57b7": "rxn05340_d",
-                    "PS_complex_3a75ec": "rxn25718_d",
-                    "PS_complex_8eab5d": "rxn05337_d",
-                    "PS_complex_8a9490": "rxn25641_d",
-                    "PS_complex_8b6e85": "rxn05342_d",
-                    "PS_complex_f24c68": "rxn25649_d"
+                    "PS_complex_3a75ec": [
+                        "rxn05338_d",
+                        "rxn25661_d",
+                        "rxn25637_d",
+                        "rxn05340_d",
+                        "rxn25718_d",
+                        "rxn05337_d",
+                        "rxn25641_d",
+                        "rxn05342_d",
+                        "rxn25649_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -2950,14 +2977,16 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_bd750d": "rxn05346_d",
-                    "PS_complex_123cd6": "rxn05343_d",
-                    "PS_complex_2f1bfd": "rxn17469_d",
-                    "PS_complex_d7078c": "rxn05345_d",
-                    "PS_complex_b5cdd4": "rxn25647_d",
-                    "PS_complex_b5d6dd": "rxn25716_d",
-                    "PS_complex_837f75": "rxn05350_d",
-                    "PS_complex_aa7fbc": "rxn05348_d"
+                    "PS_complex_123cd6": [
+                        "rxn05346_d",
+                        "rxn05343_d",
+                        "rxn17469_d",
+                        "rxn05345_d",
+                        "rxn25647_d",
+                        "rxn25716_d",
+                        "rxn05350_d",
+                        "rxn05348_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -3006,7 +3035,16 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_b5d6dd": "rxn25716_d"
+                    "PS_complex_123cd6": [
+                        "rxn05346_d",
+                        "rxn05343_d",
+                        "rxn17469_d",
+                        "rxn05345_d",
+                        "rxn25647_d",
+                        "rxn25716_d",
+                        "rxn05350_d",
+                        "rxn05348_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -3051,7 +3089,16 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_444ac0": "rxn08766_d"
+                    "PS_complex_123cd6": [
+                        "rxn05346_d",
+                        "rxn05343_d",
+                        "rxn17469_d",
+                        "rxn05345_d",
+                        "rxn25647_d",
+                        "rxn25716_d",
+                        "rxn05350_d",
+                        "rxn05348_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -3104,16 +3151,20 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_f85aaf": "rxn23747_c",
-                    "PS_complex_d17c85": "rxn22859_c"
+                    "PS_complex_d17c85": [
+                        "rxn23747_c",
+                        "rxn22859_c"
+                    ]
                 },
                 "exclude": false
             },
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_7d7cfc": "rxn23747_d",
-                    "PS_complex_f174b0": "rxn22859_d"
+                    "PS_complex_7d7cfc": [
+                        "rxn23747_d",
+                        "rxn22859_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -3167,11 +3218,12 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_88d533": "rxn01571_c",
-                    "PS_complex_6fca4c": "rxn01427_c",
-                    "PS_complex_b69a4e": "rxn01182_c",
-                    "PS_complex_661311": "rxn01613_c",
-                    "PS_complex_c94244": "rxn01613_c"
+                    "PS_complex_661311": [
+                        "rxn01571_c",
+                        "rxn01427_c",
+                        "rxn01182_c",
+                        "rxn01613_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -3305,10 +3357,12 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_667a47": "rxn08756_d",
-                    "PS_complex_fabe23": "rxn08352_d",
-                    "PS_complex_c2b7c2": "rxn04996_d",
-                    "PS_complex_fcb2fb": "rxn04113_d"
+                    "PS_complex_667a47": [
+                        "rxn08756_d",
+                        "rxn08352_d",
+                        "rxn04996_d",
+                        "rxn04113_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -3363,8 +3417,10 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_fe8437": "rxn02929_d",
-                    "PS_complex_2c5b50": "rxn02928_d"
+                    "PS_complex_2c5b50": [
+                        "rxn02929_d",
+                        "rxn02928_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -3747,10 +3803,11 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_d2f8e0": "rxn01670_c",
-                    "PS_complex_28738b": "rxn01670_c",
-                    "PS_complex_ef1c65": "rxn00363_c",
-                    "PS_complex_88acb7": "rxn00708_c"
+                    "PS_complex_28738b": [
+                        "rxn01670_c",
+                        "rxn00363_c",
+                        "rxn00708_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -4350,18 +4407,22 @@
             "r": {
                 "reaction": "r",
                 "kbase_ids": {
-                    "PS_complex_1a6cbe": "rxn21324_r",
-                    "PS_complex_f8f057": "rxn03016_r",
-                    "PS_complex_f8488e": "rxn23801_r"
+                    "PS_complex_1a6cbe": [
+                        "rxn21324_r",
+                        "rxn03016_r",
+                        "rxn23801_r"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_cebfbb": "rxn21324_c",
-                    "PS_complex_115f52": "rxn03016_c",
-                    "PS_complex_34fd75": "rxn23801_c"
+                    "PS_complex_115f52": [
+                        "rxn21324_c",
+                        "rxn03016_c",
+                        "rxn23801_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -4649,24 +4710,30 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_7b8ca4": "rxn19900_d",
-                    "PS_complex_a0a843": "rxn00693_d"
+                    "PS_complex_7b8ca4": [
+                        "rxn19900_d",
+                        "rxn00693_d"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_c07d8b": "rxn19900_c",
-                    "PS_complex_251616": "rxn00693_c"
+                    "PS_complex_251616": [
+                        "rxn19900_c",
+                        "rxn00693_c"
+                    ]
                 },
                 "exclude": false
             },
             "x": {
                 "reaction": "x",
                 "kbase_ids": {
-                    "PS_complex_ddd47a": "rxn19900_x",
-                    "PS_complex_94470e": "rxn00693_x"
+                    "PS_complex_94470e": [
+                        "rxn19900_x",
+                        "rxn00693_x"
+                    ]
                 },
                 "exclude": false
             }
@@ -4903,24 +4970,30 @@
             "m": {
                 "reaction": "m",
                 "kbase_ids": {
-                    "PS_complex_35f130": "rxn01115_m",
-                    "PS_complex_cfa00f": "rxn11040_m"
+                    "PS_complex_35f130": [
+                        "rxn01115_m",
+                        "rxn11040_m"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_855e05": "rxn01115_c",
-                    "PS_complex_ad805b": "rxn11040_c"
+                    "PS_complex_855e05": [
+                        "rxn01115_c",
+                        "rxn11040_c"
+                    ]
                 },
                 "exclude": false
             },
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_7ccd71": "rxn01115_d",
-                    "PS_complex_3bb93f": "rxn11040_d"
+                    "PS_complex_3bb93f": [
+                        "rxn01115_d",
+                        "rxn11040_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -5081,16 +5154,20 @@
             "cm": {
                 "reaction": "m",
                 "kbase_ids": {
-                    "PS_complex_8f245c": "rxn31160_m",
-                    "PS_complex_9370eb": "rxn31358_m"
+                    "PS_complex_8f245c": [
+                        "rxn31160_m",
+                        "rxn31358_m"
+                    ]
                 },
                 "exclude": false
             },
             "cd": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_38d0a2": "rxn31160_d",
-                    "PS_complex_0c3eb2": "rxn31358_d"
+                    "PS_complex_0c3eb2": [
+                        "rxn31160_d",
+                        "rxn31358_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -5480,39 +5557,45 @@
             "cd": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_93b414": "rxn08680_d",
-                    "PS_complex_ced604": "rxn29240_d",
-                    "PS_complex_616da3": "rxn09686_d",
-                    "PS_complex_94f8f8": "rxn29342_d",
-                    "PS_complex_a94373": "rxn29325_d",
-                    "PS_complex_0fbec3": "rxn29318_d",
-                    "PS_complex_5793f5": "rxn08236_d"
+                    "PS_complex_0fbec3": [
+                        "rxn08680_d",
+                        "rxn29240_d",
+                        "rxn09686_d",
+                        "rxn29342_d",
+                        "rxn29325_d",
+                        "rxn29318_d",
+                        "rxn08236_d"
+                    ]
                 },
                 "exclude": false
             },
             "cm": {
                 "reaction": "m",
                 "kbase_ids": {
-                    "PS_complex_030c58": "rxn08680_m",
-                    "PS_complex_e292f9": "rxn29240_m",
-                    "PS_complex_d0d166": "rxn09686_m",
-                    "PS_complex_4a882d": "rxn29342_m",
-                    "PS_complex_ed2e04": "rxn29325_m",
-                    "PS_complex_cf9dcf": "rxn29318_m",
-                    "PS_complex_b21c0f": "rxn08236_m"
+                    "PS_complex_030c58": [
+                        "rxn08680_m",
+                        "rxn29240_m",
+                        "rxn09686_m",
+                        "rxn29342_m",
+                        "rxn29325_m",
+                        "rxn29318_m",
+                        "rxn08236_m"
+                    ]
                 },
                 "exclude": false
             },
             "cv": {
                 "reaction": "v",
                 "kbase_ids": {
-                    "PS_complex_0be9e4": "rxn08680_v",
-                    "PS_complex_8e1099": "rxn29240_v",
-                    "PS_complex_96b7ea": "rxn09686_v",
-                    "PS_complex_ed716d": "rxn29342_v",
-                    "PS_complex_99ed63": "rxn29325_v",
-                    "PS_complex_74c71b": "rxn29318_v",
-                    "PS_complex_1e176f": "rxn08236_v"
+                    "PS_complex_0be9e4": [
+                        "rxn08680_v",
+                        "rxn29240_v",
+                        "rxn09686_v",
+                        "rxn29342_v",
+                        "rxn29325_v",
+                        "rxn29318_v",
+                        "rxn08236_v"
+                    ]
                 },
                 "exclude": false
             }
@@ -5708,8 +5791,10 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_6e64b7": "rxn15021_d",
-                    "PS_complex_c46e65": "rxn19030_d"
+                    "PS_complex_6e64b7": [
+                        "rxn15021_d",
+                        "rxn19030_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -5774,8 +5859,10 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_6e64b7": "rxn15021_d",
-                    "PS_complex_c46e65": "rxn19030_d"
+                    "PS_complex_6e64b7": [
+                        "rxn15021_d",
+                        "rxn19030_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -5952,8 +6039,9 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_0e5260": "rxn00533_d",
-                    "PS_complex_0aaf18": "rxn00533_d"
+                    "PS_complex_0aaf18": [
+                        "rxn00533_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -5999,8 +6087,9 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_0e5260": "rxn00533_d",
-                    "PS_complex_0aaf18": "rxn00533_d"
+                    "PS_complex_0aaf18": [
+                        "rxn00533_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -6058,8 +6147,9 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_0e5260": "rxn00533_d",
-                    "PS_complex_0aaf18": "rxn00533_d"
+                    "PS_complex_0aaf18": [
+                        "rxn00533_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -6343,24 +6433,30 @@
             "m": {
                 "reaction": "m",
                 "kbase_ids": {
-                    "PS_complex_4543ee": "rxn15280_m",
-                    "PS_complex_ee929b": "rxn00974_m"
+                    "PS_complex_4543ee": [
+                        "rxn15280_m",
+                        "rxn00974_m"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_474962": "rxn15280_c",
-                    "PS_complex_02c26a": "rxn00974_c"
+                    "PS_complex_02c26a": [
+                        "rxn15280_c",
+                        "rxn00974_c"
+                    ]
                 },
                 "exclude": false
             },
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_b5694e": "rxn15280_d",
-                    "PS_complex_1096e7": "rxn00974_d"
+                    "PS_complex_1096e7": [
+                        "rxn15280_d",
+                        "rxn00974_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -6407,10 +6503,12 @@
             "x": {
                 "reaction": "x",
                 "kbase_ids": {
-                    "PS_complex_e75847": "rxn00943_x",
-                    "PS_complex_5444e9": "rxn12329_x",
-                    "PS_complex_ec6d46": "rxn08444_x",
-                    "PS_complex_9eb8d9": "rxn08440_x"
+                    "PS_complex_5444e9": [
+                        "rxn00943_x",
+                        "rxn12329_x",
+                        "rxn08444_x",
+                        "rxn08440_x"
+                    ]
                 },
                 "exclude": false
             }
@@ -6889,8 +6987,10 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_5b961e": "rxn03136_d",
-                    "PS_complex_634e92": "rxn00800_d"
+                    "PS_complex_5b961e": [
+                        "rxn03136_d",
+                        "rxn00800_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -7573,8 +7673,12 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_7e8d10": "rxn27065_c",
-                    "PS_complex_634603": "rxn23786_c"
+                    "PS_complex_2a9f7d": [
+                        "rxn27065_c",
+                        "rxn23786_c",
+                        "rxn23785_c",
+                        "rxn27066_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -7620,8 +7724,12 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_808437": "rxn23785_c",
-                    "PS_complex_2a9f7d": "rxn27066_c"
+                    "PS_complex_2a9f7d": [
+                        "rxn27065_c",
+                        "rxn23786_c",
+                        "rxn23785_c",
+                        "rxn27066_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -7765,16 +7873,20 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_626ebe": "rxn23744_d",
-                    "PS_complex_4b2ec5": "rxn23742_d"
+                    "PS_complex_4b2ec5": [
+                        "rxn23744_d",
+                        "rxn23742_d"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_9c9874": "rxn23744_c",
-                    "PS_complex_50818e": "rxn23742_c"
+                    "PS_complex_50818e": [
+                        "rxn23744_c",
+                        "rxn23742_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -8366,24 +8478,28 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_74310e": "rxn00366_c",
-                    "PS_complex_058aec": "rxn01514_c",
-                    "PS_complex_888c20": "rxn00408_c",
-                    "PS_complex_871850": "rxn00120_c",
-                    "PS_complex_3d68f9": "rxn00116_c",
-                    "PS_complex_71d59b": "rxn01511_c"
+                    "PS_complex_058aec": [
+                        "rxn00366_c",
+                        "rxn01514_c",
+                        "rxn00408_c",
+                        "rxn00120_c",
+                        "rxn00116_c",
+                        "rxn01511_c"
+                    ]
                 },
                 "exclude": false
             },
             "g": {
                 "reaction": "g",
                 "kbase_ids": {
-                    "PS_complex_e5a881": "rxn00366_g",
-                    "PS_complex_3a5323": "rxn01514_g",
-                    "PS_complex_995ed8": "rxn00408_g",
-                    "PS_complex_c288bc": "rxn00120_g",
-                    "PS_complex_f77c6d": "rxn00116_g",
-                    "PS_complex_53bd57": "rxn01511_g"
+                    "PS_complex_3a5323": [
+                        "rxn00366_g",
+                        "rxn01514_g",
+                        "rxn00408_g",
+                        "rxn00120_g",
+                        "rxn00116_g",
+                        "rxn01511_g"
+                    ]
                 },
                 "exclude": false
             }
@@ -8971,38 +9087,44 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_230e9f": "rxn00527_c",
-                    "PS_complex_cf2b32": "rxn00493_c",
-                    "PS_complex_871d51": "rxn00260_c"
+                    "PS_complex_230e9f": [
+                        "rxn00527_c",
+                        "rxn00493_c",
+                        "rxn00260_c"
+                    ]
                 },
                 "exclude": false
             },
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_bee075": "rxn00527_d",
-                    "PS_complex_772f14": "rxn00527_d",
-                    "PS_complex_583b7a": "rxn00527_d",
-                    "PS_complex_9d2085": "rxn00493_d",
-                    "PS_complex_0f4456": "rxn00260_d"
+                    "PS_complex_0f4456": [
+                        "rxn00527_d",
+                        "rxn00493_d",
+                        "rxn00260_d"
+                    ]
                 },
                 "exclude": false
             },
             "m": {
                 "reaction": "m",
                 "kbase_ids": {
-                    "PS_complex_35d288": "rxn00527_m",
-                    "PS_complex_35b8e8": "rxn00493_m",
-                    "PS_complex_6a2c34": "rxn00260_m"
+                    "PS_complex_35b8e8": [
+                        "rxn00527_m",
+                        "rxn00493_m",
+                        "rxn00260_m"
+                    ]
                 },
                 "exclude": false
             },
             "x": {
                 "reaction": "x",
                 "kbase_ids": {
-                    "PS_complex_1e7455": "rxn00527_x",
-                    "PS_complex_d0d518": "rxn00493_x",
-                    "PS_complex_679d4e": "rxn00260_x"
+                    "PS_complex_1e7455": [
+                        "rxn00527_x",
+                        "rxn00493_x",
+                        "rxn00260_x"
+                    ]
                 },
                 "exclude": false
             }
@@ -9278,9 +9400,11 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_a77016": "rxn21838_c",
-                    "PS_complex_e6a726": "rxn21837_c",
-                    "PS_complex_4f363b": "rxn23787_c"
+                    "PS_complex_4f363b": [
+                        "rxn21838_c",
+                        "rxn21837_c",
+                        "rxn23787_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -9353,20 +9477,24 @@
             "n": {
                 "reaction": "n",
                 "kbase_ids": {
-                    "PS_complex_b1e29a": "rxn22739_n",
-                    "PS_complex_3dba74": "rxn17983_n",
-                    "PS_complex_91ccdd": "rxn23745_n",
-                    "PS_complex_3a7765": "rxn22741_n"
+                    "PS_complex_3a7765": [
+                        "rxn22739_n",
+                        "rxn17983_n",
+                        "rxn23745_n",
+                        "rxn22741_n"
+                    ]
                 },
                 "exclude": false
             },
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_ac6b8f": "rxn22739_d",
-                    "PS_complex_7b5d0e": "rxn17983_d",
-                    "PS_complex_b70c7c": "rxn23745_d",
-                    "PS_complex_c8b87a": "rxn22741_d"
+                    "PS_complex_7b5d0e": [
+                        "rxn22739_d",
+                        "rxn17983_d",
+                        "rxn23745_d",
+                        "rxn22741_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -9664,8 +9792,9 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_0e5260": "rxn00533_d",
-                    "PS_complex_0aaf18": "rxn00533_d"
+                    "PS_complex_0aaf18": [
+                        "rxn00533_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -9716,8 +9845,9 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_0e5260": "rxn00533_d",
-                    "PS_complex_0aaf18": "rxn00533_d"
+                    "PS_complex_0aaf18": [
+                        "rxn00533_d"
+                    ]
                 },
                 "exclude": false
             },
@@ -9782,8 +9912,9 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_0e5260": "rxn00533_d",
-                    "PS_complex_0aaf18": "rxn00533_d"
+                    "PS_complex_0aaf18": [
+                        "rxn00533_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -9830,8 +9961,9 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_0e5260": "rxn00533_d",
-                    "PS_complex_0aaf18": "rxn00533_d"
+                    "PS_complex_0aaf18": [
+                        "rxn00533_d"
+                    ]
                 },
                 "exclude": false
             },
@@ -10022,18 +10154,22 @@
             "m": {
                 "reaction": "m",
                 "kbase_ids": {
-                    "PS_complex_784211": "rxn01207_m",
-                    "PS_complex_976cdf": "rxn17744_m",
-                    "PS_complex_a6aac6": "rxn00899_m"
+                    "PS_complex_784211": [
+                        "rxn01207_m",
+                        "rxn17744_m",
+                        "rxn00899_m"
+                    ]
                 },
                 "exclude": false
             },
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_c61530": "rxn01207_d",
-                    "PS_complex_0d3c7e": "rxn17744_d",
-                    "PS_complex_29e54d": "rxn00899_d"
+                    "PS_complex_0d3c7e": [
+                        "rxn01207_d",
+                        "rxn17744_d",
+                        "rxn00899_d"
+                    ]
                 },
                 "exclude": true
             }
@@ -10082,9 +10218,11 @@
             "m": {
                 "reaction": "m",
                 "kbase_ids": {
-                    "PS_complex_784211": "rxn01207_m",
-                    "PS_complex_976cdf": "rxn17744_m",
-                    "PS_complex_a6aac6": "rxn00899_m"
+                    "PS_complex_784211": [
+                        "rxn01207_m",
+                        "rxn17744_m",
+                        "rxn00899_m"
+                    ]
                 },
                 "exclude": false
             }
@@ -10173,27 +10311,33 @@
             "m": {
                 "reaction": "m",
                 "kbase_ids": {
-                    "PS_complex_aea129": "rxn19242_m",
-                    "PS_complex_6c9c5e": "rxn19240_m",
-                    "PS_complex_a11561": "rxn19241_m"
+                    "PS_complex_6c9c5e": [
+                        "rxn19242_m",
+                        "rxn19240_m",
+                        "rxn19241_m"
+                    ]
                 },
                 "exclude": false
             },
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_d1a6d2": "rxn19242_d",
-                    "PS_complex_2c5c1b": "rxn19240_d",
-                    "PS_complex_ca04ec": "rxn19241_d"
+                    "PS_complex_2c5c1b": [
+                        "rxn19242_d",
+                        "rxn19240_d",
+                        "rxn19241_d"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_736dc3": "rxn19242_c",
-                    "PS_complex_688d88": "rxn19240_c",
-                    "PS_complex_ba32e6": "rxn19241_c"
+                    "PS_complex_688d88": [
+                        "rxn19242_c",
+                        "rxn19240_c",
+                        "rxn19241_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -10237,8 +10381,10 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_46e5c5": "rxn26773_c",
-                    "PS_complex_ac1bda": "rxn26756_c"
+                    "PS_complex_46e5c5": [
+                        "rxn26773_c",
+                        "rxn26756_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -10301,16 +10447,20 @@
             "m": {
                 "reaction": "m",
                 "kbase_ids": {
-                    "PS_complex_db933a": "rxn20553_m",
-                    "PS_complex_c3e968": "rxn28070_m"
+                    "PS_complex_c3e968": [
+                        "rxn20553_m",
+                        "rxn28070_m"
+                    ]
                 },
                 "exclude": false
             },
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_d4f981": "rxn20553_d",
-                    "PS_complex_4e8677": "rxn28070_d"
+                    "PS_complex_4e8677": [
+                        "rxn20553_d",
+                        "rxn28070_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -10546,9 +10696,11 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_648736": "rxn04430_c",
-                    "PS_complex_c99c44": "rxn02414_c",
-                    "PS_complex_0b847b": "rxn01712_c"
+                    "PS_complex_0b847b": [
+                        "rxn04430_c",
+                        "rxn02414_c",
+                        "rxn01712_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -11338,16 +11490,20 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_c0a9e5": "rxn04161_d",
-                    "PS_complex_65ff2d": "rxn24357_d"
+                    "PS_complex_65ff2d": [
+                        "rxn04161_d",
+                        "rxn24357_d"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_8157e8": "rxn04161_c",
-                    "PS_complex_98afa2": "rxn24357_c"
+                    "PS_complex_8157e8": [
+                        "rxn04161_c",
+                        "rxn24357_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -11659,8 +11815,10 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_4715e0": "rxn01181_c",
-                    "PS_complex_e55067": "rxn01570_c"
+                    "PS_complex_4715e0": [
+                        "rxn01181_c",
+                        "rxn01570_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -11745,18 +11903,22 @@
             "w": {
                 "reaction": "w",
                 "kbase_ids": {
-                    "PS_complex_bd1553": "rxn01887_w",
-                    "PS_complex_48851c": "rxn02814_w",
-                    "PS_complex_3f3570": "rxn02758_w"
+                    "PS_complex_3f3570": [
+                        "rxn01887_w",
+                        "rxn02814_w",
+                        "rxn02758_w"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_297521": "rxn01887_c",
-                    "PS_complex_fd211b": "rxn02814_c",
-                    "PS_complex_ad91f4": "rxn02758_c"
+                    "PS_complex_297521": [
+                        "rxn01887_c",
+                        "rxn02814_c",
+                        "rxn02758_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -12050,11 +12212,13 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_5e44dc": "rxn25630_c",
-                    "PS_complex_e729fb": "rxn25441_c",
-                    "PS_complex_f1248b": "rxn25371_c",
-                    "PS_complex_cc2e4f": "rxn02575_c",
-                    "PS_complex_5a35bf": "rxn01888_c"
+                    "PS_complex_5a35bf": [
+                        "rxn25630_c",
+                        "rxn25441_c",
+                        "rxn25371_c",
+                        "rxn02575_c",
+                        "rxn01888_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -12101,9 +12265,11 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_a131ae": "rxn05143_c",
-                    "PS_complex_d1aa45": "rxn03970_c",
-                    "PS_complex_bfa0e1": "rxn03971_c"
+                    "PS_complex_a131ae": [
+                        "rxn05143_c",
+                        "rxn03970_c",
+                        "rxn03971_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -12300,8 +12466,10 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_2c79f1": "rxn17437_c",
-                    "PS_complex_51e8c6": "rxn24288_c"
+                    "PS_complex_2c79f1": [
+                        "rxn17437_c",
+                        "rxn24288_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -13925,14 +14093,16 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_f575a4": "rxn27056_c",
-                    "PS_complex_446012": "rxn14133_c",
-                    "PS_complex_6b6ddf": "rxn02300_c",
-                    "PS_complex_6bf928": "rxn14362_c",
-                    "PS_complex_a7eda9": "rxn27057_c",
-                    "PS_complex_520448": "rxn11704_c",
-                    "PS_complex_6225ed": "rxn27059_c",
-                    "PS_complex_eed21a": "rxn27058_c"
+                    "PS_complex_446012": [
+                        "rxn27056_c",
+                        "rxn14133_c",
+                        "rxn02300_c",
+                        "rxn14362_c",
+                        "rxn27057_c",
+                        "rxn11704_c",
+                        "rxn27059_c",
+                        "rxn27058_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -14303,18 +14473,22 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_435393": "rxn37716_d",
-                    "PS_complex_deca2f": "rxn37715_d",
-                    "PS_complex_7dfc67": "rxn37717_d"
+                    "PS_complex_435393": [
+                        "rxn37716_d",
+                        "rxn37715_d",
+                        "rxn37717_d"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_797e35": "rxn37716_c",
-                    "PS_complex_c17536": "rxn37715_c",
-                    "PS_complex_391128": "rxn37717_c"
+                    "PS_complex_391128": [
+                        "rxn37716_c",
+                        "rxn37715_c",
+                        "rxn37717_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -14555,9 +14729,11 @@
             "m": {
                 "reaction": "m",
                 "kbase_ids": {
-                    "PS_complex_784211": "rxn01207_m",
-                    "PS_complex_976cdf": "rxn17744_m",
-                    "PS_complex_a6aac6": "rxn00899_m"
+                    "PS_complex_784211": [
+                        "rxn01207_m",
+                        "rxn17744_m",
+                        "rxn00899_m"
+                    ]
                 },
                 "exclude": false
             }
@@ -14676,9 +14852,11 @@
             "m": {
                 "reaction": "m",
                 "kbase_ids": {
-                    "PS_complex_784211": "rxn01207_m",
-                    "PS_complex_976cdf": "rxn17744_m",
-                    "PS_complex_a6aac6": "rxn00899_m"
+                    "PS_complex_784211": [
+                        "rxn01207_m",
+                        "rxn17744_m",
+                        "rxn00899_m"
+                    ]
                 },
                 "exclude": false
             }
@@ -15448,8 +15626,10 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_26010b": "rxn19544_d",
-                    "PS_complex_e37c39": "rxn19545_d"
+                    "PS_complex_26010b": [
+                        "rxn19544_d",
+                        "rxn19545_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -15859,15 +16039,17 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_414d09": "rxn05325_d",
-                    "PS_complex_ca50d8": "rxn07579_d",
-                    "PS_complex_4121ba": "rxn05326_d",
-                    "PS_complex_8e8948": "rxn25743_d",
-                    "PS_complex_c8244e": "rxn37651_d",
-                    "PS_complex_7dc7dc": "rxn25750_d",
-                    "PS_complex_325d69": "rxn08392_d",
-                    "PS_complex_1b8ce3": "rxn05324_d",
-                    "PS_complex_b47cab": "rxn25747_d"
+                    "PS_complex_1b8ce3": [
+                        "rxn05325_d",
+                        "rxn07579_d",
+                        "rxn05326_d",
+                        "rxn25743_d",
+                        "rxn37651_d",
+                        "rxn25750_d",
+                        "rxn08392_d",
+                        "rxn05324_d",
+                        "rxn25747_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -15910,8 +16092,10 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_6e39a7": "rxn16304_c",
-                    "PS_complex_62c78f": "rxn16306_c"
+                    "PS_complex_62c78f": [
+                        "rxn16304_c",
+                        "rxn16306_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -15956,9 +16140,11 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_ccdacd": "rxn24113_c",
-                    "PS_complex_373208": "rxn24111_c",
-                    "PS_complex_75130f": "rxn24112_c"
+                    "PS_complex_373208": [
+                        "rxn24113_c",
+                        "rxn24111_c",
+                        "rxn24112_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -16228,9 +16414,11 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_2cc2f5": "rxn24805_d",
-                    "PS_complex_864cba": "rxn23722_d",
-                    "PS_complex_9855c8": "rxn24807_d"
+                    "PS_complex_2cc2f5": [
+                        "rxn24805_d",
+                        "rxn23722_d",
+                        "rxn24807_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -16549,20 +16737,24 @@
             "r": {
                 "reaction": "r",
                 "kbase_ids": {
-                    "PS_complex_ea831a": "rxn16291_r",
-                    "PS_complex_6bbdfd": "rxn16300_r",
-                    "PS_complex_51ac30": "rxn16289_r",
-                    "PS_complex_7e093b": "rxn20987_r"
+                    "PS_complex_51ac30": [
+                        "rxn16291_r",
+                        "rxn16300_r",
+                        "rxn16289_r",
+                        "rxn20987_r"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_34c37d": "rxn16291_c",
-                    "PS_complex_231abe": "rxn16300_c",
-                    "PS_complex_5450c5": "rxn16289_c",
-                    "PS_complex_2a5e3d": "rxn20987_c"
+                    "PS_complex_231abe": [
+                        "rxn16291_c",
+                        "rxn16300_c",
+                        "rxn16289_c",
+                        "rxn20987_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -16605,8 +16797,10 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_33e2ff": "rxn25849_c",
-                    "PS_complex_dd50bf": "rxn20994_c"
+                    "PS_complex_33e2ff": [
+                        "rxn25849_c",
+                        "rxn20994_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -16647,9 +16841,11 @@
             "cd": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_8dfb81": "rxn28606_d",
-                    "PS_complex_a7fff9": "rxn09034_d",
-                    "PS_complex_287d7a": "rxn08704_d"
+                    "PS_complex_287d7a": [
+                        "rxn28606_d",
+                        "rxn09034_d",
+                        "rxn08704_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -16696,10 +16892,12 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_ebcd53": "rxn22461_c",
-                    "PS_complex_e86d53": "rxn04924_c",
-                    "PS_complex_f5b6de": "rxn22460_c",
-                    "PS_complex_de4f26": "rxn22462_c"
+                    "PS_complex_de4f26": [
+                        "rxn22461_c",
+                        "rxn04924_c",
+                        "rxn22460_c",
+                        "rxn22462_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -17077,16 +17275,20 @@
             "r": {
                 "reaction": "r",
                 "kbase_ids": {
-                    "PS_complex_f51dd4": "rxn04426_r",
-                    "PS_complex_cc3d67": "rxn02554_r"
+                    "PS_complex_cc3d67": [
+                        "rxn04426_r",
+                        "rxn02554_r"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_ba938b": "rxn04426_c",
-                    "PS_complex_961c88": "rxn02554_c"
+                    "PS_complex_961c88": [
+                        "rxn04426_c",
+                        "rxn02554_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -17131,24 +17333,20 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_c9882a": "rxn24348_c",
-                    "PS_complex_d9b51c": "rxn24348_c",
-                    "PS_complex_649303": "rxn24348_c",
-                    "PS_complex_ee7ff1": "rxn01765_c",
-                    "PS_complex_7cae5a": "rxn01765_c",
-                    "PS_complex_4dd7b4": "rxn01765_c"
+                    "PS_complex_4dd7b4": [
+                        "rxn24348_c",
+                        "rxn01765_c"
+                    ]
                 },
                 "exclude": false
             },
             "r": {
                 "reaction": "r",
                 "kbase_ids": {
-                    "PS_complex_63dafb": "rxn24348_r",
-                    "PS_complex_cfbf8b": "rxn24348_r",
-                    "PS_complex_05c0dc": "rxn24348_r",
-                    "PS_complex_bda061": "rxn01765_r",
-                    "PS_complex_1d2705": "rxn01765_r",
-                    "PS_complex_ecb9f5": "rxn01765_r"
+                    "PS_complex_05c0dc": [
+                        "rxn24348_r",
+                        "rxn01765_r"
+                    ]
                 },
                 "exclude": false
             }
@@ -17207,12 +17405,14 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_b9c864": "rxn27060_c",
-                    "PS_complex_96b55a": "rxn27064_c",
-                    "PS_complex_626de0": "rxn27063_c",
-                    "PS_complex_a89d8d": "rxn27061_c",
-                    "PS_complex_e05521": "rxn23784_c",
-                    "PS_complex_37bb0c": "rxn27062_c"
+                    "PS_complex_37bb0c": [
+                        "rxn27060_c",
+                        "rxn27064_c",
+                        "rxn27063_c",
+                        "rxn27061_c",
+                        "rxn23784_c",
+                        "rxn27062_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -17255,24 +17455,20 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_c9882a": "rxn24348_c",
-                    "PS_complex_d9b51c": "rxn24348_c",
-                    "PS_complex_649303": "rxn24348_c",
-                    "PS_complex_ee7ff1": "rxn01765_c",
-                    "PS_complex_7cae5a": "rxn01765_c",
-                    "PS_complex_4dd7b4": "rxn01765_c"
+                    "PS_complex_4dd7b4": [
+                        "rxn24348_c",
+                        "rxn01765_c"
+                    ]
                 },
                 "exclude": false
             },
             "r": {
                 "reaction": "r",
                 "kbase_ids": {
-                    "PS_complex_63dafb": "rxn24348_r",
-                    "PS_complex_cfbf8b": "rxn24348_r",
-                    "PS_complex_05c0dc": "rxn24348_r",
-                    "PS_complex_bda061": "rxn01765_r",
-                    "PS_complex_1d2705": "rxn01765_r",
-                    "PS_complex_ecb9f5": "rxn01765_r"
+                    "PS_complex_05c0dc": [
+                        "rxn24348_r",
+                        "rxn01765_r"
+                    ]
                 },
                 "exclude": false
             }
@@ -17317,24 +17513,20 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_c9882a": "rxn24348_c",
-                    "PS_complex_d9b51c": "rxn24348_c",
-                    "PS_complex_649303": "rxn24348_c",
-                    "PS_complex_ee7ff1": "rxn01765_c",
-                    "PS_complex_7cae5a": "rxn01765_c",
-                    "PS_complex_4dd7b4": "rxn01765_c"
+                    "PS_complex_4dd7b4": [
+                        "rxn24348_c",
+                        "rxn01765_c"
+                    ]
                 },
                 "exclude": false
             },
             "r": {
                 "reaction": "r",
                 "kbase_ids": {
-                    "PS_complex_63dafb": "rxn24348_r",
-                    "PS_complex_cfbf8b": "rxn24348_r",
-                    "PS_complex_05c0dc": "rxn24348_r",
-                    "PS_complex_bda061": "rxn01765_r",
-                    "PS_complex_1d2705": "rxn01765_r",
-                    "PS_complex_ecb9f5": "rxn01765_r"
+                    "PS_complex_05c0dc": [
+                        "rxn24348_r",
+                        "rxn01765_r"
+                    ]
                 },
                 "exclude": false
             }
@@ -17575,8 +17767,10 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_5b6298": "rxn00690_c",
-                    "PS_complex_36f94c": "rxn24148_c"
+                    "PS_complex_36f94c": [
+                        "rxn00690_c",
+                        "rxn24148_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -17633,26 +17827,30 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_7408f3": "rxn37801_c",
-                    "PS_complex_4ef39d": "rxn22452_c",
-                    "PS_complex_7d6a31": "rxn22458_c",
-                    "PS_complex_46330c": "rxn22456_c",
-                    "PS_complex_b0b43b": "rxn22463_c",
-                    "PS_complex_960b81": "rxn22454_c",
-                    "PS_complex_39d20d": "rxn37802_c"
+                    "PS_complex_39d20d": [
+                        "rxn37801_c",
+                        "rxn22452_c",
+                        "rxn22458_c",
+                        "rxn22456_c",
+                        "rxn22463_c",
+                        "rxn22454_c",
+                        "rxn37802_c"
+                    ]
                 },
                 "exclude": false
             },
             "v": {
                 "reaction": "v",
                 "kbase_ids": {
-                    "PS_complex_801df5": "rxn37801_v",
-                    "PS_complex_0e25f9": "rxn22452_v",
-                    "PS_complex_c97e60": "rxn22458_v",
-                    "PS_complex_b21769": "rxn22456_v",
-                    "PS_complex_24e5d7": "rxn22463_v",
-                    "PS_complex_05c8b8": "rxn22454_v",
-                    "PS_complex_3c6f5d": "rxn37802_v"
+                    "PS_complex_05c8b8": [
+                        "rxn37801_v",
+                        "rxn22452_v",
+                        "rxn22458_v",
+                        "rxn22456_v",
+                        "rxn22463_v",
+                        "rxn22454_v",
+                        "rxn37802_v"
+                    ]
                 },
                 "exclude": false
             }
@@ -17911,16 +18109,20 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_168a6f": "rxn15116_c",
-                    "PS_complex_324f5d": "rxn01334_c"
+                    "PS_complex_168a6f": [
+                        "rxn15116_c",
+                        "rxn01334_c"
+                    ]
                 },
                 "exclude": false
             },
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_19b773": "rxn15116_d",
-                    "PS_complex_5a9fe3": "rxn01334_d"
+                    "PS_complex_19b773": [
+                        "rxn15116_d",
+                        "rxn01334_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -18163,8 +18365,10 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_f5c41f": "rxn00643_c",
-                    "PS_complex_a72490": "rxn07487_c"
+                    "PS_complex_a72490": [
+                        "rxn00643_c",
+                        "rxn07487_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -18440,8 +18644,10 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_9b9619": "rxn22718_c",
-                    "PS_complex_0ecf79": "rxn25788_c"
+                    "PS_complex_0ecf79": [
+                        "rxn22718_c",
+                        "rxn25788_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -18647,14 +18853,16 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_30fe71": "rxn21822_c",
-                    "PS_complex_11318a": "rxn21819_c",
-                    "PS_complex_94f086": "rxn21818_c",
-                    "PS_complex_8a87f2": "rxn21821_c",
-                    "PS_complex_eca221": "rxn21817_c",
-                    "PS_complex_711248": "rxn21824_c",
-                    "PS_complex_31e5fb": "rxn21820_c",
-                    "PS_complex_e7f719": "rxn21823_c"
+                    "PS_complex_11318a": [
+                        "rxn21822_c",
+                        "rxn21819_c",
+                        "rxn21818_c",
+                        "rxn21821_c",
+                        "rxn21817_c",
+                        "rxn21824_c",
+                        "rxn21820_c",
+                        "rxn21823_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -18852,12 +19060,14 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_32af65": "rxn14261_d",
-                    "PS_complex_9348be": "rxn14094_d",
-                    "PS_complex_db8197": "rxn14142_d",
-                    "PS_complex_3e933e": "rxn24358_d",
-                    "PS_complex_90ce6c": "rxn24362_d",
-                    "PS_complex_708725": "rxn24360_d"
+                    "PS_complex_32af65": [
+                        "rxn14261_d",
+                        "rxn14094_d",
+                        "rxn14142_d",
+                        "rxn24358_d",
+                        "rxn24362_d",
+                        "rxn24360_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -18938,24 +19148,27 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_7b0605": "rxn01486_d",
-                    "PS_complex_578d93": "rxn01486_d"
+                    "PS_complex_578d93": [
+                        "rxn01486_d"
+                    ]
                 },
                 "exclude": false
             },
             "r": {
                 "reaction": "r",
                 "kbase_ids": {
-                    "PS_complex_f1ced0": "rxn01486_r",
-                    "PS_complex_e93c18": "rxn01486_r"
+                    "PS_complex_e93c18": [
+                        "rxn01486_r"
+                    ]
                 },
                 "exclude": false
             },
             "m": {
                 "reaction": "m",
                 "kbase_ids": {
-                    "PS_complex_c839f4": "rxn01486_m",
-                    "PS_complex_e1ba5f": "rxn01486_m"
+                    "PS_complex_c839f4": [
+                        "rxn01486_m"
+                    ]
                 },
                 "exclude": false
             }
@@ -19317,16 +19530,20 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_4c347c": "rxn02380_c",
-                    "PS_complex_4056d8": "rxn15364_c"
+                    "PS_complex_4056d8": [
+                        "rxn02380_c",
+                        "rxn15364_c"
+                    ]
                 },
                 "exclude": false
             },
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_ecc047": "rxn02380_d",
-                    "PS_complex_8c6c74": "rxn15364_d"
+                    "PS_complex_8c6c74": [
+                        "rxn02380_d",
+                        "rxn15364_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -19478,16 +19695,20 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_542235": "rxn00179_c",
-                    "PS_complex_8d62e8": "rxn20617_c"
+                    "PS_complex_542235": [
+                        "rxn00179_c",
+                        "rxn20617_c"
+                    ]
                 },
                 "exclude": false
             },
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_6e7a50": "rxn00179_d",
-                    "PS_complex_fd3f2c": "rxn20617_d"
+                    "PS_complex_6e7a50": [
+                        "rxn00179_d",
+                        "rxn20617_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -19810,16 +20031,18 @@
             "x": {
                 "reaction": "x",
                 "kbase_ids": {
-                    "PS_complex_b8a946": "rxn00275_x",
-                    "PS_complex_3a77c3": "rxn00275_x"
+                    "PS_complex_3a77c3": [
+                        "rxn00275_x"
+                    ]
                 },
                 "exclude": false
             },
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_5d4d6e": "rxn00275_d",
-                    "PS_complex_c1bdb7": "rxn00275_d"
+                    "PS_complex_5d4d6e": [
+                        "rxn00275_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -19858,8 +20081,9 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_bc5863": "rxn00189_c",
-                    "PS_complex_52adee": "rxn00189_c"
+                    "PS_complex_52adee": [
+                        "rxn00189_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -19900,8 +20124,9 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_bc5863": "rxn00189_c",
-                    "PS_complex_52adee": "rxn00189_c"
+                    "PS_complex_52adee": [
+                        "rxn00189_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -20203,8 +20428,10 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_928948": "rxn21810_c",
-                    "PS_complex_cc1806": "rxn21809_c"
+                    "PS_complex_928948": [
+                        "rxn21810_c",
+                        "rxn21809_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -20260,12 +20487,14 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_43d90a": "rxn21816_c",
-                    "PS_complex_8a191d": "rxn21813_c",
-                    "PS_complex_dbbdd8": "rxn21814_c",
-                    "PS_complex_4e0ed8": "rxn21815_c",
-                    "PS_complex_721f24": "rxn21811_c",
-                    "PS_complex_18fc94": "rxn21812_c"
+                    "PS_complex_18fc94": [
+                        "rxn21816_c",
+                        "rxn21813_c",
+                        "rxn21814_c",
+                        "rxn21815_c",
+                        "rxn21811_c",
+                        "rxn21812_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -20574,45 +20803,55 @@
             "r": {
                 "reaction": "r",
                 "kbase_ids": {
-                    "PS_complex_1f0a4e": "rxn20934_r",
-                    "PS_complex_1463bc": "rxn28237_r",
-                    "PS_complex_263340": "rxn10204_r"
+                    "PS_complex_1463bc": [
+                        "rxn20934_r",
+                        "rxn28237_r",
+                        "rxn10204_r"
+                    ]
                 },
                 "exclude": false
             },
             "m": {
                 "reaction": "m",
                 "kbase_ids": {
-                    "PS_complex_27a69d": "rxn20934_m",
-                    "PS_complex_e831cf": "rxn28237_m",
-                    "PS_complex_313011": "rxn10204_m"
+                    "PS_complex_27a69d": [
+                        "rxn20934_m",
+                        "rxn28237_m",
+                        "rxn10204_m"
+                    ]
                 },
                 "exclude": false
             },
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_4f70b3": "rxn20934_d",
-                    "PS_complex_49bdf2": "rxn28237_d",
-                    "PS_complex_584572": "rxn10204_d"
+                    "PS_complex_49bdf2": [
+                        "rxn20934_d",
+                        "rxn28237_d",
+                        "rxn10204_d"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_8eeae4": "rxn20934_c",
-                    "PS_complex_dd9518": "rxn28237_c",
-                    "PS_complex_1326d4": "rxn10204_c"
+                    "PS_complex_1326d4": [
+                        "rxn20934_c",
+                        "rxn28237_c",
+                        "rxn10204_c"
+                    ]
                 },
                 "exclude": false
             },
             "v": {
                 "reaction": "v",
                 "kbase_ids": {
-                    "PS_complex_e96a21": "rxn20934_v",
-                    "PS_complex_a98a96": "rxn28237_v",
-                    "PS_complex_f17868": "rxn10204_v"
+                    "PS_complex_a98a96": [
+                        "rxn20934_v",
+                        "rxn28237_v",
+                        "rxn10204_v"
+                    ]
                 },
                 "exclude": false
             }
@@ -21494,11 +21733,13 @@
             "m": {
                 "reaction": "m",
                 "kbase_ids": {
-                    "PS_complex_d4cf65": "rxn01169_m",
-                    "PS_complex_d8363f": "rxn20176_m",
-                    "PS_complex_062c35": "rxn15121_m",
-                    "PS_complex_e3a6fa": "rxn15249_m",
-                    "PS_complex_8db52a": "rxn15435_m"
+                    "PS_complex_062c35": [
+                        "rxn01169_m",
+                        "rxn20176_m",
+                        "rxn15121_m",
+                        "rxn15249_m",
+                        "rxn15435_m"
+                    ]
                 },
                 "exclude": false
             }
@@ -21603,8 +21844,10 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_86ed46": "rxn00863_d",
-                    "PS_complex_88dfa0": "rxn02159_d"
+                    "PS_complex_86ed46": [
+                        "rxn00863_d",
+                        "rxn02159_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -21713,10 +21956,10 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_9152a1": "rxn02320_d",
-                    "PS_complex_bee075": "rxn00527_d",
-                    "PS_complex_772f14": "rxn00527_d",
-                    "PS_complex_583b7a": "rxn00527_d"
+                    "PS_complex_583b7a": [
+                        "rxn02320_d",
+                        "rxn00527_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -21763,10 +22006,10 @@
             "r": {
                 "reaction": "r",
                 "kbase_ids": {
-                    "PS_complex_1ef972": "rxn14237_r",
-                    "PS_complex_dd8f75": "rxn14237_r",
-                    "PS_complex_5a1057": "rxn14161_r",
-                    "PS_complex_3612cf": "rxn14161_r"
+                    "PS_complex_1ef972": [
+                        "rxn14237_r",
+                        "rxn14161_r"
+                    ]
                 },
                 "exclude": false
             }
@@ -21816,10 +22059,12 @@
             "r": {
                 "reaction": "r",
                 "kbase_ids": {
-                    "PS_complex_dc40b1": "rxn14305_r",
-                    "PS_complex_a71472": "rxn13986_r",
-                    "PS_complex_f29234": "rxn13984_r",
-                    "PS_complex_2af797": "rxn14285_r"
+                    "PS_complex_2af797": [
+                        "rxn14305_r",
+                        "rxn13986_r",
+                        "rxn13984_r",
+                        "rxn14285_r"
+                    ]
                 },
                 "exclude": false
             }
@@ -21873,8 +22118,10 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_8e0bc0": "rxn00452_c",
-                    "PS_complex_fc2684": "rxn08703_c"
+                    "PS_complex_8e0bc0": [
+                        "rxn00452_c",
+                        "rxn08703_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -22059,8 +22306,10 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_2aaa9a": "rxn01301_d",
-                    "PS_complex_cb3068": "rxn01302_d"
+                    "PS_complex_2aaa9a": [
+                        "rxn01301_d",
+                        "rxn01302_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -22812,9 +23061,11 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_24785d": "rxn23776_c",
-                    "PS_complex_7ae4e5": "rxn48396_c",
-                    "PS_complex_41645c": "rxn42934_c"
+                    "PS_complex_24785d": [
+                        "rxn23776_c",
+                        "rxn48396_c",
+                        "rxn42934_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -22969,8 +23220,9 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_cf736f": "rxn00001_c",
-                    "PS_complex_dddc6e": "rxn00001_c"
+                    "PS_complex_cf736f": [
+                        "rxn00001_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -23768,8 +24020,10 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_15e85b": "rxn19029_d",
-                    "PS_complex_2cff5a": "rxn19027_d"
+                    "PS_complex_15e85b": [
+                        "rxn19029_d",
+                        "rxn19027_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -24014,26 +24268,30 @@
             "m": {
                 "reaction": "m",
                 "kbase_ids": {
-                    "PS_complex_02cf78": "rxn00275_m",
-                    "PS_complex_a7a458": "rxn00272_m"
+                    "PS_complex_02cf78": [
+                        "rxn00275_m",
+                        "rxn00272_m"
+                    ]
                 },
                 "exclude": false
             },
             "x": {
                 "reaction": "x",
                 "kbase_ids": {
-                    "PS_complex_b8a946": "rxn00275_x",
-                    "PS_complex_3a77c3": "rxn00275_x",
-                    "PS_complex_533d4f": "rxn00272_x"
+                    "PS_complex_3a77c3": [
+                        "rxn00275_x",
+                        "rxn00272_x"
+                    ]
                 },
                 "exclude": false
             },
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_5d4d6e": "rxn00275_d",
-                    "PS_complex_c1bdb7": "rxn00275_d",
-                    "PS_complex_f44fac": "rxn00272_d"
+                    "PS_complex_5d4d6e": [
+                        "rxn00275_d",
+                        "rxn00272_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -24543,16 +24801,20 @@
             "m": {
                 "reaction": "m",
                 "kbase_ids": {
-                    "PS_complex_803153": "rxn03182_m",
-                    "PS_complex_0e8c14": "rxn03439_m"
+                    "PS_complex_0e8c14": [
+                        "rxn03182_m",
+                        "rxn03439_m"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_89b243": "rxn03182_c",
-                    "PS_complex_8ac1b8": "rxn03439_c"
+                    "PS_complex_89b243": [
+                        "rxn03182_c",
+                        "rxn03439_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -24749,8 +25011,10 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_939ae0": "rxn23772_c",
-                    "PS_complex_b233e6": "rxn25847_c"
+                    "PS_complex_939ae0": [
+                        "rxn23772_c",
+                        "rxn25847_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -24795,8 +25059,10 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_a12825": "rxn25848_c",
-                    "PS_complex_e06be7": "rxn23773_c"
+                    "PS_complex_a12825": [
+                        "rxn25848_c",
+                        "rxn23773_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -24841,17 +25107,20 @@
             "r": {
                 "reaction": "r",
                 "kbase_ids": {
-                    "PS_complex_579a3d": "rxn22473_r",
-                    "PS_complex_bd53a5": "rxn23937_r"
+                    "PS_complex_579a3d": [
+                        "rxn22473_r",
+                        "rxn23937_r"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_fcf2f6": "rxn22473_c",
-                    "PS_complex_f6be11": "rxn23937_c",
-                    "PS_complex_b1861f": "rxn23937_c"
+                    "PS_complex_b1861f": [
+                        "rxn22473_c",
+                        "rxn23937_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -24892,8 +25161,9 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_f6be11": "rxn23937_c",
-                    "PS_complex_b1861f": "rxn23937_c"
+                    "PS_complex_b1861f": [
+                        "rxn23937_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -25027,45 +25297,51 @@
             "r": {
                 "reaction": "r",
                 "kbase_ids": {
-                    "PS_complex_d1e70c": "rxn09444_r",
-                    "PS_complex_5f606c": "rxn09453_r",
-                    "PS_complex_6b9881": "rxn25762_r",
-                    "PS_complex_27905d": "rxn00947_r",
-                    "PS_complex_6901e3": "rxn05736_r",
-                    "PS_complex_d3b4ff": "rxn09449_r",
-                    "PS_complex_b18d47": "rxn12282_r",
-                    "PS_complex_bc4569": "rxn19246_r",
-                    "PS_complex_a7af25": "rxn37324_r"
+                    "PS_complex_27905d": [
+                        "rxn09444_r",
+                        "rxn09453_r",
+                        "rxn25762_r",
+                        "rxn00947_r",
+                        "rxn05736_r",
+                        "rxn09449_r",
+                        "rxn12282_r",
+                        "rxn19246_r",
+                        "rxn37324_r"
+                    ]
                 },
                 "exclude": false
             },
             "x": {
                 "reaction": "x",
                 "kbase_ids": {
-                    "PS_complex_4b39c6": "rxn09444_x",
-                    "PS_complex_209732": "rxn09453_x",
-                    "PS_complex_0e0cec": "rxn25762_x",
-                    "PS_complex_420da8": "rxn00947_x",
-                    "PS_complex_58e9d0": "rxn05736_x",
-                    "PS_complex_0b4f0e": "rxn09449_x",
-                    "PS_complex_c76bd8": "rxn12282_x",
-                    "PS_complex_e940b0": "rxn19246_x",
-                    "PS_complex_419e22": "rxn37324_x"
+                    "PS_complex_0b4f0e": [
+                        "rxn09444_x",
+                        "rxn09453_x",
+                        "rxn25762_x",
+                        "rxn00947_x",
+                        "rxn05736_x",
+                        "rxn09449_x",
+                        "rxn12282_x",
+                        "rxn19246_x",
+                        "rxn37324_x"
+                    ]
                 },
                 "exclude": false
             },
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_b52bb9": "rxn09444_d",
-                    "PS_complex_0728bd": "rxn09453_d",
-                    "PS_complex_5b117a": "rxn25762_d",
-                    "PS_complex_94deac": "rxn00947_d",
-                    "PS_complex_eb8cfe": "rxn05736_d",
-                    "PS_complex_b3f215": "rxn09449_d",
-                    "PS_complex_3771e5": "rxn12282_d",
-                    "PS_complex_4eb7c8": "rxn19246_d",
-                    "PS_complex_644611": "rxn37324_d"
+                    "PS_complex_0728bd": [
+                        "rxn09444_d",
+                        "rxn09453_d",
+                        "rxn25762_d",
+                        "rxn00947_d",
+                        "rxn05736_d",
+                        "rxn09449_d",
+                        "rxn12282_d",
+                        "rxn19246_d",
+                        "rxn37324_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -25825,24 +26101,30 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_9cffe8": "rxn01211_d",
-                    "PS_complex_a1a686": "rxn24147_d"
+                    "PS_complex_9cffe8": [
+                        "rxn01211_d",
+                        "rxn24147_d"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_9a4966": "rxn01211_c",
-                    "PS_complex_6a54c7": "rxn24147_c"
+                    "PS_complex_6a54c7": [
+                        "rxn01211_c",
+                        "rxn24147_c"
+                    ]
                 },
                 "exclude": false
             },
             "m": {
                 "reaction": "m",
                 "kbase_ids": {
-                    "PS_complex_272bfe": "rxn01211_m",
-                    "PS_complex_5204b3": "rxn24147_m"
+                    "PS_complex_272bfe": [
+                        "rxn01211_m",
+                        "rxn24147_m"
+                    ]
                 },
                 "exclude": false
             }
@@ -26231,24 +26513,28 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_046f66": "rxn14122_d",
-                    "PS_complex_09a307": "rxn14244_d",
-                    "PS_complex_ca8228": "rxn14182_d",
-                    "PS_complex_77a701": "rxn13983_d",
-                    "PS_complex_0fd754": "rxn14172_d",
-                    "PS_complex_d3b4b3": "rxn13977_d"
+                    "PS_complex_046f66": [
+                        "rxn14122_d",
+                        "rxn14244_d",
+                        "rxn14182_d",
+                        "rxn13983_d",
+                        "rxn14172_d",
+                        "rxn13977_d"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_83a653": "rxn14122_c",
-                    "PS_complex_76fca9": "rxn14244_c",
-                    "PS_complex_c13668": "rxn14182_c",
-                    "PS_complex_98889d": "rxn13983_c",
-                    "PS_complex_e97ca2": "rxn14172_c",
-                    "PS_complex_508bff": "rxn13977_c"
+                    "PS_complex_508bff": [
+                        "rxn14122_c",
+                        "rxn14244_c",
+                        "rxn14182_c",
+                        "rxn13983_c",
+                        "rxn14172_c",
+                        "rxn13977_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -26316,24 +26602,28 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_08fc88": "rxn14059_d",
-                    "PS_complex_f5248c": "rxn14156_d",
-                    "PS_complex_dd17d2": "rxn14278_d",
-                    "PS_complex_230702": "rxn13995_d",
-                    "PS_complex_271569": "rxn14248_d",
-                    "PS_complex_97a629": "rxn13975_d"
+                    "PS_complex_08fc88": [
+                        "rxn14059_d",
+                        "rxn14156_d",
+                        "rxn14278_d",
+                        "rxn13995_d",
+                        "rxn14248_d",
+                        "rxn13975_d"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_ceaee5": "rxn14059_c",
-                    "PS_complex_f9abd5": "rxn14156_c",
-                    "PS_complex_820a03": "rxn14278_c",
-                    "PS_complex_3a0e4d": "rxn13995_c",
-                    "PS_complex_293672": "rxn14248_c",
-                    "PS_complex_d87279": "rxn13975_c"
+                    "PS_complex_293672": [
+                        "rxn14059_c",
+                        "rxn14156_c",
+                        "rxn14278_c",
+                        "rxn13995_c",
+                        "rxn14248_c",
+                        "rxn13975_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -26412,24 +26702,28 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_08fc88": "rxn14059_d",
-                    "PS_complex_f5248c": "rxn14156_d",
-                    "PS_complex_dd17d2": "rxn14278_d",
-                    "PS_complex_230702": "rxn13995_d",
-                    "PS_complex_271569": "rxn14248_d",
-                    "PS_complex_97a629": "rxn13975_d"
+                    "PS_complex_08fc88": [
+                        "rxn14059_d",
+                        "rxn14156_d",
+                        "rxn14278_d",
+                        "rxn13995_d",
+                        "rxn14248_d",
+                        "rxn13975_d"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_ceaee5": "rxn14059_c",
-                    "PS_complex_f9abd5": "rxn14156_c",
-                    "PS_complex_820a03": "rxn14278_c",
-                    "PS_complex_3a0e4d": "rxn13995_c",
-                    "PS_complex_293672": "rxn14248_c",
-                    "PS_complex_d87279": "rxn13975_c"
+                    "PS_complex_293672": [
+                        "rxn14059_c",
+                        "rxn14156_c",
+                        "rxn14278_c",
+                        "rxn13995_c",
+                        "rxn14248_c",
+                        "rxn13975_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -26493,12 +26787,14 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_624ce0": "rxn14308_d",
-                    "PS_complex_370a70": "rxn14205_d",
-                    "PS_complex_930383": "rxn14102_d",
-                    "PS_complex_d25713": "rxn14004_d",
-                    "PS_complex_a6f8bf": "rxn14183_d",
-                    "PS_complex_5b6160": "rxn14347_d"
+                    "PS_complex_370a70": [
+                        "rxn14308_d",
+                        "rxn14205_d",
+                        "rxn14102_d",
+                        "rxn14004_d",
+                        "rxn14183_d",
+                        "rxn14347_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -26688,9 +26984,11 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_0ca930": "rxn04152_d",
-                    "PS_complex_46306b": "rxn04154_d",
-                    "PS_complex_4b6683": "rxn04153_d"
+                    "PS_complex_0ca930": [
+                        "rxn04152_d",
+                        "rxn04154_d",
+                        "rxn04153_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -26794,16 +27092,20 @@
             "r": {
                 "reaction": "r",
                 "kbase_ids": {
-                    "PS_complex_8f0602": "rxn20883_r",
-                    "PS_complex_11c0bf": "rxn20885_r"
+                    "PS_complex_11c0bf": [
+                        "rxn20883_r",
+                        "rxn20885_r"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_2fa9b8": "rxn20883_c",
-                    "PS_complex_f85913": "rxn20885_c"
+                    "PS_complex_2fa9b8": [
+                        "rxn20883_c",
+                        "rxn20885_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -27191,8 +27493,10 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_3a008c": "rxn11701_c",
-                    "PS_complex_920ac6": "rxn02299_c"
+                    "PS_complex_3a008c": [
+                        "rxn11701_c",
+                        "rxn02299_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -27250,12 +27554,14 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_f9d2d1": "rxn14074_c",
-                    "PS_complex_3b0114": "rxn37540_c",
-                    "PS_complex_17b4d1": "rxn37542_c",
-                    "PS_complex_0d57b4": "rxn37539_c",
-                    "PS_complex_479221": "rxn37541_c",
-                    "PS_complex_d58497": "rxn37543_c"
+                    "PS_complex_0d57b4": [
+                        "rxn14074_c",
+                        "rxn37540_c",
+                        "rxn37542_c",
+                        "rxn37539_c",
+                        "rxn37541_c",
+                        "rxn37543_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -27355,28 +27661,32 @@
             "cd": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_a79993": "rxn10867_d",
-                    "PS_complex_01a138": "rxn13360_d",
-                    "PS_complex_49cdfe": "rxn13361_d",
-                    "PS_complex_91bbf7": "rxn33186_d",
-                    "PS_complex_a12f3d": "rxn29785_d",
-                    "PS_complex_08bc3e": "rxn48590_d",
-                    "PS_complex_ca2bd4": "rxn48591_d",
-                    "PS_complex_effd3a": "rxn48592_d"
+                    "PS_complex_01a138": [
+                        "rxn10867_d",
+                        "rxn13360_d",
+                        "rxn13361_d",
+                        "rxn33186_d",
+                        "rxn29785_d",
+                        "rxn48590_d",
+                        "rxn48591_d",
+                        "rxn48592_d"
+                    ]
                 },
                 "exclude": false
             },
             "cm": {
                 "reaction": "m",
                 "kbase_ids": {
-                    "PS_complex_b93e0c": "rxn10867_m",
-                    "PS_complex_f58449": "rxn13360_m",
-                    "PS_complex_53e428": "rxn13361_m",
-                    "PS_complex_cf1d98": "rxn33186_m",
-                    "PS_complex_1074d8": "rxn29785_m",
-                    "PS_complex_62a363": "rxn48590_m",
-                    "PS_complex_4a1a52": "rxn48591_m",
-                    "PS_complex_1e815c": "rxn48592_m"
+                    "PS_complex_1074d8": [
+                        "rxn10867_m",
+                        "rxn13360_m",
+                        "rxn13361_m",
+                        "rxn33186_m",
+                        "rxn29785_m",
+                        "rxn48590_m",
+                        "rxn48591_m",
+                        "rxn48592_m"
+                    ]
                 },
                 "exclude": false
             }
@@ -27480,7 +27790,9 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_a62c8c": "rxn00138_c"
+                    "PS_complex_52adee": [
+                        "rxn00189_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -27525,8 +27837,10 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_ff2df3": "rxn23415_d",
-                    "PS_complex_7a6b2f": "rxn23155_d"
+                    "PS_complex_7a6b2f": [
+                        "rxn23415_d",
+                        "rxn23155_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -29513,8 +29827,9 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_357af2": "rxn00076_c",
-                    "PS_complex_eafeba": "rxn00076_c"
+                    "PS_complex_357af2": [
+                        "rxn00076_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -29625,8 +29940,10 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_564e41": "rxn24404_c",
-                    "PS_complex_5a0de7": "rxn00088_c"
+                    "PS_complex_564e41": [
+                        "rxn24404_c",
+                        "rxn00088_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -29828,8 +30145,9 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_1d709c": "rxn00782_d",
-                    "PS_complex_f7cf70": "rxn00782_d"
+                    "PS_complex_1d709c": [
+                        "rxn00782_d"
+                    ]
                 },
                 "exclude": true
             }
@@ -29911,8 +30229,9 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_d2f8e0": "rxn01670_c",
-                    "PS_complex_28738b": "rxn01670_c"
+                    "PS_complex_28738b": [
+                        "rxn01670_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -29957,8 +30276,9 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_357af2": "rxn00076_c",
-                    "PS_complex_eafeba": "rxn00076_c"
+                    "PS_complex_357af2": [
+                        "rxn00076_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -30149,9 +30469,10 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_cc0e68": "rxn00105_c",
-                    "PS_complex_2e774e": "rxn02155_c",
-                    "PS_complex_4aa2ef": "rxn02155_c"
+                    "PS_complex_2e774e": [
+                        "rxn00105_c",
+                        "rxn02155_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -30236,8 +30557,10 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_9da148": "rxn24928_c",
-                    "PS_complex_38d615": "rxn01265_c"
+                    "PS_complex_38d615": [
+                        "rxn24928_c",
+                        "rxn01265_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -30281,8 +30604,9 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_2e774e": "rxn02155_c",
-                    "PS_complex_4aa2ef": "rxn02155_c"
+                    "PS_complex_2e774e": [
+                        "rxn02155_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -30575,70 +30899,80 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_34209f": "rxn01673_c",
-                    "PS_complex_5d32d5": "rxn01512_c",
-                    "PS_complex_3d4f52": "rxn00237_c",
-                    "PS_complex_bc1cb6": "rxn01678_c",
-                    "PS_complex_07264f": "rxn00409_c",
-                    "PS_complex_25553c": "rxn00117_c",
-                    "PS_complex_b7e3a0": "rxn00839_c",
-                    "PS_complex_07498d": "rxn01353_c"
+                    "PS_complex_07264f": [
+                        "rxn01673_c",
+                        "rxn01512_c",
+                        "rxn00237_c",
+                        "rxn01678_c",
+                        "rxn00409_c",
+                        "rxn00117_c",
+                        "rxn00839_c",
+                        "rxn01353_c"
+                    ]
                 },
                 "exclude": false
             },
             "n": {
                 "reaction": "n",
                 "kbase_ids": {
-                    "PS_complex_a24738": "rxn01673_n",
-                    "PS_complex_e20145": "rxn01512_n",
-                    "PS_complex_76f94e": "rxn00237_n",
-                    "PS_complex_91b8da": "rxn01678_n",
-                    "PS_complex_d8d2d9": "rxn00409_n",
-                    "PS_complex_006a8d": "rxn00117_n",
-                    "PS_complex_4ee963": "rxn00839_n",
-                    "PS_complex_c01d04": "rxn01353_n"
+                    "PS_complex_006a8d": [
+                        "rxn01673_n",
+                        "rxn01512_n",
+                        "rxn00237_n",
+                        "rxn01678_n",
+                        "rxn00409_n",
+                        "rxn00117_n",
+                        "rxn00839_n",
+                        "rxn01353_n"
+                    ]
                 },
                 "exclude": false
             },
             "x": {
                 "reaction": "x",
                 "kbase_ids": {
-                    "PS_complex_15c7c4": "rxn01673_x",
-                    "PS_complex_fb6a51": "rxn01512_x",
-                    "PS_complex_7be828": "rxn00237_x",
-                    "PS_complex_e472b1": "rxn01678_x",
-                    "PS_complex_224dc4": "rxn00409_x",
-                    "PS_complex_5816b7": "rxn00117_x",
-                    "PS_complex_436962": "rxn00839_x",
-                    "PS_complex_b5f34b": "rxn01353_x"
+                    "PS_complex_15c7c4": [
+                        "rxn01673_x",
+                        "rxn01512_x",
+                        "rxn00237_x",
+                        "rxn01678_x",
+                        "rxn00409_x",
+                        "rxn00117_x",
+                        "rxn00839_x",
+                        "rxn01353_x"
+                    ]
                 },
                 "exclude": false
             },
             "m": {
                 "reaction": "m",
                 "kbase_ids": {
-                    "PS_complex_8c8054": "rxn01673_m",
-                    "PS_complex_c4b57b": "rxn01512_m",
-                    "PS_complex_98e9c8": "rxn00237_m",
-                    "PS_complex_e516c1": "rxn01678_m",
-                    "PS_complex_3f1d65": "rxn00409_m",
-                    "PS_complex_84a523": "rxn00117_m",
-                    "PS_complex_29151e": "rxn00839_m",
-                    "PS_complex_ec6379": "rxn01353_m"
+                    "PS_complex_29151e": [
+                        "rxn01673_m",
+                        "rxn01512_m",
+                        "rxn00237_m",
+                        "rxn01678_m",
+                        "rxn00409_m",
+                        "rxn00117_m",
+                        "rxn00839_m",
+                        "rxn01353_m"
+                    ]
                 },
                 "exclude": false
             },
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_e9f7b4": "rxn01673_d",
-                    "PS_complex_00e1bc": "rxn01512_d",
-                    "PS_complex_781c99": "rxn00237_d",
-                    "PS_complex_aaa997": "rxn01678_d",
-                    "PS_complex_fb668f": "rxn00409_d",
-                    "PS_complex_201d5f": "rxn00117_d",
-                    "PS_complex_67c15a": "rxn00839_d",
-                    "PS_complex_8e9f40": "rxn01353_d"
+                    "PS_complex_00e1bc": [
+                        "rxn01673_d",
+                        "rxn01512_d",
+                        "rxn00237_d",
+                        "rxn01678_d",
+                        "rxn00409_d",
+                        "rxn00117_d",
+                        "rxn00839_d",
+                        "rxn01353_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -30795,9 +31129,10 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_367432": "rxn17803_d",
-                    "PS_complex_ae1852": "rxn17803_d",
-                    "PS_complex_9d8fe1": "rxn28487_d"
+                    "PS_complex_367432": [
+                        "rxn17803_d",
+                        "rxn28487_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -30838,8 +31173,9 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_367432": "rxn17803_d",
-                    "PS_complex_ae1852": "rxn17803_d"
+                    "PS_complex_367432": [
+                        "rxn17803_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -30918,50 +31254,54 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_177299": "rxn24867_d",
-                    "PS_complex_c7836a": "rxn24863_d",
-                    "PS_complex_268cf7": "rxn24763_d",
-                    "PS_complex_ef8e0f": "rxn24771_d",
-                    "PS_complex_3aae4a": "rxn24869_d",
-                    "PS_complex_101bc0": "rxn24861_d",
-                    "PS_complex_11b58d": "rxn24799_d",
-                    "PS_complex_059075": "rxn24793_d",
-                    "PS_complex_1d0a92": "rxn24767_d",
-                    "PS_complex_c95672": "rxn24797_d",
-                    "PS_complex_d92d5f": "rxn24785_d",
-                    "PS_complex_6c78d5": "rxn24803_d",
-                    "PS_complex_e609b3": "rxn24791_d",
-                    "PS_complex_4e2952": "rxn23726_d",
-                    "PS_complex_476e52": "rxn24865_d",
-                    "PS_complex_23b903": "rxn24871_d",
-                    "PS_complex_372dae": "rxn24779_d",
-                    "PS_complex_a48ce5": "rxn24795_d",
-                    "PS_complex_8e78c2": "rxn24775_d"
+                    "PS_complex_059075": [
+                        "rxn24867_d",
+                        "rxn24863_d",
+                        "rxn24763_d",
+                        "rxn24771_d",
+                        "rxn24869_d",
+                        "rxn24861_d",
+                        "rxn24799_d",
+                        "rxn24793_d",
+                        "rxn24767_d",
+                        "rxn24797_d",
+                        "rxn24785_d",
+                        "rxn24803_d",
+                        "rxn24791_d",
+                        "rxn23726_d",
+                        "rxn24865_d",
+                        "rxn24871_d",
+                        "rxn24779_d",
+                        "rxn24795_d",
+                        "rxn24775_d"
+                    ]
                 },
                 "exclude": false
             },
             "r": {
                 "reaction": "r",
                 "kbase_ids": {
-                    "PS_complex_f46f1b": "rxn24867_r",
-                    "PS_complex_5f91f5": "rxn24863_r",
-                    "PS_complex_02ca38": "rxn24763_r",
-                    "PS_complex_2d9299": "rxn24771_r",
-                    "PS_complex_8d9084": "rxn24869_r",
-                    "PS_complex_16c438": "rxn24861_r",
-                    "PS_complex_d3ab45": "rxn24799_r",
-                    "PS_complex_ca3fb0": "rxn24793_r",
-                    "PS_complex_fe683e": "rxn24767_r",
-                    "PS_complex_6e0491": "rxn24797_r",
-                    "PS_complex_3fc587": "rxn24785_r",
-                    "PS_complex_74c925": "rxn24803_r",
-                    "PS_complex_c0e24b": "rxn24791_r",
-                    "PS_complex_0b71a4": "rxn23726_r",
-                    "PS_complex_4e8037": "rxn24865_r",
-                    "PS_complex_260b96": "rxn24871_r",
-                    "PS_complex_db728e": "rxn24779_r",
-                    "PS_complex_3ba2ae": "rxn24795_r",
-                    "PS_complex_e48617": "rxn24775_r"
+                    "PS_complex_02ca38": [
+                        "rxn24867_r",
+                        "rxn24863_r",
+                        "rxn24763_r",
+                        "rxn24771_r",
+                        "rxn24869_r",
+                        "rxn24861_r",
+                        "rxn24799_r",
+                        "rxn24793_r",
+                        "rxn24767_r",
+                        "rxn24797_r",
+                        "rxn24785_r",
+                        "rxn24803_r",
+                        "rxn24791_r",
+                        "rxn23726_r",
+                        "rxn24865_r",
+                        "rxn24871_r",
+                        "rxn24779_r",
+                        "rxn24795_r",
+                        "rxn24775_r"
+                    ]
                 },
                 "exclude": false
             }
@@ -31012,13 +31352,15 @@
             "r": {
                 "reaction": "r",
                 "kbase_ids": {
-                    "PS_complex_5e14b4": "rxn22844_r",
-                    "PS_complex_3c7366": "rxn22849_r",
-                    "PS_complex_313dbe": "rxn22852_r",
-                    "PS_complex_caaee7": "rxn22851_r",
-                    "PS_complex_db215a": "rxn22857_r",
-                    "PS_complex_120ea9": "rxn22854_r",
-                    "PS_complex_a37d7c": "rxn22845_r"
+                    "PS_complex_120ea9": [
+                        "rxn22844_r",
+                        "rxn22849_r",
+                        "rxn22852_r",
+                        "rxn22851_r",
+                        "rxn22857_r",
+                        "rxn22854_r",
+                        "rxn22845_r"
+                    ]
                 },
                 "exclude": false
             }
@@ -31093,51 +31435,57 @@
             "r": {
                 "reaction": "r",
                 "kbase_ids": {
-                    "PS_complex_3965df": "rxn25758_r",
-                    "PS_complex_615cd1": "rxn24769_r",
-                    "PS_complex_ec95b9": "rxn24789_r",
-                    "PS_complex_bd52f5": "rxn24773_r",
-                    "PS_complex_42c4b4": "rxn24859_r",
-                    "PS_complex_c19a5d": "rxn24765_r",
-                    "PS_complex_30168b": "rxn24777_r",
-                    "PS_complex_1fde60": "rxn23724_r",
-                    "PS_complex_99db36": "rxn24783_r",
-                    "PS_complex_891dc0": "rxn24761_r",
-                    "PS_complex_3ae4f9": "rxn24801_r"
+                    "PS_complex_1fde60": [
+                        "rxn25758_r",
+                        "rxn24769_r",
+                        "rxn24789_r",
+                        "rxn24773_r",
+                        "rxn24859_r",
+                        "rxn24765_r",
+                        "rxn24777_r",
+                        "rxn23724_r",
+                        "rxn24783_r",
+                        "rxn24761_r",
+                        "rxn24801_r"
+                    ]
                 },
                 "exclude": false
             },
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_e86d94": "rxn25758_d",
-                    "PS_complex_cb83a2": "rxn24769_d",
-                    "PS_complex_2c24eb": "rxn24789_d",
-                    "PS_complex_9fda77": "rxn24773_d",
-                    "PS_complex_115e0b": "rxn24859_d",
-                    "PS_complex_f5bde6": "rxn24765_d",
-                    "PS_complex_d1c2e9": "rxn24777_d",
-                    "PS_complex_c28601": "rxn23724_d",
-                    "PS_complex_a95670": "rxn24783_d",
-                    "PS_complex_fa5c41": "rxn24761_d",
-                    "PS_complex_a93c54": "rxn24801_d"
+                    "PS_complex_115e0b": [
+                        "rxn25758_d",
+                        "rxn24769_d",
+                        "rxn24789_d",
+                        "rxn24773_d",
+                        "rxn24859_d",
+                        "rxn24765_d",
+                        "rxn24777_d",
+                        "rxn23724_d",
+                        "rxn24783_d",
+                        "rxn24761_d",
+                        "rxn24801_d"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_106efa": "rxn25758_c",
-                    "PS_complex_166068": "rxn24769_c",
-                    "PS_complex_209999": "rxn24789_c",
-                    "PS_complex_78c467": "rxn24773_c",
-                    "PS_complex_7842f5": "rxn24859_c",
-                    "PS_complex_d281d5": "rxn24765_c",
-                    "PS_complex_fbcab1": "rxn24777_c",
-                    "PS_complex_c4a93a": "rxn23724_c",
-                    "PS_complex_cc81ed": "rxn24783_c",
-                    "PS_complex_0c754a": "rxn24761_c",
-                    "PS_complex_f61c16": "rxn24801_c"
+                    "PS_complex_0c754a": [
+                        "rxn25758_c",
+                        "rxn24769_c",
+                        "rxn24789_c",
+                        "rxn24773_c",
+                        "rxn24859_c",
+                        "rxn24765_c",
+                        "rxn24777_c",
+                        "rxn23724_c",
+                        "rxn24783_c",
+                        "rxn24761_c",
+                        "rxn24801_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -31188,13 +31536,15 @@
             "r": {
                 "reaction": "r",
                 "kbase_ids": {
-                    "PS_complex_620f32": "rxn22850_r",
-                    "PS_complex_df9fe9": "rxn22846_r",
-                    "PS_complex_ebec29": "rxn22856_r",
-                    "PS_complex_7ddd54": "rxn22847_r",
-                    "PS_complex_050c8f": "rxn22855_r",
-                    "PS_complex_6beb46": "rxn22853_r",
-                    "PS_complex_410ff4": "rxn22848_r"
+                    "PS_complex_050c8f": [
+                        "rxn22850_r",
+                        "rxn22846_r",
+                        "rxn22856_r",
+                        "rxn22847_r",
+                        "rxn22855_r",
+                        "rxn22853_r",
+                        "rxn22848_r"
+                    ]
                 },
                 "exclude": false
             }
@@ -31599,18 +31949,22 @@
             "r": {
                 "reaction": "r",
                 "kbase_ids": {
-                    "PS_complex_d907e4": "rxn21795_r",
-                    "PS_complex_05c4b8": "rxn21793_r",
-                    "PS_complex_f5cc89": "rxn40669_r"
+                    "PS_complex_05c4b8": [
+                        "rxn21795_r",
+                        "rxn21793_r",
+                        "rxn40669_r"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_cdf854": "rxn21795_c",
-                    "PS_complex_d05253": "rxn21793_c",
-                    "PS_complex_58ad0d": "rxn40669_c"
+                    "PS_complex_58ad0d": [
+                        "rxn21795_c",
+                        "rxn21793_c",
+                        "rxn40669_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -31673,24 +32027,28 @@
             "r": {
                 "reaction": "r",
                 "kbase_ids": {
-                    "PS_complex_72491f": "rxn21796_r",
-                    "PS_complex_deb689": "rxn21804_r",
-                    "PS_complex_e32e58": "rxn21802_r",
-                    "PS_complex_bf6499": "rxn21798_r",
-                    "PS_complex_6970ed": "rxn21806_r",
-                    "PS_complex_53c95f": "rxn21800_r"
+                    "PS_complex_53c95f": [
+                        "rxn21796_r",
+                        "rxn21804_r",
+                        "rxn21802_r",
+                        "rxn21798_r",
+                        "rxn21806_r",
+                        "rxn21800_r"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_17006a": "rxn21796_c",
-                    "PS_complex_46190f": "rxn21804_c",
-                    "PS_complex_13699c": "rxn21802_c",
-                    "PS_complex_725577": "rxn21798_c",
-                    "PS_complex_aa2710": "rxn21806_c",
-                    "PS_complex_53f1cb": "rxn21800_c"
+                    "PS_complex_13699c": [
+                        "rxn21796_c",
+                        "rxn21804_c",
+                        "rxn21802_c",
+                        "rxn21798_c",
+                        "rxn21806_c",
+                        "rxn21800_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -31861,8 +32219,9 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_6e7536": "rxn08436_d",
-                    "PS_complex_df0c57": "rxn08436_d"
+                    "PS_complex_6e7536": [
+                        "rxn08436_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -31903,8 +32262,9 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_6e7536": "rxn08436_d",
-                    "PS_complex_df0c57": "rxn08436_d"
+                    "PS_complex_6e7536": [
+                        "rxn08436_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -31951,9 +32311,11 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_334ba1": "rxn24781_d",
-                    "PS_complex_5440da": "rxn24787_d",
-                    "PS_complex_70c55d": "rxn23728_d"
+                    "PS_complex_334ba1": [
+                        "rxn24781_d",
+                        "rxn24787_d",
+                        "rxn23728_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -32241,10 +32603,10 @@
             "r": {
                 "reaction": "r",
                 "kbase_ids": {
-                    "PS_complex_1ef972": "rxn14237_r",
-                    "PS_complex_dd8f75": "rxn14237_r",
-                    "PS_complex_5a1057": "rxn14161_r",
-                    "PS_complex_3612cf": "rxn14161_r"
+                    "PS_complex_1ef972": [
+                        "rxn14237_r",
+                        "rxn14161_r"
+                    ]
                 },
                 "exclude": false
             }
@@ -32410,9 +32772,11 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_e710a4": "rxn16424_c",
-                    "PS_complex_c4671e": "rxn22372_c",
-                    "PS_complex_e80d73": "rxn16423_c"
+                    "PS_complex_c4671e": [
+                        "rxn16424_c",
+                        "rxn22372_c",
+                        "rxn16423_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -32465,8 +32829,10 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_6f6745": "rxn00495_c",
-                    "PS_complex_166eaa": "rxn00530_c"
+                    "PS_complex_166eaa": [
+                        "rxn00495_c",
+                        "rxn00530_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -32709,8 +33075,10 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_85d67e": "rxn19272_d",
-                    "PS_complex_2975e2": "rxn27746_d"
+                    "PS_complex_2975e2": [
+                        "rxn19272_d",
+                        "rxn27746_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -32807,16 +33175,20 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_0d4f40": "rxn26762_c",
-                    "PS_complex_a9dbfa": "rxn17432_c"
+                    "PS_complex_0d4f40": [
+                        "rxn26762_c",
+                        "rxn17432_c"
+                    ]
                 },
                 "exclude": false
             },
             "v": {
                 "reaction": "v",
                 "kbase_ids": {
-                    "PS_complex_b4f677": "rxn26762_v",
-                    "PS_complex_944275": "rxn17432_v"
+                    "PS_complex_944275": [
+                        "rxn26762_v",
+                        "rxn17432_v"
+                    ]
                 },
                 "exclude": false
             }
@@ -33619,9 +33991,11 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_3fc113": "rxn01478_c",
-                    "PS_complex_8a7547": "rxn04682_c",
-                    "PS_complex_61e008": "rxn04681_c"
+                    "PS_complex_3fc113": [
+                        "rxn01478_c",
+                        "rxn04682_c",
+                        "rxn04681_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -35083,8 +35457,9 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_2f2aec": "rxn01111_d",
-                    "PS_complex_399bd1": "rxn01111_d"
+                    "PS_complex_2f2aec": [
+                        "rxn01111_d"
+                    ]
                 },
                 "exclude": true
             }
@@ -37288,10 +37663,10 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_1d709c": "rxn00782_d",
-                    "PS_complex_f7cf70": "rxn00782_d",
-                    "PS_complex_2f2aec": "rxn01111_d",
-                    "PS_complex_399bd1": "rxn01111_d"
+                    "PS_complex_1d709c": [
+                        "rxn00782_d",
+                        "rxn01111_d"
+                    ]
                 },
                 "exclude": true
             }
@@ -37797,18 +38172,22 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_149f7f": "rxn01396_c",
-                    "PS_complex_a051d9": "rxn01807_c",
-                    "PS_complex_85ec6a": "rxn00124_c"
+                    "PS_complex_149f7f": [
+                        "rxn01396_c",
+                        "rxn01807_c",
+                        "rxn00124_c"
+                    ]
                 },
                 "exclude": false
             },
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_c604bb": "rxn01396_d",
-                    "PS_complex_47ab4c": "rxn01807_d",
-                    "PS_complex_df3bd8": "rxn00124_d"
+                    "PS_complex_47ab4c": [
+                        "rxn01396_d",
+                        "rxn01807_d",
+                        "rxn00124_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -37946,16 +38325,20 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_c1c5d1": "rxn00209_d",
-                    "PS_complex_fb3671": "rxn00208_d"
+                    "PS_complex_c1c5d1": [
+                        "rxn00209_d",
+                        "rxn00208_d"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_4ac103": "rxn00209_c",
-                    "PS_complex_337ca8": "rxn00208_c"
+                    "PS_complex_337ca8": [
+                        "rxn00209_c",
+                        "rxn00208_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -38338,8 +38721,9 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_cf736f": "rxn00001_c",
-                    "PS_complex_dddc6e": "rxn00001_c"
+                    "PS_complex_cf736f": [
+                        "rxn00001_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -38392,16 +38776,20 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_545739": "rxn00929_d",
-                    "PS_complex_fe267e": "rxn00931_d"
+                    "PS_complex_545739": [
+                        "rxn00929_d",
+                        "rxn00931_d"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_717cd0": "rxn00929_c",
-                    "PS_complex_c5a16c": "rxn00931_c"
+                    "PS_complex_717cd0": [
+                        "rxn00929_c",
+                        "rxn00931_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -39219,14 +39607,16 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_24cc9b": "rxn39248_c",
-                    "PS_complex_b0a229": "rxn39247_c",
-                    "PS_complex_85c8a2": "rxn19077_c",
-                    "PS_complex_925d71": "rxn19771_c",
-                    "PS_complex_b57a43": "rxn19277_c",
-                    "PS_complex_a8b8a2": "rxn39246_c",
-                    "PS_complex_bdaa56": "rxn27415_c",
-                    "PS_complex_2eeb66": "rxn39245_c"
+                    "PS_complex_24cc9b": [
+                        "rxn39248_c",
+                        "rxn39247_c",
+                        "rxn19077_c",
+                        "rxn19771_c",
+                        "rxn19277_c",
+                        "rxn39246_c",
+                        "rxn27415_c",
+                        "rxn39245_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -39286,14 +39676,16 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_24cc9b": "rxn39248_c",
-                    "PS_complex_b0a229": "rxn39247_c",
-                    "PS_complex_85c8a2": "rxn19077_c",
-                    "PS_complex_925d71": "rxn19771_c",
-                    "PS_complex_b57a43": "rxn19277_c",
-                    "PS_complex_a8b8a2": "rxn39246_c",
-                    "PS_complex_bdaa56": "rxn27415_c",
-                    "PS_complex_2eeb66": "rxn39245_c"
+                    "PS_complex_24cc9b": [
+                        "rxn39248_c",
+                        "rxn39247_c",
+                        "rxn19077_c",
+                        "rxn19771_c",
+                        "rxn19277_c",
+                        "rxn39246_c",
+                        "rxn27415_c",
+                        "rxn39245_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -39515,8 +39907,10 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_25c418": "rxn02251_d",
-                    "PS_complex_72ca88": "rxn00018_d"
+                    "PS_complex_25c418": [
+                        "rxn02251_d",
+                        "rxn00018_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -39598,16 +39992,20 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_25c418": "rxn02251_d",
-                    "PS_complex_72ca88": "rxn00018_d"
+                    "PS_complex_25c418": [
+                        "rxn02251_d",
+                        "rxn00018_d"
+                    ]
                 },
                 "exclude": false
             },
             "x": {
                 "reaction": "x",
                 "kbase_ids": {
-                    "PS_complex_30f415": "rxn02251_x",
-                    "PS_complex_1ef6ab": "rxn00018_x"
+                    "PS_complex_1ef6ab": [
+                        "rxn02251_x",
+                        "rxn00018_x"
+                    ]
                 },
                 "exclude": true
             }
@@ -39940,14 +40338,16 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_f13ad5": "rxn21826_c",
-                    "PS_complex_fa201e": "rxn21832_c",
-                    "PS_complex_42a3a8": "rxn21831_c",
-                    "PS_complex_4e8938": "rxn21828_c",
-                    "PS_complex_c70dc9": "rxn21825_c",
-                    "PS_complex_cfcda4": "rxn21830_c",
-                    "PS_complex_ec3d1e": "rxn21833_c",
-                    "PS_complex_eb53b1": "rxn21827_c"
+                    "PS_complex_42a3a8": [
+                        "rxn21826_c",
+                        "rxn21832_c",
+                        "rxn21831_c",
+                        "rxn21828_c",
+                        "rxn21825_c",
+                        "rxn21830_c",
+                        "rxn21833_c",
+                        "rxn21827_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -40519,10 +40919,12 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_b61fe3": "rxn01429_c",
-                    "PS_complex_985a5a": "rxn01743_c",
-                    "PS_complex_7a6694": "rxn23803_c",
-                    "PS_complex_c6ad57": "rxn05136_c"
+                    "PS_complex_7a6694": [
+                        "rxn01429_c",
+                        "rxn01743_c",
+                        "rxn23803_c",
+                        "rxn05136_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -40659,9 +41061,11 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_adc131": "rxn21839_c",
-                    "PS_complex_0184ee": "rxn21840_c",
-                    "PS_complex_98b414": "rxn21835_c"
+                    "PS_complex_0184ee": [
+                        "rxn21839_c",
+                        "rxn21840_c",
+                        "rxn21835_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -40915,42 +41319,45 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_cefe99": "rxn03892_d",
-                    "PS_complex_d5c9d2": "rxn05287_d",
-                    "PS_complex_18a33e": "rxn14012_d",
-                    "PS_complex_135d7d": "rxn37610_d",
-                    "PS_complex_7b0605": "rxn01486_d",
-                    "PS_complex_578d93": "rxn01486_d",
-                    "PS_complex_5d20c3": "rxn31768_d",
-                    "PS_complex_6eaeeb": "rxn03891_d"
+                    "PS_complex_135d7d": [
+                        "rxn03892_d",
+                        "rxn05287_d",
+                        "rxn14012_d",
+                        "rxn37610_d",
+                        "rxn01486_d",
+                        "rxn31768_d",
+                        "rxn03891_d"
+                    ]
                 },
                 "exclude": false
             },
             "m": {
                 "reaction": "m",
                 "kbase_ids": {
-                    "PS_complex_6441cd": "rxn03892_m",
-                    "PS_complex_754fe7": "rxn05287_m",
-                    "PS_complex_589fb0": "rxn14012_m",
-                    "PS_complex_31f737": "rxn37610_m",
-                    "PS_complex_c839f4": "rxn01486_m",
-                    "PS_complex_e1ba5f": "rxn01486_m",
-                    "PS_complex_8d317e": "rxn31768_m",
-                    "PS_complex_454747": "rxn03891_m"
+                    "PS_complex_31f737": [
+                        "rxn03892_m",
+                        "rxn05287_m",
+                        "rxn14012_m",
+                        "rxn37610_m",
+                        "rxn01486_m",
+                        "rxn31768_m",
+                        "rxn03891_m"
+                    ]
                 },
                 "exclude": false
             },
             "r": {
                 "reaction": "r",
                 "kbase_ids": {
-                    "PS_complex_002618": "rxn03892_r",
-                    "PS_complex_bf585c": "rxn05287_r",
-                    "PS_complex_3873b7": "rxn14012_r",
-                    "PS_complex_c42345": "rxn37610_r",
-                    "PS_complex_f1ced0": "rxn01486_r",
-                    "PS_complex_e93c18": "rxn01486_r",
-                    "PS_complex_da0286": "rxn31768_r",
-                    "PS_complex_8dd07b": "rxn03891_r"
+                    "PS_complex_002618": [
+                        "rxn03892_r",
+                        "rxn05287_r",
+                        "rxn14012_r",
+                        "rxn37610_r",
+                        "rxn01486_r",
+                        "rxn31768_r",
+                        "rxn03891_r"
+                    ]
                 },
                 "exclude": false
             }
@@ -41901,8 +42308,9 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_e1adb5": "rxn11700_d",
-                    "PS_complex_b57df2": "rxn11700_d"
+                    "PS_complex_b57df2": [
+                        "rxn11700_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -41943,8 +42351,9 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_e1adb5": "rxn11700_d",
-                    "PS_complex_b57df2": "rxn11700_d"
+                    "PS_complex_b57df2": [
+                        "rxn11700_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -43404,8 +43813,10 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_f958ce": "rxn02305_d",
-                    "PS_complex_ce54d3": "rxn03108_d"
+                    "PS_complex_ce54d3": [
+                        "rxn02305_d",
+                        "rxn03108_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -43582,8 +43993,10 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_3f2159": "rxn27030_d",
-                    "PS_complex_19cccc": "rxn27029_d"
+                    "PS_complex_19cccc": [
+                        "rxn27030_d",
+                        "rxn27029_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -44102,8 +44515,10 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_1e1e41": "rxn15271_d",
-                    "PS_complex_63d4fd": "rxn01200_d"
+                    "PS_complex_1e1e41": [
+                        "rxn15271_d",
+                        "rxn01200_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -44384,9 +44799,11 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_2c5605": "rxn16427_d",
-                    "PS_complex_f558cc": "rxn16426_d",
-                    "PS_complex_ec8fcd": "rxn16428_d"
+                    "PS_complex_2c5605": [
+                        "rxn16427_d",
+                        "rxn16426_d",
+                        "rxn16428_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -44644,9 +45061,9 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_bee075": "rxn00527_d",
-                    "PS_complex_772f14": "rxn00527_d",
-                    "PS_complex_583b7a": "rxn00527_d"
+                    "PS_complex_583b7a": [
+                        "rxn00527_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -44881,8 +45298,9 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_5c04d7": "rxn02735_c",
-                    "PS_complex_d4791f": "rxn02735_c"
+                    "PS_complex_5c04d7": [
+                        "rxn02735_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -44928,8 +45346,9 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_5c04d7": "rxn02735_c",
-                    "PS_complex_d4791f": "rxn02735_c"
+                    "PS_complex_5c04d7": [
+                        "rxn02735_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -45552,9 +45971,11 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_98adb8": "rxn24286_c",
-                    "PS_complex_6bf331": "rxn01909_c",
-                    "PS_complex_76104f": "rxn01005_c"
+                    "PS_complex_6bf331": [
+                        "rxn24286_c",
+                        "rxn01909_c",
+                        "rxn01005_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -46331,8 +46752,10 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_928aa8": "rxn00119_c",
-                    "PS_complex_1f8334": "rxn00364_c"
+                    "PS_complex_1f8334": [
+                        "rxn00119_c",
+                        "rxn00364_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -46481,8 +46904,10 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_308038": "rxn05006_c",
-                    "PS_complex_947870": "rxn05005_c"
+                    "PS_complex_308038": [
+                        "rxn05006_c",
+                        "rxn05005_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -47018,9 +47443,11 @@
             "r": {
                 "reaction": "r",
                 "kbase_ids": {
-                    "PS_complex_8ac18f": "rxn22099_r",
-                    "PS_complex_bb7786": "rxn22098_r",
-                    "PS_complex_8e86c2": "rxn22100_r"
+                    "PS_complex_8ac18f": [
+                        "rxn22099_r",
+                        "rxn22098_r",
+                        "rxn22100_r"
+                    ]
                 },
                 "exclude": false
             }
@@ -47072,18 +47499,22 @@
             "r": {
                 "reaction": "r",
                 "kbase_ids": {
-                    "PS_complex_7e0ee2": "rxn23535_r",
-                    "PS_complex_2cdb3a": "rxn23531_r",
-                    "PS_complex_25f99f": "rxn23536_r"
+                    "PS_complex_25f99f": [
+                        "rxn23535_r",
+                        "rxn23531_r",
+                        "rxn23536_r"
+                    ]
                 },
                 "exclude": false
             },
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_7388a8": "rxn23535_c",
-                    "PS_complex_34252d": "rxn23531_c",
-                    "PS_complex_81abdf": "rxn23536_c"
+                    "PS_complex_34252d": [
+                        "rxn23535_c",
+                        "rxn23531_c",
+                        "rxn23536_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -47463,8 +47894,10 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_53ec22": "rxn15191_c",
-                    "PS_complex_92f3d7": "rxn15192_c"
+                    "PS_complex_53ec22": [
+                        "rxn15191_c",
+                        "rxn15192_c"
+                    ]
                 },
                 "exclude": false
             }
@@ -50262,8 +50695,9 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_0277b4": "rxn44037_d",
-                    "PS_complex_806645": "rxn44037_d"
+                    "PS_complex_0277b4": [
+                        "rxn44037_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -50316,8 +50750,9 @@
             "d": {
                 "reaction": "d",
                 "kbase_ids": {
-                    "PS_complex_0277b4": "rxn44037_d",
-                    "PS_complex_806645": "rxn44037_d"
+                    "PS_complex_0277b4": [
+                        "rxn44037_d"
+                    ]
                 },
                 "exclude": false
             }
@@ -51156,8 +51591,10 @@
             "c": {
                 "reaction": "c",
                 "kbase_ids": {
-                    "PS_complex_8a1ceb": "rxn14004_c",
-                    "PS_complex_385487": "rxn14183_c"
+                    "PS_complex_385487": [
+                        "rxn14004_c",
+                        "rxn14183_c"
+                    ]
                 },
                 "exclude": false
             }
