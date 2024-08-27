@@ -26374,7 +26374,8 @@
             "Athaliana_TAIR10||AT1G08630"
         ],
         "reactions": [
-            "rxn00541"
+            "rxn00541",
+            "rxn04142"
         ],
         "localization": {
             "c": {
@@ -26401,7 +26402,8 @@
                 "reaction": "c",
                 "kbase_ids": {
                     "PS_complex_c729ad": [
-                        "rxn00541_c"
+                        "rxn00541_c",
+                        "rxn04142_c"
                     ]
                 },
                 "exclude": false
