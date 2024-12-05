@@ -173,21 +173,22 @@ for entry in roles_list:
 				reactions_roles[tmpl_rxn].append(entry['role'])
 
 			# Store pre-generated complex identifiers
-			if(tmpl_rxn not in complexes):
-				complexes[tmpl_rxn]=dict()
-
 			for complex in entry['compartmentalization'][cpts]['kbase_ids']:
-				if(entry['compartmentalization'][cpts]['kbase_ids'][complex] != tmpl_rxn):
+				if(tmpl_rxn not in entry['compartmentalization'][cpts]['kbase_ids'][complex]):
 					continue
-				
+					
 				if(entry['compartmentalization'][cpts]['exclude'] is True):
 					excluded_roles_complexes.append(entry['role'] + ' / ' + complex)
 					continue
 				
-				if(complex not in complexes[tmpl_rxn]):
-					complexes[tmpl_rxn][complex] = list()
-				if(entry['role'] not in complexes[tmpl_rxn][complex]):
-					complexes[tmpl_rxn][complex].append(entry['role'])
+				if(complex not in complexes):
+					complexes[complex]={'reactions':[],'roles':[]}
+
+				if(tmpl_rxn not in complexes[complex]['reactions']):
+					complexes[complex]['reactions'].append(tmpl_rxn)
+
+				if(entry['role'] not in complexes[complex]['roles']):
+					complexes[complex]['roles'].append(entry['role'])
 				
 	for ftr in entry['features']:
 		if(ftr not in roles[entry['role']]):
@@ -212,32 +213,33 @@ for role in sorted(roles):
 template_complexes=list()
 template_reactions_complexes=dict()
 rca_fh = open("Reaction_Complex_Assignments.txt", 'w');
-for template_reaction in sorted(complexes.keys()):
-	for complex in sorted(complexes[template_reaction].keys()):
-		complex_hash = { 'id' : complex,
-						 'name' : "", 'reference' : "",
-						 'source' : "PlantSEED",
-						 'confidence' : 1.0,
-						 'complexroles' : [] }
+for complex in sorted(complexes.keys()):
+	complex_hash = { 'id' : complex,
+					'name' : "", 'reference' : "",
+					'source' : "PlantSEED",
+					'confidence' : 1.0,
+					'complexroles' : [] }
+	if('roles' not in complexes[complex]):
+		print(complex,complexes[complex])
+	for role in sorted(complexes[complex]['roles']):
+		if(role not in roles_ids):
+			print("Complexed role excluded:",role)
+			continue
 		
-		for role in sorted(complexes[template_reaction][complex]):
-			if(role not in roles_ids):
-				print("Complexed role excluded:",role)
-				continue
-		
-			complex_role_hash = { 'templaterole_ref' : "~/roles/id/"+roles_ids[role],
-								  'optional_role' : 0,
-								  'triggering' : 1 }
+		complex_role_hash = { 'templaterole_ref' : "~/roles/id/"+roles_ids[role],
+							'optional_role' : 0,
+							'triggering' : 1 }
 
-			complex_hash['complexroles'].append(complex_role_hash)
-			rca_fh.write("\t".join([template_reaction,complex_hash['id'],roles_ids[role],role,"|".join(sorted(roles[role]))])+"\n")
+		complex_hash['complexroles'].append(complex_role_hash)
+		rca_fh.write("\t".join(["|".join(complexes[complex]['reactions']),complex,roles_ids[role],role,"|".join(sorted(roles[role]))])+"\n")
 	
-		template_complexes.append(complex_hash)
+	template_complexes.append(complex_hash)
 
-		#Creating lookup for linking reactions to complexes later
+	# Creating lookup for linking reactions to complexes later
+	for template_reaction in complexes[complex]['reactions']:
 		if(template_reaction not in template_reactions_complexes):
 			template_reactions_complexes[template_reaction]=list()
-		template_reactions_complexes[template_reaction].append(complex_hash['id'])
+		template_reactions_complexes[template_reaction].append(complex)
 
 rca_fh.close()
 
@@ -399,13 +401,21 @@ for template_reaction in sorted(reactions_roles):
 
 	# Update usage of NAD in Methylthioalkylmalate dehydrogenase in glucosinolate biosynthesis
 	if('rxn14172' in template_reaction_hash['id']):
+		(rxn,cpt)=template_reaction_hash['id'].split('_')
 		nad  = {'coefficient': -1.0,
-        		'templatecompcompound_ref': '~/compcompounds/id/cpd00003_d'}
+        		'templatecompcompound_ref': '~/compcompounds/id/cpd00003_'+cpt}
 		nadh = {'coefficient': 1.0,
-        		'templatecompcompound_ref': '~/compcompounds/id/cpd00004_d'}
+        		'templatecompcompound_ref': '~/compcompounds/id/cpd00004_'+cpt}
 		template_reaction_hash['templateReactionReagents'].append(nad)
 		template_reaction_hash['templateReactionReagents'].append(nadh)
-		print(template_reaction_hash['id'],json.dumps(template_reaction_hash['templateReactionReagents'],indent=2))
+
+		# have to find and remove proton to balance reaction
+		proton_index=0
+		for rgt_index in range(len(template_reaction_hash['templateReactionReagents'])):
+			if('cpd00067_'+cpt in template_reaction_hash['templateReactionReagents'][rgt_index]['templatecompcompound_ref']):
+				proton_index=rgt_index
+				break
+		template_reaction_hash['templateReactionReagents'].pop(proton_index)
 
 	template_reactions.append(template_reaction_hash)
 
@@ -452,7 +462,7 @@ for glc_met in glc_tns.keys():
 					'coefficient' : 1.0 }
 	template_reaction_hash['templateReactionReagents'].append(rxn_rgt_hash)
 
-	print(template_reaction_hash['id'],json.dumps(template_reaction_hash['templateReactionReagents'],indent=2))
+	# print(template_reaction_hash['id'],json.dumps(template_reaction_hash['templateReactionReagents'],indent=2))
 
 	glc_count+=1
 	template_reactions.append(template_reaction_hash)
