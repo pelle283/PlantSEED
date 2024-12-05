@@ -22845,7 +22845,7 @@
         "abstract_enzyme": "Histidinol-phosphate aminotransferase"
     },
     {
-        "role": "Homo, di, tri, tetra, penta & hexahomomethionine N-hydroxylase (EC 1.14.13.n5)",
+        "role": "Homomethionine N-monooxygenase (EC 1.14.14.42)",
         "include": true,
         "subsystems": [
             "Biosynthesis_of_aliphatic_glucosinolates_in_plants_(core_structure_and_secondary_modifications)"
@@ -22872,11 +22872,15 @@
                 ]
             }
         },
-        "publications": [],
+        "publications": [
+            "10.1046/j.1365-313X.2003.01679.x"
+        ],
         "kbase_id": "PS_role_680bc5",
         "curators": [
             "SvetaG",
-            "samseaver"
+            "samseaver",
+            "riocon001",
+            "pelle283"
         ],
         "type": "universal",
         "is_transporter": false,
@@ -33836,7 +33840,7 @@
         "abstract_enzyme": "Pectinesterase"
     },
     {
-        "role": "Penta and hexahomomethionine N-hydroxylase (EC 1.14.13.n6)",
+        "role": "Homomethionine N-monooxygenase, 10C-11C only (EC 1.14.14.42)",
         "include": true,
         "subsystems": [
             "Biosynthesis_of_aliphatic_glucosinolates_in_plants_(core_structure_and_secondary_modifications)"
@@ -33863,11 +33867,15 @@
                 ]
             }
         },
-        "publications": [],
+        "publications": [
+            "10.1046/j.1365-313X.2003.01679.x"
+        ],
         "kbase_id": "PS_role_e5b2c2",
         "curators": [
             "SvetaG",
-            "samseaver"
+            "samseaver",
+            "riocon001",
+            "pelle283"
         ],
         "type": "universal",
         "is_transporter": false,
