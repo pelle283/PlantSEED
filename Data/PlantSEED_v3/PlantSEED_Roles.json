@@ -53984,6 +53984,14 @@
             "riocon001",
             "pelle283",
             "samseaver"
-        ]
+        ],
+        "subsystems": [
+            "Aromatic glucosinolate biosynthesis"
+        ],
+        "classes": {
+            "Specialized Metabolism": {
+                "Aromatic glucosinolate biosynthesis": []
+            }
+        }
     }
 ]
