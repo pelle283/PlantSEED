@@ -41926,7 +41926,7 @@
         "abstract_enzyme": "S-adenosylmethionine synthetase"
     },
     {
-        "role": "S-alkyl-thiohydroximate lyase (EC 4.4.1.-)",
+        "role": "Alkylthiohydroximate C-S lyase (EC 4.4.1.13)",
         "include": true,
         "subsystems": [
             "Biosynthesis_of_aliphatic_glucosinolates_in_plants_(core_structure_and_secondary_modifications)",
@@ -41973,11 +41973,15 @@
                 "rxn21827": []
             }
         },
-        "publications": [],
+        "publications": [
+            "10.1111/j.1365-313x.2004.02002.x"
+        ],
         "kbase_id": "PS_role_cb78cd",
         "curators": [
             "SvetaG",
-            "samseaver"
+            "samseaver",
+            "riocon001",
+            "pelle283"
         ],
         "type": "universal",
         "is_transporter": false,
