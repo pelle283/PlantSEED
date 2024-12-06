@@ -81,9 +81,15 @@ for entry in roles_list:
 					entry[field].remove(input)
 
 				if(field == 'features'):
+					delete_cpts=list()
 					for cpt in entry['localization']:
 						if(input in entry['localization'][cpt]):
 							del(entry['localization'][cpt][input])
+						if(len(entry['localization'][cpt])==0):
+							delete_cpts.append(cpt)
+
+					for cpt in delete_cpts:
+						del(entry['localization'][cpt])
 
 		updated_role=True
 
