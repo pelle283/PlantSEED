@@ -2240,7 +2240,7 @@
             "SvetaG",
             "samseaver"
         ],
-        "type": "universal",
+        "type": "conditional",
         "is_transporter": false,
         "compartmentalization": {
             "c": {
@@ -7988,7 +7988,7 @@
             "SvetaG",
             "samseaver"
         ],
-        "type": "universal",
+        "type": "conditional",
         "is_transporter": false,
         "compartmentalization": {
             "c": {
@@ -8039,7 +8039,7 @@
             "SvetaG",
             "samseaver"
         ],
-        "type": "universal",
+        "type": "conditional",
         "is_transporter": false,
         "compartmentalization": {
             "c": {
@@ -9797,7 +9797,7 @@
             "SvetaG",
             "samseaver"
         ],
-        "type": "universal",
+        "type": "conditional",
         "is_transporter": false,
         "compartmentalization": {
             "c": {
@@ -11081,7 +11081,7 @@
             "SvetaG",
             "samseaver"
         ],
-        "type": "universal",
+        "type": "conditional",
         "is_transporter": false,
         "compartmentalization": {
             "c": {
@@ -14698,7 +14698,7 @@
             "riocon001",
             "pelle283"
         ],
-        "type": "universal",
+        "type": "conditional",
         "is_transporter": false,
         "compartmentalization": {
             "c": {
@@ -18144,7 +18144,7 @@
             "SvetaG",
             "samseaver"
         ],
-        "type": "universal",
+        "type": "conditional",
         "is_transporter": false,
         "compartmentalization": {
             "c": {
@@ -19662,7 +19662,7 @@
             "riocon001",
             "pelle283"
         ],
-        "type": "universal",
+        "type": "conditional",
         "is_transporter": false,
         "compartmentalization": {
             "c": {
@@ -21326,7 +21326,7 @@
             "riocon001",
             "pelle283"
         ],
-        "type": "universal",
+        "type": "conditional",
         "is_transporter": false,
         "compartmentalization": {
             "c": {
@@ -22948,7 +22948,7 @@
             "riocon001",
             "pelle283"
         ],
-        "type": "universal",
+        "type": "conditional",
         "is_transporter": false,
         "compartmentalization": {
             "r": {
@@ -23918,7 +23918,7 @@
             "SvetaG",
             "samseaver"
         ],
-        "type": "universal",
+        "type": "conditional",
         "is_transporter": false,
         "compartmentalization": {
             "c": {
@@ -28420,7 +28420,7 @@
             "SvetaG",
             "samseaver"
         ],
-        "type": "universal",
+        "type": "conditional",
         "is_transporter": false,
         "compartmentalization": {
             "c": {
@@ -28637,7 +28637,7 @@
             "riocon001",
             "pelle283"
         ],
-        "type": "universal",
+        "type": "conditional",
         "is_transporter": false,
         "compartmentalization": {
             "c": {
@@ -33262,7 +33262,7 @@
             "riocon001",
             "pelle283"
         ],
-        "type": "universal",
+        "type": "conditional",
         "is_transporter": false,
         "compartmentalization": {
             "r": {
@@ -33866,7 +33866,7 @@
             "riocon001",
             "pelle283"
         ],
-        "type": "universal",
+        "type": "conditional",
         "is_transporter": false,
         "compartmentalization": {
             "r": {
@@ -34043,7 +34043,7 @@
             "riocon001",
             "pelle283"
         ],
-        "type": "universal",
+        "type": "conditional",
         "is_transporter": false,
         "compartmentalization": {
             "c": {
@@ -41997,7 +41997,7 @@
             "riocon001",
             "pelle283"
         ],
-        "type": "universal",
+        "type": "conditional",
         "is_transporter": false,
         "compartmentalization": {
             "c": {
@@ -42754,7 +42754,7 @@
             "SvetaG",
             "samseaver"
         ],
-        "type": "universal",
+        "type": "conditional",
         "is_transporter": false,
         "compartmentalization": {
             "c": {
@@ -43596,7 +43596,7 @@
             "clermaortiz",
             "samseaver"
         ],
-        "type": "universal",
+        "type": "conditional",
         "is_transporter": false,
         "compartmentalization": {
             "c": {
@@ -46703,7 +46703,7 @@
             "riocon001",
             "pelle283"
         ],
-        "type": "universal",
+        "type": "conditional",
         "is_transporter": false,
         "compartmentalization": {
             "d": {
@@ -53868,6 +53868,7 @@
             "Specialized Metabolism": {
                 "Aromatic glucosinolate biosynthesis": []
             }
-        }
+        },
+        "type": "conditional"
     }
 ]
