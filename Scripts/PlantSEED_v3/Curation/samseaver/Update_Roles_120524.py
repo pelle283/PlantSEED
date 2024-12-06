@@ -9,6 +9,7 @@ updated_roles_dict=dict()
 add_dict=dict()
 rem_dict=dict()
 replace_dict=dict()
+new_list=list()
 with open(sys.argv[1]) as updates_file:
 	for line in updates_file.readlines():
 		line=line.strip('\r\n')
@@ -16,6 +17,10 @@ with open(sys.argv[1]) as updates_file:
 		print(tmp_lst)
 		if(tmp_lst[1] == "UPDATE"):
 			replace_dict[tmp_lst[0]]=tmp_lst[2]
+
+		if(tmp_lst[1] == "NEW"):
+			new_list.append(tmp_lst[2])
+
 		if(tmp_lst[1] == "ADD"):
 			if(tmp_lst[0] not in add_dict):
 				add_dict[tmp_lst[0]]=dict()
@@ -36,6 +41,15 @@ print(replace_dict)
 with open("../../../../Data/PlantSEED_v3/PlantSEED_Roles.json") as subsystem_file:
 	roles_list = json.load(subsystem_file)
 
+# check for "new" roles first
+for entry in roles_list:
+	if(entry['role'] in new_list):
+		print("Warning, New Role already present: "+entry['role'])
+		sys.exit()
+
+for new in new_list:
+	roles_list.append({'role':new})
+
 updated_roles=False
 for entry in roles_list:
 	updated_role=False
@@ -48,6 +62,9 @@ for entry in roles_list:
 	# Iterate through entries to add to role
 	if(entry['role'] in add_dict):
 		for field in add_dict[entry['role']]:
+			if(field not in entry['role']):
+				entry[field]=list()
+
 			for input in add_dict[entry['role']][field].keys():
 				print("ADD",field,input)
 				# Check to see if it's not there, and add it
@@ -55,7 +72,8 @@ for entry in roles_list:
 					entry[field].append(input)
 
 				# Update localization
-				if(field == 'features'):
+				if(field == 'features' and 'localization' in entry):
+
 					for cpt in entry['localization']:
 						
 						if(add_dict[entry['role']][field][input] in entry['localization'][cpt]):
@@ -94,6 +112,9 @@ for entry in roles_list:
 		updated_role=True
 
 	if(updated_role is True):
+		if('curators' not in entry):
+			entry['curators']=list()
+			
 		entry['curators'].append('riocon001')
 		entry['curators'].append('pelle283')
 		if('samseaver' not in entry['curators']):
