@@ -21270,13 +21270,22 @@
         "role": "Glutathione S-transferase",
         "include": true,
         "subsystems": [
-            "Aromatic glucosinolate biosynthesis"
+            "Aromatic glucosinolate biosynthesis",
+            "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
             "Specialized Metabolism": {
                 "Aromatic glucosinolate biosynthesis": [
                     "PWY-601",
                     "PWY-2821"
+                ],
+                "Aliphatic glucosinolate biosynthesis": [
+                    "PWY-1187",
+                    "PWYQT-4471",
+                    "PWYQT-4472",
+                    "PWYQT-4473",
+                    "PWYQT-4474",
+                    "PWYQT-4475"
                 ]
             }
         },
@@ -21289,7 +21298,13 @@
         ],
         "reactions": [
             "rxn21810",
-            "rxn21809"
+            "rxn21809",
+            "rxn21816",
+            "rxn21813",
+            "rxn21814",
+            "rxn21815",
+            "rxn21811",
+            "rxn21812"
         ],
         "localization": {
             "c": {
@@ -21319,64 +21334,7 @@
                 "kbase_ids": {
                     "PS_complex_928948": [
                         "rxn21810_c",
-                        "rxn21809_c"
-                    ]
-                },
-                "exclude": false
-            }
-        },
-        "abstract_enzyme": "Glutathione S-transferase in Trp, Phe, Tyr-derived glucosinolates biosynthesis, predicted"
-    },
-    {
-        "role": "Glutathione S-transferase in glucosinolates biosynthesis, predicted",
-        "include": true,
-        "subsystems": [
-            "Aliphatic glucosinolate biosynthesis"
-        ],
-        "classes": {
-            "Specialized Metabolism": {
-                "Aliphatic glucosinolate biosynthesis": [
-                    "PWY-1187",
-                    "PWYQT-4471",
-                    "PWYQT-4472",
-                    "PWYQT-4473",
-                    "PWYQT-4474",
-                    "PWYQT-4475"
-                ]
-            }
-        },
-        "features": [],
-        "reactions": [
-            "rxn21816",
-            "rxn21813",
-            "rxn21814",
-            "rxn21815",
-            "rxn21811",
-            "rxn21812"
-        ],
-        "localization": {
-            "c": {
-                "rxn21816": [],
-                "rxn21813": [],
-                "rxn21814": [],
-                "rxn21815": [],
-                "rxn21811": [],
-                "rxn21812": []
-            }
-        },
-        "publications": [],
-        "kbase_id": "PS_role_08a707",
-        "curators": [
-            "SvetaG",
-            "samseaver"
-        ],
-        "type": "universal",
-        "is_transporter": false,
-        "compartmentalization": {
-            "c": {
-                "reaction": "c",
-                "kbase_ids": {
-                    "PS_complex_18fc94": [
+                        "rxn21809_c",
                         "rxn21816_c",
                         "rxn21813_c",
                         "rxn21814_c",
@@ -21388,7 +21346,7 @@
                 "exclude": false
             }
         },
-        "abstract_enzyme": "Glutathione S-transferase in glucosinolates biosynthesis, predicted"
+        "abstract_enzyme": "Glutathione S-transferase"
     },
     {
         "role": "Glutathione reductase (EC 1.8.1.7)",
@@ -22953,6 +22911,10 @@
         "classes": {
             "Specialized Metabolism": {
                 "Aliphatic glucosinolate biosynthesis": [
+                    "PWY-1187",
+                    "PWYQT-4471",
+                    "PWYQT-4472",
+                    "PWYQT-4473",
                     "PWYQT-4474",
                     "PWYQT-4475"
                 ]
@@ -22963,7 +22925,11 @@
         ],
         "reactions": [
             "rxn14237",
-            "rxn14161"
+            "rxn14161",
+            "rxn14305",
+            "rxn13986",
+            "rxn13984",
+            "rxn14285"
         ],
         "localization": {
             "r": {
@@ -22990,58 +22956,7 @@
                 "kbase_ids": {
                     "PS_complex_1ef972": [
                         "rxn14237_r",
-                        "rxn14161_r"
-                    ]
-                },
-                "exclude": false
-            }
-        },
-        "abstract_enzyme": "Homo, di, tri, tetra, penta & hexahomomethionine N-hydroxylase"
-    },
-    {
-        "role": "Homo, di, tri, tetra, penta and hexahomomethionine N-hydroxylase (EC 1.14.13.n5)",
-        "include": true,
-        "subsystems": [
-            "Aliphatic glucosinolate biosynthesis"
-        ],
-        "classes": {
-            "Specialized Metabolism": {
-                "Aliphatic glucosinolate biosynthesis": [
-                    "PWY-1187",
-                    "PWYQT-4471",
-                    "PWYQT-4472",
-                    "PWYQT-4473"
-                ]
-            }
-        },
-        "features": [],
-        "reactions": [
-            "rxn14305",
-            "rxn13986",
-            "rxn13984",
-            "rxn14285"
-        ],
-        "localization": {
-            "r": {
-                "rxn14305": [],
-                "rxn13986": [],
-                "rxn13984": [],
-                "rxn14285": []
-            }
-        },
-        "publications": [],
-        "kbase_id": "PS_role_190a6d",
-        "curators": [
-            "SvetaG",
-            "samseaver"
-        ],
-        "type": "universal",
-        "is_transporter": false,
-        "compartmentalization": {
-            "r": {
-                "reaction": "r",
-                "kbase_ids": {
-                    "PS_complex_2af797": [
+                        "rxn14161_r",
                         "rxn14305_r",
                         "rxn13986_r",
                         "rxn13984_r",
@@ -23051,7 +22966,7 @@
                 "exclude": false
             }
         },
-        "abstract_enzyme": "Homo, di, tri, tetra, penta and hexahomomethionine N-hydroxylase"
+        "abstract_enzyme": "Homomethionine N-monooxygenase"
     },
     {
         "role": "Homocysteine S-methyltransferase (EC 2.1.1.10)",
@@ -28674,13 +28589,22 @@
         "role": "N-hydroxythioamide S-beta-glucosyltransferase (EC 2.4.1.195)",
         "include": true,
         "subsystems": [
-            "Aromatic glucosinolate biosynthesis"
+            "Aromatic glucosinolate biosynthesis",
+            "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
             "Specialized Metabolism": {
                 "Aromatic glucosinolate biosynthesis": [
                     "PWY-601",
                     "PWY-2821"
+                ],
+                "Aliphatic glucosinolate biosynthesis": [
+                    "PWY-1187",
+                    "PWYQT-4471",
+                    "PWYQT-4472",
+                    "PWYQT-4473",
+                    "PWYQT-4474",
+                    "PWYQT-4475"
                 ]
             }
         },
@@ -28689,7 +28613,13 @@
         ],
         "reactions": [
             "rxn11701",
-            "rxn02299"
+            "rxn02299",
+            "rxn14074",
+            "rxn37540",
+            "rxn37542",
+            "rxn37539",
+            "rxn37541",
+            "rxn37543"
         ],
         "localization": {
             "c": {
@@ -28715,66 +28645,7 @@
                 "kbase_ids": {
                     "PS_complex_3a008c": [
                         "rxn11701_c",
-                        "rxn02299_c"
-                    ]
-                },
-                "exclude": false
-            }
-        },
-        "abstract_enzyme": "N-hydroxythioamide S-beta-glucosyltransferase in Trp, Phe, Tyr-derived glucosinolates biosynthesis"
-    },
-    {
-        "role": "N-hydroxythioamide S-beta-glucosyltransferase (EC 2.4.1.195) in aliphatic glucosinolates biosynthesis",
-        "include": true,
-        "subsystems": [
-            "Aliphatic glucosinolate biosynthesis"
-        ],
-        "classes": {
-            "Specialized Metabolism": {
-                "Aliphatic glucosinolate biosynthesis": [
-                    "PWY-1187",
-                    "PWYQT-4471",
-                    "PWYQT-4472",
-                    "PWYQT-4473",
-                    "PWYQT-4474",
-                    "PWYQT-4475"
-                ]
-            }
-        },
-        "features": [
-            "Athaliana_TAIR10||AT2G31790"
-        ],
-        "reactions": [
-            "rxn14074",
-            "rxn37540",
-            "rxn37542",
-            "rxn37539",
-            "rxn37541",
-            "rxn37543"
-        ],
-        "localization": {
-            "c": {
-                "rxn14074": [],
-                "rxn37540": [],
-                "rxn37542": [],
-                "rxn37539": [],
-                "rxn37541": [],
-                "rxn37543": []
-            }
-        },
-        "publications": [],
-        "kbase_id": "PS_role_e879a3",
-        "curators": [
-            "SvetaG",
-            "samseaver"
-        ],
-        "type": "universal",
-        "is_transporter": false,
-        "compartmentalization": {
-            "c": {
-                "reaction": "c",
-                "kbase_ids": {
-                    "PS_complex_0d57b4": [
+                        "rxn02299_c",
                         "rxn14074_c",
                         "rxn37540_c",
                         "rxn37542_c",
@@ -28786,7 +28657,7 @@
                 "exclude": false
             }
         },
-        "abstract_enzyme": "N-hydroxythioamide S-beta-glucosyltransferase in aliphatic glucosinolates biosynthesis"
+        "abstract_enzyme": "N-hydroxythioamide S-beta-glucosyltransferase"
     },
     {
         "role": "N-methylphosphoethanolamine cytidylyltransferase (EC 2.7.7.57)",
