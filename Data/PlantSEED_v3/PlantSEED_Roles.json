@@ -34017,7 +34017,7 @@
         "abstract_enzyme": "Peroxidase"
     },
     {
-        "role": "Phenylalanine N-monooxygenase (EC 1.14.13.124)",
+        "role": "Phenylalanine N-monooxygenase (EC 1.14.14.40)",
         "include": true,
         "subsystems": [
             "Biosynthesis_of_benzenic_and_indolic_glucosinolates_in_plants_(core_structure_and_secondary_modifications)"
@@ -34044,11 +34044,15 @@
                 "rxn16423": []
             }
         },
-        "publications": [],
+        "publications": [
+            "10.1074/jbc.275.19.14659"
+        ],
         "kbase_id": "PS_role_fb7a11",
         "curators": [
             "SvetaG",
-            "samseaver"
+            "samseaver",
+            "riocon001",
+            "pelle283"
         ],
         "type": "universal",
         "is_transporter": false,
@@ -46623,7 +46627,7 @@
         "abstract_enzyme": "Triosephosphate isomerase"
     },
     {
-        "role": "Tryptophan N-monooxygenase (EC 1.14.13.125)",
+        "role": "Tryptophan N-monooxygenase (EC 1.14.14.156)",
         "include": true,
         "subsystems": [
             "Biosynthesis_of_benzenic_and_indolic_glucosinolates_in_plants_(core_structure_and_secondary_modifications)"
@@ -46651,11 +46655,16 @@
                 ]
             }
         },
-        "publications": [],
+        "publications": [
+            "10.1074/jbc.M001667200",
+            "10.1073/pnas.0305876101"
+        ],
         "kbase_id": "PS_role_4b6628",
         "curators": [
             "SvetaG",
-            "samseaver"
+            "samseaver",
+            "riocon001",
+            "pelle283"
         ],
         "type": "universal",
         "is_transporter": false,
