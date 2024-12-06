@@ -28571,7 +28571,7 @@
         "abstract_enzyme": "N-dimethylethanolamine-phosphate cytidylyltransferase"
     },
     {
-        "role": "N-hydroxythioamide S-beta-glucosyltransferase (EC 2.4.1.195) in Trp, Phe, Tyr-derived glucosinolates biosynthesis",
+        "role": "N-hydroxythioamide S-beta-glucosyltransferase (EC 2.4.1.195)",
         "include": true,
         "subsystems": [
             "Biosynthesis_of_benzenic_and_indolic_glucosinolates_in_plants_(core_structure_and_secondary_modifications)"
@@ -28597,11 +28597,15 @@
                 "rxn02299": []
             }
         },
-        "publications": [],
+        "publications": [
+            "10.1111/j.1365-313X.2004.02261.x"
+        ],
         "kbase_id": "PS_role_1b2ad6",
         "curators": [
             "SvetaG",
-            "samseaver"
+            "samseaver",
+            "riocon001",
+            "pelle283"
         ],
         "type": "universal",
         "is_transporter": false,
