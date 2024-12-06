@@ -14647,8 +14647,7 @@
         "role": "Aliphatic desulfoglucosinolate sulfotransferase (EC 2.8.2.38)",
         "include": true,
         "subsystems": [
-            "Aliphatic glucosinolate biosynthesis",
-            "Aromatic glucosinolate biosynthesis"
+            "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
             "Specialized Metabolism": {
@@ -14659,10 +14658,6 @@
                     "PWYQT-4473",
                     "PWYQT-4474",
                     "PWYQT-4475"
-                ],
-                "Aromatic glucosinolate biosynthesis": [
-                    "PWY-601",
-                    "PWY-2821"
                 ]
             }
         },
@@ -21272,7 +21267,7 @@
         "abstract_enzyme": "Glutamyl-tRNA synthetase"
     },
     {
-        "role": "Glutathione S-transferase in Trp, Phe, Tyr-derived glucosinolates biosynthesis, predicted",
+        "role": "Glutathione S-transferase",
         "include": true,
         "subsystems": [
             "Aromatic glucosinolate biosynthesis"
@@ -21286,7 +21281,11 @@
             }
         },
         "features": [
-            "Athaliana_TAIR10||AT2G30870"
+            "Athaliana_TAIR10||AT2G30860",
+            "Athaliana_TAIR10||AT2G30870",
+            "Athaliana_TAIR10||AT3G03190",
+            "Athaliana_TAIR10||AT1G27130",
+            "Athaliana_TAIR10||AT1G78370"
         ],
         "reactions": [
             "rxn21810",
@@ -21300,11 +21299,17 @@
                 ]
             }
         },
-        "publications": [],
+        "publications": [
+            "10.1007/s00299-006-0146-1",
+            "10.3389/fpls.2021.816233",
+            "10.1093/molbev/msq204"
+        ],
         "kbase_id": "PS_role_9af9d5",
         "curators": [
             "SvetaG",
-            "samseaver"
+            "samseaver",
+            "riocon001",
+            "pelle283"
         ],
         "type": "universal",
         "is_transporter": false,
