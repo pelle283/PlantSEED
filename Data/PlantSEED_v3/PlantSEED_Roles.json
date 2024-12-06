@@ -1816,11 +1816,11 @@
         "role": "2-oxo-5-methylthiopentanoate transaminase (EC 2.6.1.-)",
         "include": true,
         "subsystems": [
-            "Homomethionine_biosynthesis_and_methionine_chain_elongation_pathway_for_glucosinolates"
+            "Homomethionine_biosynthesis"
         ],
         "classes": {
             "Amino acids": {
-                "Homomethionine_biosynthesis_and_methionine_chain_elongation_pathway_for_glucosinolates": [
+                "Homomethionine_biosynthesis": [
                     "PWY-1186",
                     "PWYQT-4450"
                 ]
@@ -2214,11 +2214,11 @@
         "role": "3-butenylglucosinolate 2-hydroxylase (no EC)",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)": [
+            "Specialized Metabolism": {
+                "Aliphatic glucosinolate biosynthesis": [
                     "PWYQT-4471"
                 ]
             }
@@ -7959,11 +7959,11 @@
         "role": "Aliphatic glucosinolate 2-oxoglutarate-dependent dioxygenase (hydroxylation) (no EC)",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)": [
+            "Specialized Metabolism": {
+                "Aliphatic glucosinolate biosynthesis": [
                     "PWY-1187",
                     "PWYQT-4471"
                 ]
@@ -8010,11 +8010,11 @@
         "role": "Aliphatic glucosinolate 2-oxoglutarate-dependent dioxygenase (no EC)",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)": [
+            "Specialized Metabolism": {
+                "Aliphatic glucosinolate biosynthesis": [
                     "PWY-1187",
                     "PWYQT-4471"
                 ]
@@ -9768,11 +9768,11 @@
         "role": "Benzoylated glucosinolates modification, unresolved step",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)": [
+            "Specialized Metabolism": {
+                "Aliphatic glucosinolate biosynthesis": [
                     "PWY-1187",
                     "PWYQT-4471"
                 ]
@@ -11057,11 +11057,11 @@
         "role": "CYP81F4 monooxygenase",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_benzenic_and_indolic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aromatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_benzenic_and_indolic_glucosinolates_(core_structure_and_secondary_modifications)": [
+            "Specialized Metabolism": {
+                "Aromatic glucosinolate biosynthesis": [
                     "PWY-601"
                 ]
             }
@@ -14647,12 +14647,12 @@
         "role": "Aliphatic desulfoglucosinolate sulfotransferase (EC 2.8.2.38)",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)",
-            "Biosynthesis_of_benzenic_and_indolic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aliphatic glucosinolate biosynthesis",
+            "Aromatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)": [
+            "Specialized Metabolism": {
+                "Aliphatic glucosinolate biosynthesis": [
                     "PWY-1187",
                     "PWYQT-4471",
                     "PWYQT-4472",
@@ -14660,7 +14660,7 @@
                     "PWYQT-4474",
                     "PWYQT-4475"
                 ],
-                "Biosynthesis_of_benzenic_and_indolic_glucosinolates_(core_structure_and_secondary_modifications)": [
+                "Aromatic glucosinolate biosynthesis": [
                     "PWY-601",
                     "PWY-2821"
                 ]
@@ -18107,11 +18107,11 @@
         "role": "Flavin-containing glucosinolate S-oxygenase (no EC)",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)": [
+            "Specialized Metabolism": {
+                "Aliphatic glucosinolate biosynthesis": [
                     "PWY-1187",
                     "PWYQT-4471",
                     "PWYQT-4472",
@@ -19605,12 +19605,12 @@
         "role": "Glucosinolate gamma-glutamyl hydrolase (EC 3.4.19.16)",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)",
-            "Biosynthesis_of_benzenic_and_indolic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aliphatic glucosinolate biosynthesis",
+            "Aromatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)": [
+            "Specialized Metabolism": {
+                "Aliphatic glucosinolate biosynthesis": [
                     "PWY-1187",
                     "PWYQT-4471",
                     "PWYQT-4472",
@@ -19618,7 +19618,7 @@
                     "PWYQT-4474",
                     "PWYQT-4475"
                 ],
-                "Biosynthesis_of_benzenic_and_indolic_glucosinolates_(core_structure_and_secondary_modifications)": [
+                "Aromatic glucosinolate biosynthesis": [
                     "PWY-601",
                     "PWY-2821"
                 ]
@@ -21275,11 +21275,11 @@
         "role": "Glutathione S-transferase in Trp, Phe, Tyr-derived glucosinolates biosynthesis, predicted",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_benzenic_and_indolic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aromatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_benzenic_and_indolic_glucosinolates_(core_structure_and_secondary_modifications)": [
+            "Specialized Metabolism": {
+                "Aromatic glucosinolate biosynthesis": [
                     "PWY-601",
                     "PWY-2821"
                 ]
@@ -21326,11 +21326,11 @@
         "role": "Glutathione S-transferase in glucosinolates biosynthesis, predicted",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)": [
+            "Specialized Metabolism": {
+                "Aliphatic glucosinolate biosynthesis": [
                     "PWY-1187",
                     "PWYQT-4471",
                     "PWYQT-4472",
@@ -22943,11 +22943,11 @@
         "role": "Homomethionine N-monooxygenase (EC 1.14.14.42)",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)": [
+            "Specialized Metabolism": {
+                "Aliphatic glucosinolate biosynthesis": [
                     "PWYQT-4474",
                     "PWYQT-4475"
                 ]
@@ -22997,11 +22997,11 @@
         "role": "Homo, di, tri, tetra, penta and hexahomomethionine N-hydroxylase (EC 1.14.13.n5)",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)": [
+            "Specialized Metabolism": {
+                "Aliphatic glucosinolate biosynthesis": [
                     "PWY-1187",
                     "PWYQT-4471",
                     "PWYQT-4472",
@@ -23974,11 +23974,11 @@
         "role": "Indole glucosinolate glucohydrolase (myrosinase)",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)": []
+            "Specialized Metabolism": {
+                "Aliphatic glucosinolate biosynthesis": []
             }
         },
         "features": [
@@ -24017,11 +24017,11 @@
         "role": "Indole glucosinolate methyltransferase",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_benzenic_and_indolic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aromatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_benzenic_and_indolic_glucosinolates_(core_structure_and_secondary_modifications)": [
+            "Specialized Metabolism": {
+                "Aromatic glucosinolate biosynthesis": [
                     "PWY-601"
                 ]
             }
@@ -27492,12 +27492,12 @@
         "role": "Methionine transaminase (EC 2.6.1.88)",
         "include": true,
         "subsystems": [
-            "Homomethionine_biosynthesis_and_methionine_chain_elongation_pathway_for_glucosinolates"
+            "Homomethionine_biosynthesis"
         ],
         "classes": {
             "Amino acids": {
                 "Methionine_and_cysteine_metabolism_in_plants": [],
-                "Homomethionine_biosynthesis_and_methionine_chain_elongation_pathway_for_glucosinolates": [
+                "Homomethionine_biosynthesis": [
                     "PWY-1186"
                 ]
             }
@@ -27633,15 +27633,15 @@
         "role": "Methylthioalkylmalate dehydrogenase (EC 1.1.1.-)",
         "include": true,
         "subsystems": [
-            "Homomethionine_biosynthesis_and_methionine_chain_elongation_pathway_for_glucosinolates"
+            "Homomethionine_biosynthesis"
         ],
         "classes": {
             "Amino acids": {
-                "Homomethionine_biosynthesis_and_methionine_chain_elongation_pathway_for_glucosinolates": [
+                "Homomethionine_biosynthesis": [
                     "PWY-1186"
                 ]
             },
-            "Secondary": {
+            "Specialized Metabolism": {
                 "Biosynthesis_of_benzenic_and_indolic_glucosinolates_in_plants_(core_structure_and_secondary_modifications)": []
             }
         },
@@ -27726,13 +27726,13 @@
         "role": "Methylthioalkylmalate dehydratase large subunit (EC 4.2.1.170)",
         "include": true,
         "subsystems": [
-            "Homomethionine_biosynthesis_and_methionine_chain_elongation_pathway_for_glucosinolates"
+            "Homomethionine_biosynthesis"
         ],
         "classes": {
             "Amino acids": {
-                "Homomethionine_biosynthesis_and_methionine_chain_elongation_pathway_for_glucosinolates": []
+                "Homomethionine_biosynthesis": []
             },
-            "Secondary": {
+            "Specialized Metabolism": {
                 "Biosynthesis_of_benzenic_and_indolic_glucosinolates_in_plants_(core_structure_and_secondary_modifications)": []
             }
         },
@@ -27815,13 +27815,13 @@
         "role": "Methylthioalkylmalate dehydratase small subunit (EC 4.2.1.170)",
         "include": true,
         "subsystems": [
-            "Homomethionine_biosynthesis_and_methionine_chain_elongation_pathway_for_glucosinolates"
+            "Homomethionine_biosynthesis"
         ],
         "classes": {
             "Amino acids": {
-                "Homomethionine_biosynthesis_and_methionine_chain_elongation_pathway_for_glucosinolates": []
+                "Homomethionine_biosynthesis": []
             },
-            "Secondary": {
+            "Specialized Metabolism": {
                 "Biosynthesis_of_benzenic_and_indolic_glucosinolates_in_plants_(core_structure_and_secondary_modifications)": []
             }
         },
@@ -27915,11 +27915,11 @@
         "role": "Methylthioalkylmalate synthase (EC 2.3.3.17)",
         "include": true,
         "subsystems": [
-            "Homomethionine_biosynthesis_and_methionine_chain_elongation_pathway_for_glucosinolates"
+            "Homomethionine_biosynthesis"
         ],
         "classes": {
             "Amino acids": {
-                "Homomethionine_biosynthesis_and_methionine_chain_elongation_pathway_for_glucosinolates": [
+                "Homomethionine_biosynthesis": [
                     "PWY-1186",
                     "PWYQT-4450"
                 ]
@@ -28473,11 +28473,11 @@
         "role": "Monooxygenase, catalyses 4-hydroxylation of indolyl-3-methyl glucosinolate (I3M) to 4OH-I3M",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_benzenic_and_indolic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aromatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_benzenic_and_indolic_glucosinolates_(core_structure_and_secondary_modifications)": [
+            "Specialized Metabolism": {
+                "Aromatic glucosinolate biosynthesis": [
                     "PWY-601"
                 ]
             }
@@ -28669,11 +28669,11 @@
         "role": "N-hydroxythioamide S-beta-glucosyltransferase (EC 2.4.1.195)",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_benzenic_and_indolic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aromatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_benzenic_and_indolic_glucosinolates_(core_structure_and_secondary_modifications)": [
+            "Specialized Metabolism": {
+                "Aromatic glucosinolate biosynthesis": [
                     "PWY-601",
                     "PWY-2821"
                 ]
@@ -28722,11 +28722,11 @@
         "role": "N-hydroxythioamide S-beta-glucosyltransferase (EC 2.4.1.195) in aliphatic glucosinolates biosynthesis",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)": [
+            "Specialized Metabolism": {
+                "Aliphatic glucosinolate biosynthesis": [
                     "PWY-1187",
                     "PWYQT-4471",
                     "PWYQT-4472",
@@ -33265,11 +33265,11 @@
         "role": "Aromatic aldoxime N-monooxygenase (EC 1.14.14.45)",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_benzenic_and_indolic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aromatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_benzenic_and_indolic_glucosinolates_(core_structure_and_secondary_modifications)": [
+            "Specialized Metabolism": {
+                "Aromatic glucosinolate biosynthesis": [
                     "PWY-601",
                     "PWY-2821"
                 ]
@@ -33336,11 +33336,11 @@
         "role": "(Methylsulfanyl)alkanaldoxime N-monooxygenase (EC 1.14.14.43)",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)": [
+            "Specialized Metabolism": {
+                "Aliphatic glucosinolate biosynthesis": [
                     "PWY-1187",
                     "PWYQT-4471",
                     "PWYQT-4472",
@@ -33956,11 +33956,11 @@
         "role": "Homomethionine N-monooxygenase, 10C-11C only (EC 1.14.14.42)",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)": [
+            "Specialized Metabolism": {
+                "Aliphatic glucosinolate biosynthesis": [
                     "PWYQT-4474",
                     "PWYQT-4475"
                 ]
@@ -34133,11 +34133,11 @@
         "role": "Phenylalanine N-monooxygenase (EC 1.14.14.40)",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_benzenic_and_indolic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aromatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_benzenic_and_indolic_glucosinolates_(core_structure_and_secondary_modifications)": [
+            "Specialized Metabolism": {
+                "Aromatic glucosinolate biosynthesis": [
                     "PWY-2821"
                 ]
             }
@@ -42067,12 +42067,12 @@
         "role": "Alkylthiohydroximate C-S lyase (EC 4.4.1.13)",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)",
-            "Biosynthesis_of_benzenic_and_indolic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aliphatic glucosinolate biosynthesis",
+            "Aromatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)": [
+            "Specialized Metabolism": {
+                "Aliphatic glucosinolate biosynthesis": [
                     "PWY-1187",
                     "PWYQT-4471",
                     "PWYQT-4472",
@@ -42080,7 +42080,7 @@
                     "PWYQT-4474",
                     "PWYQT-4475"
                 ],
-                "Biosynthesis_of_benzenic_and_indolic_glucosinolates_(core_structure_and_secondary_modifications)": [
+                "Aromatic glucosinolate biosynthesis": [
                     "PWY-601",
                     "PWY-2821"
                 ]
@@ -42809,7 +42809,7 @@
             "Sinapate_ester_biosynthesis"
         ],
         "classes": {
-            "Secondary": {
+            "Specialized Metabolism": {
                 "Sinapate_ester_biosynthesis": [
                     "PWY-3301"
                 ]
@@ -42849,11 +42849,11 @@
         "role": "Sinapoylated glucosinolates modification, unresolved step",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)": [
+            "Specialized Metabolism": {
+                "Aliphatic glucosinolate biosynthesis": [
                     "PWY-1187",
                     "PWYQT-4471"
                 ]
@@ -42902,7 +42902,7 @@
             "Sinapate_ester_biosynthesis"
         ],
         "classes": {
-            "Secondary": {
+            "Specialized Metabolism": {
                 "Sinapate_ester_biosynthesis": [
                     "PWY-3301"
                 ]
@@ -42947,7 +42947,7 @@
             "Sinapate_ester_biosynthesis"
         ],
         "classes": {
-            "Secondary": {
+            "Specialized Metabolism": {
                 "Sinapate_ester_biosynthesis": [
                     "PWY-3301"
                 ]
@@ -42992,7 +42992,7 @@
             "Sinapate_ester_biosynthesis"
         ],
         "classes": {
-            "Secondary": {
+            "Specialized Metabolism": {
                 "Sinapate_ester_biosynthesis": [
                     "PWY-3301"
                 ]
@@ -43697,11 +43697,11 @@
         "role": "Spontaneous Reaction",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_aliphatic_glucosinolates_(core_structure_and_secondary_modifications)": []
+            "Specialized Metabolism": {
+                "Aliphatic glucosinolate biosynthesis": []
             }
         },
         "features": [],
@@ -46791,11 +46791,11 @@
         "role": "Tryptophan N-monooxygenase (EC 1.14.14.156)",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_benzenic_and_indolic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aromatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_benzenic_and_indolic_glucosinolates_(core_structure_and_secondary_modifications)": [
+            "Specialized Metabolism": {
+                "Aromatic glucosinolate biosynthesis": [
                     "PWY-601"
                 ]
             }
@@ -47855,7 +47855,7 @@
             "Sinapate_ester_biosynthesis"
         ],
         "classes": {
-            "Secondary": {
+            "Specialized Metabolism": {
                 "Sinapate_ester_biosynthesis": [
                     "PWY-3301"
                 ]
@@ -53153,11 +53153,11 @@
         "role": "Cytochrome 9450",
         "include": true,
         "subsystems": [
-            "Biosynthesis_of_benzenic_and_indolic_glucosinolates_(core_structure_and_secondary_modifications)"
+            "Aromatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Secondary": {
-                "Biosynthesis_of_benzenic_and_indolic_glucosinolates_(core_structure_and_secondary_modifications)": [
+            "Specialized Metabolism": {
+                "Aromatic glucosinolate biosynthesis": [
                     "PWY-601"
                 ]
             }
@@ -53916,11 +53916,11 @@
         "role": "Methylthioalkylmalate synthase, 5C-6C only (EC 2.3.3.17)",
         "include": true,
         "subsystems": [
-            "Homomethionine_biosynthesis_and_methionine_chain_elongation_pathway_for_glucosinolates"
+            "Homomethionine_biosynthesis"
         ],
         "classes": {
             "Amino acids": {
-                "Homomethionine_biosynthesis_and_methionine_chain_elongation_pathway_for_glucosinolates": [
+                "Homomethionine_biosynthesis": [
                     "PWY-1186",
                     "PWYQT-4450"
                 ]
