@@ -27562,7 +27562,7 @@
                 ]
             },
             "Specialized Metabolism": {
-                "Biosynthesis_of_benzenic_and_indolic_glucosinolates_in_plants_(core_structure_and_secondary_modifications)": []
+                "Homomethionine_biosynthesis": []
             }
         },
         "features": [
@@ -27653,7 +27653,7 @@
                 "Homomethionine_biosynthesis": []
             },
             "Specialized Metabolism": {
-                "Biosynthesis_of_benzenic_and_indolic_glucosinolates_in_plants_(core_structure_and_secondary_modifications)": []
+                "Homomethionine_biosynthesis": []
             }
         },
         "features": [
@@ -27742,7 +27742,7 @@
                 "Homomethionine_biosynthesis": []
             },
             "Specialized Metabolism": {
-                "Biosynthesis_of_benzenic_and_indolic_glucosinolates_in_plants_(core_structure_and_secondary_modifications)": []
+                "Homomethionine_biosynthesis": []
             }
         },
         "features": [
@@ -51881,7 +51881,7 @@
             "Terpenoid metabolism"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Terpenoid metabolism": [
                     "PWY-7141"
                 ]
@@ -51929,7 +51929,7 @@
             "Terpenoid metabolism"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Terpenoid metabolism": [
                     "PWY-3041"
                 ]
@@ -51976,7 +51976,7 @@
             "Terpenoid metabolism"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Terpenoid metabolism": [
                     "PWY-3041"
                 ]
@@ -52040,7 +52040,7 @@
             "Terpenoid metabolism"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Terpenoid metabolism": [
                     "PWY-5725"
                 ]
@@ -52103,7 +52103,7 @@
             "Terpenoid metabolism"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Terpenoid metabolism": [
                     "PWY-6668"
                 ]
@@ -52151,7 +52151,7 @@
             "Taxol biosynthesis"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Taxol biosynthesis": [
                     "PWY-5660",
                     "PWY-7392"
@@ -52211,7 +52211,7 @@
             "Taxol biosynthesis"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Taxol biosynthesis": [
                     "PWY-5660"
                 ]
@@ -52265,7 +52265,7 @@
             "Taxol biosynthesis"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Taxol biosynthesis": [
                     "PWY-5660"
                 ]
@@ -52323,7 +52323,7 @@
             "Taxol biosynthesis"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Taxol biosynthesis": [
                     "PWY-5660"
                 ]
@@ -52375,7 +52375,7 @@
             "Taxol biosynthesis"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Taxol biosynthesis": [
                     "PWY-5660"
                 ]
@@ -52432,7 +52432,7 @@
             "Taxol biosynthesis"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Taxol biosynthesis": [
                     "PWY-5660"
                 ]
@@ -52484,7 +52484,7 @@
             "Taxol biosynthesis"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Taxol biosynthesis": [
                     "PWY-5660"
                 ]
@@ -52543,7 +52543,7 @@
             "Taxol biosynthesis"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Taxol biosynthesis": [
                     "PWY-5660"
                 ]
@@ -52595,7 +52595,7 @@
             "Taxol biosynthesis"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Taxol biosynthesis": [
                     "PWY-5660"
                 ]
@@ -52651,7 +52651,7 @@
             "Taxol biosynthesis"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Taxol biosynthesis": [
                     "PWY-5660"
                 ]
@@ -52704,7 +52704,7 @@
             "Dhurrin biosynthesis"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Dhurrin biosynthesis": [
                     "PWY-7088",
                     "PWY-7901",
@@ -52761,7 +52761,7 @@
             "Dhurrin biosynthesis"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Dhurrin biosynthesis": [
                     "PWY-7088",
                     "PWY-861"
@@ -52814,7 +52814,7 @@
             "Dhurrin biosynthesis"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Dhurrin biosynthesis": [
                     "PWY-861"
                 ]
@@ -52868,7 +52868,7 @@
             "Dhurrin degradation"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Dhurrin degradation": [
                     "PWY-5976"
                 ]
@@ -52923,7 +52923,7 @@
             "Dhurrin degradation"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Dhurrin degradation": [
                     "PWY-5976"
                 ]
@@ -52978,7 +52978,7 @@
             "Dhurrin degradation"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Dhurrin degradation": [
                     "N/A"
                 ]
@@ -53082,7 +53082,7 @@
             "Terpenoid metabolism"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Terpenoid metabolism": [
                     "PWY-5425,PWY-6275"
                 ]
@@ -53131,7 +53131,7 @@
             "Terpenoid metabolism"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Terpenoid metabolism": [
                     "PWY-5425,PWY-6275"
                 ]
@@ -53180,7 +53180,7 @@
             "Terpenoid metabolism"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Terpenoid metabolism": [
                     "PWY-5425,PWY-6275"
                 ]
@@ -53229,7 +53229,7 @@
             "Terpenoid metabolism"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Terpenoid metabolism": [
                     "PWY-2981,PWY-5032,PWY-6887,PWY-7994"
                 ]
@@ -53277,7 +53277,7 @@
             "Terpenoid metabolism"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Terpenoid metabolism": [
                     "PWY-5032,PWY-6887"
                 ]
@@ -53325,7 +53325,7 @@
             "Terpenoid metabolism"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Terpenoid metabolism": [
                     "PWY-3041"
                 ]
@@ -53373,7 +53373,7 @@
             "Terpenoid metabolism"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Terpenoid metabolism": [
                     "N/A"
                 ]
@@ -53421,7 +53421,7 @@
             "Terpenoid metabolism"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Terpenoid metabolism": [
                     "PWY-5425,PWY-6275"
                 ]
@@ -53470,7 +53470,7 @@
             "Terpenoid metabolism"
         ],
         "classes": {
-            "Secondary metabolism": {
+            "Specialized metabolism": {
                 "Terpenoid metabolism": [
                     "PWY-5425,PWY-6275"
                 ]
