@@ -2217,7 +2217,7 @@
             "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Aliphatic glucosinolate biosynthesis": [
                     "PWYQT-4471"
                 ]
@@ -7962,7 +7962,7 @@
             "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Aliphatic glucosinolate biosynthesis": [
                     "PWY-1187",
                     "PWYQT-4471"
@@ -8013,7 +8013,7 @@
             "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Aliphatic glucosinolate biosynthesis": [
                     "PWY-1187",
                     "PWYQT-4471"
@@ -9771,7 +9771,7 @@
             "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Aliphatic glucosinolate biosynthesis": [
                     "PWY-1187",
                     "PWYQT-4471"
@@ -11060,7 +11060,7 @@
             "Aromatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Aromatic glucosinolate biosynthesis": [
                     "PWY-601"
                 ]
@@ -14650,7 +14650,7 @@
             "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Aliphatic glucosinolate biosynthesis": [
                     "PWY-1187",
                     "PWYQT-4471",
@@ -18105,7 +18105,7 @@
             "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Aliphatic glucosinolate biosynthesis": [
                     "PWY-1187",
                     "PWYQT-4471",
@@ -19604,7 +19604,7 @@
             "Aromatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Aliphatic glucosinolate biosynthesis": [
                     "PWY-1187",
                     "PWYQT-4471",
@@ -21274,7 +21274,7 @@
             "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Aromatic glucosinolate biosynthesis": [
                     "PWY-601",
                     "PWY-2821"
@@ -22909,7 +22909,7 @@
             "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Aliphatic glucosinolate biosynthesis": [
                     "PWY-1187",
                     "PWYQT-4471",
@@ -23897,7 +23897,7 @@
             "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Aliphatic glucosinolate biosynthesis": []
             }
         },
@@ -23940,7 +23940,7 @@
             "Aromatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Aromatic glucosinolate biosynthesis": [
                     "PWY-601"
                 ]
@@ -27561,7 +27561,7 @@
                     "PWY-1186"
                 ]
             },
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Homomethionine_biosynthesis": []
             }
         },
@@ -27652,7 +27652,7 @@
             "Amino acids": {
                 "Homomethionine_biosynthesis": []
             },
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Homomethionine_biosynthesis": []
             }
         },
@@ -27741,7 +27741,7 @@
             "Amino acids": {
                 "Homomethionine_biosynthesis": []
             },
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Homomethionine_biosynthesis": []
             }
         },
@@ -28396,7 +28396,7 @@
             "Aromatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Aromatic glucosinolate biosynthesis": [
                     "PWY-601"
                 ]
@@ -28593,7 +28593,7 @@
             "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Aromatic glucosinolate biosynthesis": [
                     "PWY-601",
                     "PWY-2821"
@@ -33144,7 +33144,7 @@
             "Aromatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Aromatic glucosinolate biosynthesis": [
                     "PWY-601",
                     "PWY-2821"
@@ -33215,7 +33215,7 @@
             "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Aliphatic glucosinolate biosynthesis": [
                     "PWY-1187",
                     "PWYQT-4471",
@@ -33835,7 +33835,7 @@
             "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Aliphatic glucosinolate biosynthesis": [
                     "PWYQT-4474",
                     "PWYQT-4475"
@@ -34012,7 +34012,7 @@
             "Aromatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Aromatic glucosinolate biosynthesis": [
                     "PWY-2821"
                 ]
@@ -41947,7 +41947,7 @@
             "Aromatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Aliphatic glucosinolate biosynthesis": [
                     "PWY-1187",
                     "PWYQT-4471",
@@ -42685,7 +42685,7 @@
             "Sinapate_ester_biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Sinapate_ester_biosynthesis": [
                     "PWY-3301"
                 ]
@@ -42728,7 +42728,7 @@
             "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Aliphatic glucosinolate biosynthesis": [
                     "PWY-1187",
                     "PWYQT-4471"
@@ -42778,7 +42778,7 @@
             "Sinapate_ester_biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Sinapate_ester_biosynthesis": [
                     "PWY-3301"
                 ]
@@ -42823,7 +42823,7 @@
             "Sinapate_ester_biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Sinapate_ester_biosynthesis": [
                     "PWY-3301"
                 ]
@@ -42868,7 +42868,7 @@
             "Sinapate_ester_biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Sinapate_ester_biosynthesis": [
                     "PWY-3301"
                 ]
@@ -43576,7 +43576,7 @@
             "Aliphatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Aliphatic glucosinolate biosynthesis": []
             }
         },
@@ -46670,7 +46670,7 @@
             "Aromatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Aromatic glucosinolate biosynthesis": [
                     "PWY-601"
                 ]
@@ -47731,7 +47731,7 @@
             "Sinapate_ester_biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Sinapate_ester_biosynthesis": [
                     "PWY-3301"
                 ]
@@ -51907,7 +51907,7 @@
         "curators": [
             "tjcontant"
         ],
-        "type": "universal",
+        "type": "conditional",
         "is_transporter": false,
         "compartmentalization": {
             "d": {
@@ -53032,7 +53032,7 @@
             "Aromatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Aromatic glucosinolate biosynthesis": [
                     "PWY-601"
                 ]
@@ -53865,7 +53865,7 @@
             "Aromatic glucosinolate biosynthesis"
         ],
         "classes": {
-            "Specialized Metabolism": {
+            "Specialized metabolism": {
                 "Aromatic glucosinolate biosynthesis": []
             }
         },
