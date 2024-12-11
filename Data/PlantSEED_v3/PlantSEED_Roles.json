@@ -745,7 +745,11 @@
             "Cofactor_transport",
             "Folate_biosynthesis"
         ],
-        "classes": {},
+        "classes": {
+            "Transport": {
+                "Cofactor_transport": []
+            }
+        },
         "features": [
             "Athaliana_TAIR10||AT1G30400",
             "Athaliana_TAIR10||AT2G32040",
@@ -1251,6 +1255,9 @@
         ],
         "classes": {
             "Central Carbon": {
+                "Carboxylate_transport": []
+            },
+            "Transport": {
                 "Carboxylate_transport": []
             }
         },
@@ -2153,6 +2160,9 @@
         ],
         "classes": {
             "Central Carbon": {
+                "Carboxylate_transport": []
+            },
+            "Transport": {
                 "Carboxylate_transport": []
             }
         },
@@ -3656,6 +3666,9 @@
         "classes": {
             "Cofactors": {
                 "Cofactor_transport": []
+            },
+            "Transport": {
+                "Cofactor_transport": []
             }
         },
         "features": [],
@@ -3802,6 +3815,9 @@
         ],
         "classes": {
             "Central Carbon": {
+                "Carbohydrate_transport": []
+            },
+            "Transport": {
                 "Carbohydrate_transport": []
             }
         },
@@ -4241,7 +4257,11 @@
             "Cofactor_transport",
             "Folate_biosynthesis"
         ],
-        "classes": {},
+        "classes": {
+            "Transport": {
+                "Cofactor_transport": []
+            }
+        },
         "features": [
             "Athaliana_TAIR10||AT1G30400",
             "Athaliana_TAIR10||AT2G32040",
@@ -4317,7 +4337,11 @@
             "Cofactor_transport",
             "Folate_biosynthesis"
         ],
-        "classes": {},
+        "classes": {
+            "Transport": {
+                "Cofactor_transport": []
+            }
+        },
         "features": [
             "Athaliana_TAIR10||AT1G30400",
             "Athaliana_TAIR10||AT2G32040",
@@ -4393,7 +4417,11 @@
             "Cofactor_transport",
             "Folate_biosynthesis"
         ],
-        "classes": {},
+        "classes": {
+            "Transport": {
+                "Cofactor_transport": []
+            }
+        },
         "features": [
             "Athaliana_TAIR10||AT1G30400",
             "Athaliana_TAIR10||AT2G32040",
@@ -4469,7 +4497,11 @@
             "Cofactor_transport",
             "Folate_biosynthesis"
         ],
-        "classes": {},
+        "classes": {
+            "Transport": {
+                "Cofactor_transport": []
+            }
+        },
         "features": [
             "Athaliana_TAIR10||AT1G30400",
             "Athaliana_TAIR10||AT2G32040",
@@ -5331,6 +5363,9 @@
         "classes": {
             "Cofactors": {
                 "Cofactor_transport": []
+            },
+            "Transport": {
+                "Cofactor_transport": []
             }
         },
         "features": [],
@@ -5735,6 +5770,9 @@
         ],
         "classes": {
             "Cofactors": {
+                "Cofactor_transport": []
+            },
+            "Transport": {
                 "Cofactor_transport": []
             }
         },
@@ -6201,6 +6239,9 @@
         ],
         "classes": {
             "Cofactors": {
+                "Cofactor_transport": []
+            },
+            "Transport": {
                 "Cofactor_transport": []
             }
         },
@@ -7672,6 +7713,9 @@
         "classes": {
             "Central Carbon": {
                 "Amino_acid_transport": []
+            },
+            "Transport": {
+                "Amino_acid_transport": []
             }
         },
         "features": [],
@@ -8547,7 +8591,11 @@
         "subsystems": [
             "Media_transport"
         ],
-        "classes": {},
+        "classes": {
+            "Transport": {
+                "Media_transport": []
+            }
+        },
         "features": [],
         "reactions": [
             "rxn09736"
@@ -8991,6 +9039,9 @@
         "classes": {
             "Central Carbon": {
                 "Amino_acid_transport": []
+            },
+            "Transport": {
+                "Amino_acid_transport": []
             }
         },
         "features": [],
@@ -9329,6 +9380,9 @@
         "classes": {
             "Central Carbon": {
                 "Amino_acid_transport": []
+            },
+            "Transport": {
+                "Amino_acid_transport": []
             }
         },
         "features": [],
@@ -9574,6 +9628,9 @@
         ],
         "classes": {
             "Central Carbon": {
+                "Amino_acid_transport": []
+            },
+            "Transport": {
                 "Amino_acid_transport": []
             }
         },
@@ -10094,6 +10151,9 @@
         "classes": {
             "Central Carbon": {
                 "Carboxylate_transport": []
+            },
+            "Transport": {
+                "Carboxylate_transport": []
             }
         },
         "features": [],
@@ -10465,6 +10525,9 @@
         "classes": {
             "Cofactors": {
                 "Biotin_biosynthesis": []
+            },
+            "Transport": {
+                "Cofactor_transport": []
             }
         },
         "features": [],
@@ -11385,7 +11448,11 @@
         "subsystems": [
             "Media_transport"
         ],
-        "classes": {},
+        "classes": {
+            "Transport": {
+                "Media_transport": []
+            }
+        },
         "features": [],
         "reactions": [
             "rxn05467"
@@ -11448,6 +11515,9 @@
         ],
         "classes": {
             "Central Carbon": {
+                "Carboxylate_transport": []
+            },
+            "Transport": {
                 "Carboxylate_transport": []
             }
         },
@@ -11910,7 +11980,11 @@
         "subsystems": [
             "Media_transport"
         ],
-        "classes": {},
+        "classes": {
+            "Transport": {
+                "Media_transport": []
+            }
+        },
         "features": [],
         "reactions": [
             "rxn08233"
@@ -12233,6 +12307,9 @@
         "classes": {
             "Central Carbon": {
                 "Amino_acid_transport": []
+            },
+            "Transport": {
+                "Amino_acid_transport": []
             }
         },
         "features": [],
@@ -12547,6 +12624,9 @@
         "classes": {
             "Central Carbon": {
                 "Carboxylate_transport": []
+            },
+            "Transport": {
+                "Carboxylate_transport": []
             }
         },
         "features": [],
@@ -12611,6 +12691,9 @@
         ],
         "classes": {
             "Cofactors": {
+                "Cofactor_transport": []
+            },
+            "Transport": {
                 "Cofactor_transport": []
             }
         },
@@ -13400,6 +13483,9 @@
         ],
         "classes": {
             "Central Carbon": {
+                "Amino_acid_transport": []
+            },
+            "Transport": {
                 "Amino_acid_transport": []
             }
         },
@@ -16320,6 +16406,9 @@
         "classes": {
             "Central Carbon": {
                 "Carboxylate_transport": []
+            },
+            "Transport": {
+                "Carboxylate_transport": []
             }
         },
         "features": [],
@@ -16384,6 +16473,9 @@
         ],
         "classes": {
             "Cofactors": {
+                "Cofactor_transport": []
+            },
+            "Transport": {
                 "Cofactor_transport": []
             }
         },
@@ -17290,6 +17382,9 @@
         "classes": {
             "Cofactors": {
                 "Cofactor_transport": []
+            },
+            "Transport": {
+                "Cofactor_transport": []
             }
         },
         "features": [],
@@ -17542,6 +17637,9 @@
         ],
         "classes": {
             "Central Carbon": {
+                "Fatty_acid_transport": []
+            },
+            "Transport": {
                 "Fatty_acid_transport": []
             }
         },
@@ -18419,6 +18517,9 @@
         "classes": {
             "Central Carbon": {
                 "Carboxylate_transport": []
+            },
+            "Transport": {
+                "Carboxylate_transport": []
             }
         },
         "features": [],
@@ -19011,6 +19112,9 @@
         ],
         "classes": {
             "Central Carbon": {
+                "Carboxylate_transport": []
+            },
+            "Transport": {
                 "Carboxylate_transport": []
             }
         },
@@ -20661,6 +20765,9 @@
         "classes": {
             "Central Carbon": {
                 "Amino_acid_transport": []
+            },
+            "Transport": {
+                "Amino_acid_transport": []
             }
         },
         "features": [],
@@ -21100,6 +21207,9 @@
         "classes": {
             "Central Carbon": {
                 "Amino_acid_transport": []
+            },
+            "Transport": {
+                "Amino_acid_transport": []
             }
         },
         "features": [],
@@ -21431,6 +21541,9 @@
         "classes": {
             "Central Carbon": {
                 "Carboxylate_transport": []
+            },
+            "Transport": {
+                "Carboxylate_transport": []
             }
         },
         "features": [],
@@ -21495,6 +21608,9 @@
         ],
         "classes": {
             "Central Carbon": {
+                "Carboxylate_transport": []
+            },
+            "Transport": {
                 "Carboxylate_transport": []
             }
         },
@@ -22008,6 +22124,9 @@
         "classes": {
             "Central Carbon": {
                 "Amino_acid_transport": []
+            },
+            "Transport": {
+                "Amino_acid_transport": []
             }
         },
         "features": [],
@@ -22203,6 +22322,9 @@
         "classes": {
             "Central Carbon": {
                 "Carboxylate_transport": []
+            },
+            "Transport": {
+                "Carboxylate_transport": []
             }
         },
         "features": [],
@@ -22267,6 +22389,9 @@
         ],
         "classes": {
             "Central Carbon": {
+                "Carboxylate_transport": []
+            },
+            "Transport": {
                 "Carboxylate_transport": []
             }
         },
@@ -22466,6 +22591,9 @@
             "Cofactors": {
                 "Cofactor_transport": [],
                 "Sulfur_metabolism": []
+            },
+            "Transport": {
+                "Cofactor_transport": []
             }
         },
         "features": [],
@@ -22680,6 +22808,9 @@
         ],
         "classes": {
             "Central Carbon": {
+                "Amino_acid_transport": []
+            },
+            "Transport": {
                 "Amino_acid_transport": []
             }
         },
@@ -23282,6 +23413,9 @@
         "classes": {
             "Amino acids": {
                 "Beta_alanine_biosynthesis": []
+            },
+            "Transport": {
+                "Cofactor_transport": []
             }
         },
         "features": [],
@@ -24769,6 +24903,9 @@
         "classes": {
             "Central Carbon": {
                 "Amino_acid_transport": []
+            },
+            "Transport": {
+                "Amino_acid_transport": []
             }
         },
         "features": [],
@@ -24924,6 +25061,9 @@
         "classes": {
             "Cofactors": {
                 "Biotin_biosynthesis": []
+            },
+            "Transport": {
+                "Cofactor_transport": []
             }
         },
         "features": [],
@@ -25580,6 +25720,9 @@
         "classes": {
             "Central Carbon": {
                 "Amino_acid_transport": []
+            },
+            "Transport": {
+                "Amino_acid_transport": []
             }
         },
         "features": [],
@@ -25642,7 +25785,11 @@
         "subsystems": [
             "Media_transport"
         ],
-        "classes": {},
+        "classes": {
+            "Transport": {
+                "Media_transport": []
+            }
+        },
         "features": [],
         "reactions": [
             "rxn31154"
@@ -26484,6 +26631,9 @@
         "classes": {
             "Central Carbon": {
                 "Amino_acid_transport": []
+            },
+            "Transport": {
+                "Amino_acid_transport": []
             }
         },
         "features": [],
@@ -26789,6 +26939,9 @@
         ],
         "classes": {
             "Central Carbon": {
+                "Carboxylate_transport": []
+            },
+            "Transport": {
                 "Carboxylate_transport": []
             }
         },
@@ -27310,6 +27463,9 @@
         ],
         "classes": {
             "Central Carbon": {
+                "Amino_acid_transport": []
+            },
+            "Transport": {
                 "Amino_acid_transport": []
             }
         },
@@ -28234,6 +28390,9 @@
         "classes": {
             "Central Carbon": {
                 "Carboxylate_transport": []
+            },
+            "Transport": {
+                "Carboxylate_transport": []
             }
         },
         "features": [
@@ -28712,6 +28871,9 @@
         "classes": {
             "Cofactors": {
                 "Niacin,_NAD_and_NADP_biosynthesis": []
+            },
+            "Transport": {
+                "Cofactor_transport": []
             }
         },
         "features": [
@@ -31860,7 +32022,11 @@
         "subsystems": [
             "Media_transport"
         ],
-        "classes": {},
+        "classes": {
+            "Transport": {
+                "Media_transport": []
+            }
+        },
         "features": [],
         "reactions": [
             "rxn09005"
@@ -31921,7 +32087,11 @@
         "subsystems": [
             "Media_transport"
         ],
-        "classes": {},
+        "classes": {
+            "Transport": {
+                "Media_transport": []
+            }
+        },
         "features": [],
         "reactions": [
             "rxn08999"
@@ -32881,6 +33051,9 @@
         "classes": {
             "Central Carbon": {
                 "Amino_acid_transport": []
+            },
+            "Transport": {
+                "Amino_acid_transport": []
             }
         },
         "features": [],
@@ -33080,6 +33253,9 @@
         ],
         "classes": {
             "Central Carbon": {
+                "Carboxylate_transport": []
+            },
+            "Transport": {
                 "Carboxylate_transport": []
             }
         },
@@ -33302,7 +33478,11 @@
         "subsystems": [
             "Media_transport"
         ],
-        "classes": {},
+        "classes": {
+            "Transport": {
+                "Media_transport": []
+            }
+        },
         "features": [],
         "reactions": [
             "rxn05468"
@@ -33379,6 +33559,9 @@
         "classes": {
             "Cofactors": {
                 "Pyridoxine_(vitamin_B6)_biosynthesis": []
+            },
+            "Transport": {
+                "Cofactor_transport": []
             }
         },
         "features": [],
@@ -34125,6 +34308,9 @@
         "classes": {
             "Central Carbon": {
                 "Amino_acid_transport": []
+            },
+            "Transport": {
+                "Amino_acid_transport": []
             }
         },
         "features": [],
@@ -34259,7 +34445,11 @@
         "subsystems": [
             "Media_transport"
         ],
-        "classes": {},
+        "classes": {
+            "Transport": {
+                "Media_transport": []
+            }
+        },
         "features": [],
         "reactions": [
             "rxn09121"
@@ -35225,6 +35415,9 @@
         ],
         "classes": {
             "Central Carbon": {
+                "Carboxylate_transport": []
+            },
+            "Transport": {
                 "Carboxylate_transport": []
             }
         },
@@ -38490,6 +38683,9 @@
         "classes": {
             "Cofactors": {
                 "Cofactor_transport": []
+            },
+            "Transport": {
+                "Cofactor_transport": []
             }
         },
         "features": [],
@@ -38772,7 +38968,11 @@
         "subsystems": [
             "Media_transport"
         ],
-        "classes": {},
+        "classes": {
+            "Transport": {
+                "Media_transport": []
+            }
+        },
         "features": [],
         "reactions": [
             "rxn05206"
@@ -39064,6 +39264,9 @@
         "classes": {
             "Central Carbon": {
                 "Amino_acid_transport": []
+            },
+            "Transport": {
+                "Amino_acid_transport": []
             }
         },
         "features": [],
@@ -39202,7 +39405,11 @@
         "subsystems": [
             "Media_transport"
         ],
-        "classes": {},
+        "classes": {
+            "Transport": {
+                "Media_transport": []
+            }
+        },
         "features": [],
         "reactions": [
             "rxn08730"
@@ -40080,7 +40287,11 @@
         "subsystems": [
             "Media_transport"
         ],
-        "classes": {},
+        "classes": {
+            "Transport": {
+                "Media_transport": []
+            }
+        },
         "features": [],
         "reactions": [
             "rxn29733"
@@ -40753,6 +40964,9 @@
         "classes": {
             "Central Carbon": {
                 "Carboxylate_transport": []
+            },
+            "Transport": {
+                "Carboxylate_transport": []
             }
         },
         "features": [],
@@ -41077,6 +41291,9 @@
         ],
         "classes": {
             "Cofactors": {
+                "Cofactor_transport": []
+            },
+            "Transport": {
                 "Cofactor_transport": []
             }
         },
@@ -41730,6 +41947,9 @@
         "classes": {
             "Cofactors": {
                 "Biotin_biosynthesis": []
+            },
+            "Transport": {
+                "Cofactor_transport": []
             }
         },
         "features": [],
@@ -41770,6 +41990,9 @@
         ],
         "classes": {
             "Cofactors": {
+                "Cofactor_transport": []
+            },
+            "Transport": {
                 "Cofactor_transport": []
             }
         },
@@ -41823,6 +42046,9 @@
         ],
         "classes": {
             "Cofactors": {
+                "Cofactor_transport": []
+            },
+            "Transport": {
                 "Cofactor_transport": []
             }
         },
@@ -42409,6 +42635,9 @@
         ],
         "classes": {
             "Central Carbon": {
+                "Amino_acid_transport": []
+            },
+            "Transport": {
                 "Amino_acid_transport": []
             }
         },
@@ -43079,6 +43308,9 @@
         ],
         "classes": {
             "Cofactors": {
+                "Cofactor_transport": []
+            },
+            "Transport": {
                 "Cofactor_transport": []
             }
         },
@@ -44606,6 +44838,9 @@
         "classes": {
             "Central Carbon": {
                 "Carboxylate_transport": []
+            },
+            "Transport": {
+                "Carboxylate_transport": []
             }
         },
         "features": [],
@@ -44933,7 +45168,11 @@
         "subsystems": [
             "Media_transport"
         ],
-        "classes": {},
+        "classes": {
+            "Transport": {
+                "Media_transport": []
+            }
+        },
         "features": [],
         "reactions": [
             "rxn09275"
@@ -45252,7 +45491,11 @@
         "subsystems": [
             "Media_transport"
         ],
-        "classes": {},
+        "classes": {
+            "Transport": {
+                "Media_transport": []
+            }
+        },
         "features": [],
         "reactions": [
             "rxn05238"
@@ -45419,7 +45662,11 @@
             "Cofactor_transport",
             "Folate_biosynthesis"
         ],
-        "classes": {},
+        "classes": {
+            "Transport": {
+                "Cofactor_transport": []
+            }
+        },
         "features": [
             "Athaliana_TAIR10||AT1G30400",
             "Athaliana_TAIR10||AT2G32040",
@@ -45496,6 +45743,9 @@
         ],
         "classes": {
             "Cofactors": {
+                "Cofactor_transport": []
+            },
+            "Transport": {
                 "Cofactor_transport": []
             }
         },
@@ -45588,6 +45838,9 @@
         ],
         "classes": {
             "Cofactors": {
+                "Cofactor_transport": []
+            },
+            "Transport": {
                 "Cofactor_transport": []
             }
         },
@@ -46057,6 +46310,9 @@
         ],
         "classes": {
             "Central Carbon": {
+                "Amino_acid_transport": []
+            },
+            "Transport": {
                 "Amino_acid_transport": []
             }
         },
@@ -46834,6 +47090,9 @@
         "classes": {
             "Central Carbon": {
                 "Amino_acid_transport": []
+            },
+            "Transport": {
+                "Amino_acid_transport": []
             }
         },
         "features": [],
@@ -47002,6 +47261,9 @@
         ],
         "classes": {
             "Central Carbon": {
+                "Amino_acid_transport": []
+            },
+            "Transport": {
                 "Amino_acid_transport": []
             }
         },
@@ -48445,6 +48707,9 @@
         "classes": {
             "Cofactors": {
                 "Cofactor_transport": []
+            },
+            "Transport": {
+                "Cofactor_transport": []
             }
         },
         "features": [],
@@ -48578,6 +48843,9 @@
         "classes": {
             "Amino acids": {
                 "Beta_alanine_biosynthesis": []
+            },
+            "Transport": {
+                "Cofactor_transport": []
             }
         },
         "features": [],
@@ -48616,7 +48884,11 @@
         "subsystems": [
             "Media_transport"
         ],
-        "classes": {},
+        "classes": {
+            "Transport": {
+                "Media_transport": []
+            }
+        },
         "features": [],
         "reactions": [
             "rxn05667"
@@ -49401,6 +49673,9 @@
         "classes": {
             "Central Carbon": {
                 "Amino_acid_transport": []
+            },
+            "Transport": {
+                "Amino_acid_transport": []
             }
         },
         "features": [],
@@ -49705,7 +49980,11 @@
         "subsystems": [
             "Media_transport"
         ],
-        "classes": {},
+        "classes": {
+            "Transport": {
+                "Media_transport": []
+            }
+        },
         "features": [],
         "reactions": [
             "rxn05319"
@@ -50099,6 +50378,9 @@
         "classes": {
             "Central Carbon": {
                 "Carbohydrate_transport": []
+            },
+            "Transport": {
+                "Carbohydrate_transport": []
             }
         },
         "features": [],
@@ -50140,6 +50422,9 @@
         "classes": {
             "Central Carbon": {
                 "Carbohydrate_transport": []
+            },
+            "Transport": {
+                "Carbohydrate_transport": []
             }
         },
         "features": [],
@@ -50180,6 +50465,9 @@
         ],
         "classes": {
             "Central Carbon": {
+                "Carboxylate_transport": []
+            },
+            "Transport": {
                 "Carboxylate_transport": []
             }
         },
@@ -51777,6 +52065,9 @@
             "Cofactors": {
                 "Pyridoxine_(vitamin_B6)_biosynthesis": [],
                 "Cofactor_transport": []
+            },
+            "Transport": {
+                "Cofactor_transport": []
             }
         },
         "features": [],
@@ -51817,6 +52108,9 @@
         ],
         "classes": {
             "": {
+                "Media_transport": []
+            },
+            "Transport": {
                 "Media_transport": []
             }
         },
